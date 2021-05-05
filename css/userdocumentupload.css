@@ -1,0 +1,502 @@
+/* screen - userdocumentupload */
+body {
+  margin: 0;
+  background: rgba(255, 255, 255, 1);
+}
+
+.userdocumentupload {
+  align-items: flex-start;
+  background-color: rgba(255,255,255,1.0);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 1758px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.userdocumentupload .black-top-rectangle-pqRchW {
+  background-color: rgba(4,27,45,1.0);
+  height: 36px;
+  left: 2px;
+  position: absolute;
+  top: 304px;
+  width: 1734px;
+}
+.userdocumentupload .black-top-rectangle-y1HRxC {
+  background-color: rgba(4,27,45,1.0);
+  height: 37px;
+  left: 10px;
+  position: absolute;
+  top: 304px;
+  width: 1920px;
+}
+.userdocumentupload .swaps-fx-user-guide-y1HRxC {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 378px;
+  white-space: nowrap;
+  width: auto;
+}
+.userdocumentupload .click-delete-ic-ve-the-document-2eLxbt {
+  background-color: transparent;
+  bottom: calc(42.02% - 12px);
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 266px);
+}
+.userdocumentupload .click-on-docume-to-open-section-2eLxbt {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(26.89% - 8px);
+  white-space: nowrap;
+  width: 435px;
+}
+.userdocumentupload .click-on-docume-to-open-section-TwzCqN {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(26.89% - 8px);
+  white-space: nowrap;
+  width: 435px;
+}
+.userdocumentupload .click-the-wheel-ilable-settings-2eLxbt {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
+.userdocumentupload .click-the-wheel-ilable-settings-TwzCqN {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
+.userdocumentupload .ellipse-44-2eLxbt {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.userdocumentupload .ellipse-44-TwzCqN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.userdocumentupload .ellipse-45-2eLxbt {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(32.39% - 2px);
+  width: 6px;
+}
+.userdocumentupload .ellipse-45-TwzCqN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(32.39% - 2px);
+  width: 6px;
+}
+.userdocumentupload .ellipse-46-2eLxbt {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: calc(41.55% - 2px);
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userdocumentupload .ellipse-46-TwzCqN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: calc(41.55% - 2px);
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userdocumentupload .ellipse-47-2eLxbt {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: 22px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userdocumentupload .ellipse-47-TwzCqN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: 22px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userdocumentupload .everything-you-se-our-services-y1HRxC {
+  background-color: transparent;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 589px;
+  width: 350px;
+}
+.userdocumentupload .flex-col-C61RwL {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-right: -557px;
+  margin-top: -309px;
+  min-height: 866px;
+  position: relative;
+  width: 2288px;
+}
+.userdocumentupload .flex-col-Xi618D {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 204.0px;
+  margin-left: 107px;
+  min-height: 217px;
+  position: relative;
+  width: 816px;
+}
+.userdocumentupload .flex-col-dXBp89 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 677px;
+  position: relative;
+  width: 590px;
+}
+.userdocumentupload .flex-row-C61RwL {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 677px;
+  justify-content: flex-start;
+  margin-left: 102.0px;
+  margin-top: 41px;
+  min-width: 1513px;
+  position: relative;
+  width: auto;
+}
+.userdocumentupload .grey-back-y1HRxC {
+  background-color: rgba(238,238,238,1.0);
+  height: 419px;
+  left: 10px;
+  position: absolute;
+  top: 358px;
+  width: 1726px;
+}
+.userdocumentupload .group-19-y0eQTV {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 148px;
+  margin-top: 26px;
+  position: relative;
+  width: 801px;
+}
+.userdocumentupload .group-23-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 148px;
+  margin-left: 169px;
+  margin-top: 26px;
+  position: relative;
+  width: 801px;
+}
+.userdocumentupload .image-26-0PZcXW {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 509px;
+  object-fit: cover;
+  position: relative;
+  width: 582px;
+}
+.userdocumentupload .line-1-y1HRxC {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 418px;
+  width: 990px;
+}
+.userdocumentupload .line-8-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1px;
+  margin-left: 88.5px;
+  margin-top: 5px;
+  object-fit: cover;
+  position: relative;
+  width: 1599px;
+}
+.userdocumentupload .overlap-group-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 860px;
+  position: relative;
+  width: 2288px;
+}
+.userdocumentupload .remove-update-documents-0PZcXW {
+  background-color: transparent;
+  color: var(--nero);
+  flex-shrink: 1;
+  font-family: 'Oswald', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: 125px;
+  min-height: 43px;
+  min-width: 312px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.userdocumentupload .select-the-document-type-TwzCqN {
+  background-color: transparent;
+  bottom: calc(42.02% - 12px);
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 266px);
+}
+.userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  top: 503px;
+  white-space: nowrap;
+  width: auto;
+}
+.userdocumentupload .swaps-fx-user-guide-y1HRxC {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 378px;
+  white-space: nowrap;
+  width: auto;
+}
+.userdocumentupload .swapslogoimage-transparent-y1HRxC {
+  background-color: transparent;
+  height: 108px;
+  left: 573px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 105px;
+}
+.userdocumentupload .upload-or-drag-nd-save-changes-2eLxbt {
+  background-color: transparent;
+  bottom: 3px;
+  height: 39px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 253px);
+}
+.userdocumentupload .upload-or-drag-nd-save-changes-TwzCqN {
+  background-color: transparent;
+  bottom: 3px;
+  height: 39px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  width: 515px;
+}
+.userdocumentupload .upload-required-documents-y0eQTV {
+  background-color: transparent;
+  color: var(--nero);
+  flex-shrink: 1;
+  font-family: 'Oswald', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 43px;
+  min-width: 297px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.userdocumentupload .user-documents-y1HRxC {
+  background-color: transparent;
+  color: rgba(9,6,1,1.0);
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 818px;
+  white-space: nowrap;
+  width: auto;
+}
+.userdocumentupload .yellow-thin-rectangle-pqRchW {
+  background-color: rgba(249,166,2,1.0);
+  height: 8px;
+  left: 10px;
+  position: absolute;
+  top: 344px;
+  width: 1726px;
+}
+.userdocumentupload .yellow-thin-rectangle-y1HRxC {
+  background-color: rgba(249,166,2,1.0);
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 345px;
+  width: 1930px;
+}
+
+@media only screen and (max-width: 1200px) {
+
+ 
+}
+
+@media only screen and (min-width: 990px) {
+  
+}
+
+@media only screen and (max-width: 990px) {
+ 
+
+}
+
+@media only screen and (max-width: 700px) {
+ 
+}
+
+
+@media only screen and (max-width: 700px) {
+
+ 
+  
+ 
+}
+
+
+@media only screen and (max-width: 650px) {
+ 
+
+}
+
+
+@media only screen and (max-width: 480px) {
+  
+
+}

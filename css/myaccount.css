@@ -1,0 +1,255 @@
+/* screen - myaccount */
+
+.myaccount {
+  align-items: center;
+  background-color: rgba(255,255,255,1.0);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 1693px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1725px;
+}
+.myaccount .black-top-rectangle-4eduM0 {
+  background-color: rgba(4,27,45,1.0);
+  height: 37px;
+  left: 10px;
+  position: absolute;
+  top: 304px;
+  width: 1920px;
+}
+.myaccount .black-top-rectangle-BJQsbv {
+  background-color: rgba(4,27,45,1.0);
+  height: 36px;
+  left: 2px;
+  position: absolute;
+  top: 304px;
+  width: 1734px;
+}
+.myaccount .deposit-add-funds-j2aF3b {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
+.myaccount .ellipse-10-j2aF3b {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: 12px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.myaccount .ellipse-9-j2aF3b {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.myaccount .everything-you-se-our-services-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 589px;
+  width: 350px;
+}
+.myaccount .grey-back-4eduM0 {
+  background-color: rgba(238,238,238,1.0);
+  height: 419px;
+  left: 10px;
+  position: absolute;
+  top: 358px;
+  width: 1726px;
+}
+.myaccount .group-2-C61RwL {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 189px;
+  margin-left: 184px;
+  margin-top: 28px;
+  position: relative;
+  width: 831px;
+}
+.myaccount .group-8-zUixHA {
+  background-color: transparent;
+  bottom: 0px;
+  height: 84px;
+  left: 51px;
+  position: absolute;
+  width: 197px;
+}
+.myaccount .image-12-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 676px;
+  margin-left: 61.0px;
+  margin-top: 13px;
+  object-fit: cover;
+  position: relative;
+  width: 1416px;
+}
+.myaccount .line-1-4eduM0 {
+  background-color: transparent;
+  height: 1px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 418px;
+  width: 1604px;
+}
+.myaccount .line-8-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1px;
+  margin-left: 31.0px;
+  margin-top: 5px;
+  object-fit: cover;
+  position: relative;
+  width: 1599px;
+}
+.myaccount .my-account-management-4eduM0 {
+  background-color: transparent;
+  color: rgba(9,6,1,1.0);
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 818px;
+  white-space: nowrap;
+  width: auto;
+}
+.myaccount .one-stop-view-o-nts-by-currency-zUixHA {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'Oswald', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 300;
+  height: 49px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 536px;
+}
+.myaccount .overlap-group-C61RwL {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 860px;
+  margin-right: -553px;
+  margin-top: -304px;
+  position: relative;
+  width: 2288px;
+}
+.myaccount .swaps-fx-portal-user-guide-4eduM0 {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  top: 503px;
+  white-space: nowrap;
+  width: auto;
+}
+.myaccount .swaps-fx-user-guide-4eduM0 {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 378px;
+  white-space: nowrap;
+  width: auto;
+}
+.myaccount .swapslogoimage-transparent-4eduM0 {
+  background-color: transparent;
+  height: 838px;
+  left: 573px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1715px;
+}
+.myaccount .withdraw-funds-j2aF3b {
+  background-color: transparent;
+  bottom: 3px;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 53px);
+}
+.myaccount .yellow-thin-rectangle-4eduM0 {
+  background-color: rgba(249,166,2,1.0);
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 345px;
+  width: 1930px;
+}
+.myaccount .yellow-thin-rectangle-BJQsbv {
+  background-color: rgba(249,166,2,1.0);
+  height: 8px;
+  left: 10px;
+  position: absolute;
+  top: 344px;
+  width: 1726px;
+}
+.myaccount .you-can-manage-s-from-one-page-zUixHA {
+  background-color: transparent;
+  height: 29px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.62% - 10px);
+  white-space: nowrap;
+  width: calc(100.00% - 21px);
+}

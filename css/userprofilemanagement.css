@@ -1,0 +1,1032 @@
+/* screen - userprofilemanagement */
+
+.userprofilemanagement {
+  align-items: center;
+  background-color: rgba(255,255,255,1.0);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 2994px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1726px;
+}
+.userprofilemanagement .advanced-profile-management-O8Us0i {
+  background-color: transparent;
+  color: var(--nero);
+  flex-shrink: 1;
+  font-family: 'Oswald', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  margin-top: 1.0px;
+  min-height: 49px;
+  min-width: 363px;
+  position: relative;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  white-space: nowrap;
+  width: auto;
+}
+.userprofilemanagement .black-top-rectangle-3XVj4X {
+  background-color: rgba(4,27,45,1.0);
+  height: 36px;
+  left: 2px;
+  position: absolute;
+  top: 304px;
+  width: 1734px;
+}
+.userprofilemanagement .black-top-rectangle-O40pOL {
+  background-color: rgba(4,27,45,1.0);
+  height: 37px;
+  left: 10px;
+  position: absolute;
+  top: 304px;
+  width: 1920px;
+}
+.userprofilemanagement .check-your-preferred-option-aax5kZ {
+  background-color: transparent;
+  bottom: calc(36.70% - 11px);
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 258px;
+}
+.userprofilemanagement .click-on-delete-account-wqPdGv {
+  background-color: transparent;
+  bottom: calc(22.29% - 7px);
+  height: 30px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 264px;
+}
+.userprofilemanagement .click-on-passwo-manage-password-TwzCqN {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.36% - 9px);
+  white-space: nowrap;
+  width: 366px;
+}
+.userprofilemanagement .click-on-profil-view-my-details-i2e62Q {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.36% - 9px);
+  white-space: nowrap;
+  width: 317px;
+}
+.userprofilemanagement .click-on-profile-6A2EKN {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.23% - 10px);
+  white-space: nowrap;
+  width: 150px;
+}
+.userprofilemanagement .click-on-profile-wqPdGv {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.23% - 10px);
+  white-space: nowrap;
+  width: 150px;
+}
+.userprofilemanagement .click-on-request-data-6A2EKN {
+  background-color: transparent;
+  bottom: calc(22.73% - 7px);
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 211px;
+}
+.userprofilemanagement .click-save-chan-change-was-made-TwzCqN {
+  background-color: transparent;
+  bottom: 3px;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 367px;
+}
+.userprofilemanagement .click-save-chan-change-was-made-i2e62Q {
+  background-color: transparent;
+  bottom: 3px;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 367px;
+}
+.userprofilemanagement .click-settings-aax5kZ {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.36% - 9px);
+  white-space: nowrap;
+  width: 136px;
+}
+.userprofilemanagement .click-the-wheel-ilable-settings-6A2EKN {
+  background-color: transparent;
+  height: 59px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  width: calc(100.00% - 14px);
+}
+.userprofilemanagement .click-the-wheel-ilable-settings-TwzCqN {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
+.userprofilemanagement .click-the-wheel-ilable-settings-i2e62Q {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
+.userprofilemanagement .click-the-wheel-ilable-settings-wqPdGv {
+  background-color: transparent;
+  height: 59px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  width: calc(100.00% - 14px);
+}
+.userprofilemanagement .click-the-wheel-r-of-the-portal-aax5kZ {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
+.userprofilemanagement .confirm-accept-notice-6A2EKN {
+  background-color: transparent;
+  bottom: 3px;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 209px;
+}
+.userprofilemanagement .confirm-accept-notice-wqPdGv {
+  background-color: transparent;
+  bottom: 3px;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 209px;
+}
+.userprofilemanagement .delete-account-PNnH4c {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 43px;
+  min-width: 156px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.userprofilemanagement .ellipse-40-i2e62Q {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-41-i2e62Q {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(34.85% - 2px);
+  width: 6px;
+}
+.userprofilemanagement .ellipse-42-i2e62Q {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: calc(37.12% - 2px);
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-43-i2e62Q {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: 12px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-44-TwzCqN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-45-TwzCqN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(34.85% - 2px);
+  width: 6px;
+}
+.userprofilemanagement .ellipse-46-TwzCqN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: calc(37.12% - 2px);
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-47-TwzCqN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: 12px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-48-aax5kZ {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-49-aax5kZ {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(34.85% - 2px);
+  width: 6px;
+}
+.userprofilemanagement .ellipse-50-aax5kZ {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: calc(37.12% - 2px);
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-51-aax5kZ {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: 12px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-52-6A2EKN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-52-wqPdGv {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-53-6A2EKN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(38.19% - 2px);
+  width: 6px;
+}
+.userprofilemanagement .ellipse-53-wqPdGv {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(38.19% - 2px);
+  width: 6px;
+}
+.userprofilemanagement .ellipse-54-6A2EKN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: calc(43.22% - 3px);
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-54-wqPdGv {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: calc(43.22% - 3px);
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-55-6A2EKN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: calc(24.62% - 1px);
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-55-wqPdGv {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: calc(24.62% - 1px);
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-56-6A2EKN {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: 12px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userprofilemanagement .ellipse-56-wqPdGv {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: 12px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.userprofilemanagement .everything-you-se-our-services-O40pOL {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 589px;
+  width: 350px;
+}
+.userprofilemanagement .flex-col-0xy0vn {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 866px;
+  position: relative;
+  width: 2288px;
+}
+.userprofilemanagement .flex-col-3elYpP {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 262px;
+  position: relative;
+  width: 664px;
+}
+.userprofilemanagement .flex-col-APIgQa {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 72px;
+  position: relative;
+  width: 1599px;
+}
+.userprofilemanagement .flex-col-C61RwL {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-right: -552px;
+  margin-top: -304px;
+  min-height: 1350px;
+  position: relative;
+  width: 2288px;
+}
+.userprofilemanagement .flex-col-GyJUNH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 40.0px;
+  min-height: 198px;
+  position: relative;
+  width: 880px;
+}
+.userprofilemanagement .flex-col-NvvWoh {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 59px;
+  min-height: 258px;
+  position: relative;
+  width: 642px;
+}
+.userprofilemanagement .flex-col-VMr6Om {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 62.0px;
+  margin-top: 216px;
+  min-height: 817px;
+  position: relative;
+  width: 1599px;
+}
+.userprofilemanagement .flex-col-Xi618D {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 29px;
+  min-height: 778px;
+  position: relative;
+  width: 810px;
+}
+.userprofilemanagement .flex-col-dXBp89 {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 773px;
+  position: relative;
+  width: 581px;
+}
+.userprofilemanagement .flex-col-lcFreP {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 520px;
+  position: relative;
+  width: 1599px;
+}
+.userprofilemanagement .flex-row-0xy0vn {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 444px;
+  justify-content: flex-start;
+  margin-left: 194px;
+  margin-top: 39px;
+  min-width: 1464px;
+  position: relative;
+  width: auto;
+}
+.userprofilemanagement .flex-row-APIgQa {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 317px;
+  justify-content: flex-start;
+  margin-right: 81.0px;
+  margin-top: 58px;
+  min-width: 1285px;
+  position: relative;
+  width: auto;
+}
+.userprofilemanagement .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 851px;
+  justify-content: flex-start;
+  margin-left: 44.0px;
+  margin-top: 10px;
+  min-width: 1420px;
+  position: relative;
+  width: auto;
+}
+.userprofilemanagement .flex-row-lcFreP {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 270px;
+  justify-content: flex-start;
+  margin-right: 85.0px;
+  margin-top: 27px;
+  min-width: 1253px;
+  position: relative;
+  width: auto;
+}
+.userprofilemanagement .flex-row-mu6cJe {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 64px;
+  justify-content: flex-start;
+  margin-left: 68.5px;
+  min-width: 956px;
+  position: relative;
+  width: auto;
+}
+.userprofilemanagement .grey-back-O40pOL {
+  background-color: rgba(238,238,238,1.0);
+  height: 419px;
+  left: 10px;
+  position: absolute;
+  top: 358px;
+  width: 1726px;
+}
+.userprofilemanagement .group-18-3xHcwy {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 138px;
+  margin-top: 17px;
+  position: relative;
+  width: 801px;
+}
+.userprofilemanagement .group-19-y0eQTV {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 138px;
+  margin-top: 44px;
+  position: relative;
+  width: 801px;
+}
+.userprofilemanagement .group-20-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 138px;
+  margin-right: 7px;
+  margin-top: 14px;
+  position: relative;
+  width: 519px;
+}
+.userprofilemanagement .group-21-3TWxOt {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 205px;
+  margin-top: 14px;
+  position: relative;
+  width: 616px;
+}
+.userprofilemanagement .group-22-PNnH4c {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 205px;
+  margin-top: 10px;
+  position: relative;
+  width: 616px;
+}
+.userprofilemanagement .image-20-GyJUNH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 444px;
+  margin-left: 22px;
+  object-fit: cover;
+  position: relative;
+  width: 562px;
+}
+.userprofilemanagement .image-21-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 431px;
+  object-fit: cover;
+  position: relative;
+  width: 521px;
+}
+.userprofilemanagement .image-22-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 368px;
+  margin-top: 185px;
+  object-fit: cover;
+  position: relative;
+  width: 748px;
+}
+.userprofilemanagement .image-23-O8Us0i {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 64px;
+  margin-left: 26px;
+  object-fit: cover;
+  position: relative;
+  width: 567px;
+}
+.userprofilemanagement .image-24-3elYpP {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 302px;
+  margin-left: 66px;
+  object-fit: cover;
+  position: relative;
+  width: 555px;
+}
+.userprofilemanagement .image-25-NvvWoh {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 264px;
+  object-fit: cover;
+  position: relative;
+  width: 552px;
+}
+.userprofilemanagement .line-1-O40pOL {
+  background-color: transparent;
+  height: 1px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 418px;
+  width: 1604px;
+}
+.userprofilemanagement .line-12-mu6cJe {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1px;
+  margin-top: 6px;
+  object-fit: cover;
+  position: relative;
+  width: 1599px;
+}
+.userprofilemanagement .line-13-APIgQa {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1px;
+  margin-right: 42.0px;
+  margin-top: 71px;
+  object-fit: cover;
+  position: relative;
+  width: 866px;
+}
+.userprofilemanagement .line-8-xpmbvu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1px;
+  margin-left: 88.5px;
+  margin-top: 5px;
+  object-fit: cover;
+  position: relative;
+  width: 1599px;
+}
+.userprofilemanagement .manage-password-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-left: 9px;
+  min-height: 43px;
+  min-width: 248px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.userprofilemanagement .overlap-group-xpmbvu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 860px;
+  position: relative;
+  width: 2288px;
+}
+.userprofilemanagement .provide-the-nee-o-make-a-change-TwzCqN {
+  background-color: transparent;
+  bottom: calc(36.70% - 11px);
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 266px);
+}
+.userprofilemanagement .request-data-3TWxOt {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 43px;
+  min-width: 139px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.userprofilemanagement .save-changes-to-confirm-aax5kZ {
+  background-color: transparent;
+  bottom: 3px;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 219px;
+}
+.userprofilemanagement .scroll-to-the-f-of-the-section-6A2EKN {
+  background-color: transparent;
+  bottom: calc(43.75% - 13px);
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 294px;
+}
+.userprofilemanagement .scroll-to-the-f-of-the-section-wqPdGv {
+  background-color: transparent;
+  bottom: calc(43.75% - 13px);
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 294px;
+}
+.userprofilemanagement .settings-general-notifications-0PZcXW {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: 147px;
+  min-height: 43px;
+  min-width: 339px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.userprofilemanagement .swaps-fx-portal-user-guide-O40pOL {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  top: 503px;
+  white-space: nowrap;
+  width: auto;
+}
+.userprofilemanagement .swaps-fx-user-guide-O40pOL {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 378px;
+  white-space: nowrap;
+  width: auto;
+}
+.userprofilemanagement .swapslogoimage-transparent-O40pOL {
+  background-color: transparent;
+  height: 838px;
+  left: 573px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1715px;
+}
+.userprofilemanagement .user-profile-management-O40pOL {
+  background-color: transparent;
+  color: rgba(9,6,1,1.0);
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 818px;
+  white-space: nowrap;
+  width: auto;
+}
+.userprofilemanagement .view-make-changes-i2e62Q {
+  background-color: transparent;
+  bottom: calc(36.70% - 11px);
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 190px;
+}
+.userprofilemanagement .view-update-user-details-3xHcwy {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 43px;
+  min-width: 279px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.userprofilemanagement .yellow-thin-rectangle-3XVj4X {
+  background-color: rgba(249,166,2,1.0);
+  height: 8px;
+  left: 10px;
+  position: absolute;
+  top: 344px;
+  width: 1726px;
+}
+.userprofilemanagement .yellow-thin-rectangle-O40pOL {
+  background-color: rgba(249,166,2,1.0);
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 345px;
+  width: 1930px;
+}

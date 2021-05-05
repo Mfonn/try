@@ -1,0 +1,401 @@
+/* screen - sign-up */
+
+.sign-up {
+  background-color: rgba(255,255,255,1.0);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2287px;
+  min-width: 1696px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.sign-up .account-validation-C61RwL {
+  background-color: transparent;
+  bottom: 356px;
+  color: var(--nero);
+  font-family: 'Oswald', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 300;
+  height: 43px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(36.66% - 71px);
+  text-align: left;
+  white-space: nowrap;
+  width: 193px;
+}
+.sign-up .animate-enter {
+  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;
+}
+.sign-up .black-top-rectangle-C61RwL {
+  background-color: rgba(4,27,45,1.0);
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.sign-up .everything-you-se-our-services-vZhGO4 {
+  background-color: transparent;
+  color: var(--nero);
+  flex-shrink: 1;
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -3px;
+  min-height: 56px;
+  position: relative;
+  text-align: left;
+  width: 350px;
+}
+.sign-up .getting-started-C61RwL {
+  background-color: transparent;
+  color: rgba(9,6,1,1.0);
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: 43px;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(23.75% - 10px);
+  white-space: nowrap;
+  width: 170px;
+}
+.sign-up .grey-back-C61RwL {
+  background-color: rgba(238,238,238,1.0);
+  height: 419px;
+  left: 0px;
+  position: absolute;
+  top: 52px;
+  width: 100%;
+}
+.sign-up .group-1-C61RwL {
+  background-color: rgba(22,12,12,1.0);
+  bottom: -2px;
+  height: 52px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.sign-up .group-30-C61RwL {
+  background-color: transparent;
+  height: 249px;
+  position: absolute;
+  right: 11px;
+  top: calc(31.94% - 80px);
+  width: 763px;
+}
+.sign-up .image-1-C61RwL {
+  background-color: transparent;
+  border-radius: 6px;
+  display: block;
+  height: 361px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.05% - 112px);
+  width: 759px;
+opacity: 0;
+}
+.sign-up .image-2-C61RwL {
+  background-color: transparent;
+  bottom: calc(39.59% - 249px);
+  height: 630px;
+  object-fit: cover;
+  position: absolute;
+  right: 229px;
+  width: 505px;
+}
+.sign-up .image-3-C61RwL {
+  background-color: transparent;
+  bottom: 134px;
+  height: 421px;
+  left: calc(24.45% - 124px);
+  object-fit: cover;
+  position: absolute;
+  width: 506px;
+}
+.sign-up .line-1-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 114px;
+  width: calc(100.00% - 96px);
+}
+.sign-up .line-2-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 25.07%;
+  width: calc(100.00% - 96px);
+}
+.sign-up .line-3-C61RwL {
+  background-color: transparent;
+  bottom: calc(49.49% - 155px);
+  height: 314px;
+  left: calc(26.65% - 5px);
+  object-fit: cover;
+  position: absolute;
+  width: 19px;
+}
+.sign-up .line-4-C61RwL {
+  background-color: transparent;
+  bottom: calc(43.03% - 8px);
+  height: 19px;
+  left: calc(36.40% - 170px);
+  object-fit: cover;
+  position: absolute;
+  width: 468px;
+}
+.sign-up .line-6-C61RwL {
+  background-color: transparent;
+  bottom: calc(20.03% - 45px);
+  height: 223px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(27.48% - 5px);
+  width: 19px;
+}
+.sign-up .line-7-C61RwL {
+  background-color: transparent;
+  bottom: 412px;
+  height: 20px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(35.99% - 149px);
+  width: 415px;
+}
+.sign-up .polygon-1-C61RwL {
+  background-color: transparent;
+  bottom: calc(42.95% - 20px);
+  height: 47px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(45.33% - 26px);
+  width: 57px;
+}
+.sign-up .polygon-2-C61RwL {
+  background-color: transparent;
+  bottom: 398px;
+  height: 47px;
+  left: calc(48.93% - 28px);
+  object-fit: cover;
+  position: absolute;
+  width: 57px;
+}
+.sign-up .proceed-to-sign-in-VyzZeT {
+  background-color: transparent;
+  color: rgba(252,251,251,1.0);
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 3px);
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  right: calc(46.96% - 109px);
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  top: 0px;
+  white-space: nowrap;
+  width: 233px;
+}
+.sign-up .scroll-group-1-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 62px;
+  justify-content: flex-end;
+  left: 128px;
+  min-width: 357px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  position: absolute;
+  top: 306px;
+  width: auto;
+}
+.sign-up .scroll-group-1-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+.sign-up .scroll-group-2-C61RwL {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 140px;
+  justify-content: flex-end;
+  left: 108px;
+  min-width: 266px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  padding: 11px 28px;
+  position: absolute;
+  top: 166px;
+  width: auto;
+}
+.sign-up .scroll-group-2-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+.sign-up .sign-up-xxkKyh {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'Oswald', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 300;
+  height: 49px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 95px;
+}
+.sign-up .span0-oh4sro {
+  color: rgba(12,4,4,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.sign-up .span1-oh4sro {
+  color: rgba(12,4,4,1.0);
+  font-family: 'SegoeUI-Bold', Helvetica;
+  font-style: normal;
+  font-weight: 700;
+}
+.sign-up .span2-oh4sro {
+  color: rgba(12,4,4,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.sign-up .swaps-fx-portal-user-guide-ROslHN {
+  background-color: transparent;
+  color: var(--nero);
+  flex-shrink: 1;
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  min-height: 96px;
+  min-width: 202px;
+  position: relative;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  white-space: nowrap;
+  width: auto;
+}
+.sign-up .swaps-fx-user-guide-C61RwL {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 74px;
+  white-space: nowrap;
+  width: 223px;
+}
+.sign-up .swapslogoimage-transparent-C61RwL {
+  background-color: transparent;
+  height: 824px;
+  object-fit: cover;
+  position: absolute;
+  right: -511px;
+  top: -297px;
+  width: 1684px;
+}
+.sign-up .x1-a-one-time-to-ocess-completed-C61RwL {
+  background-color: transparent;
+  bottom: 234px;
+  color: var(--nero);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 119px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 765px;
+}
+.sign-up .x1-click-on-the-sign-up-button-xxkKyh {
+  background-color: transparent;
+  bottom: 3px;
+  color: var(--nero);
+  font-family: "Segoe UI", Helvetica;
+  font-size: 20px;
+  height: 149px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+.sign-up .yellow-thin-rectangle-C61RwL {
+  background-color: rgba(249,166,2,1.0);
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 40px;
+  width: 100%;
+}
+.sign-up .you-can-easily-following-steps-xxkKyh {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: calc(24.88% - 8px);
+  width: 586px;
+}
+@keyframes animate-enter-frames {
+
+from{opacity: 0;}
+to{opacity: 1;}
+}

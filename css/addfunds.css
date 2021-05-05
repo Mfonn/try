@@ -1,0 +1,670 @@
+/* screen - addfunds */
+.container-fluid {
+    width: 100%;
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.addfunds.screen {
+  margin: 0px;
+  width: 100%;
+}
+.addfunds {
+  align-items: flex-end;
+  background-color: rgba(255,255,255,1.0);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 2177px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1724px;
+}
+.addfunds .flex-col-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-right: 0px !important;
+  margin-top: -304px;
+  min-height: 10% !important;
+  width: 100% !important;
+}
+.addfunds .black-top-rectangle-pqRchW {
+  background-color: rgba(4,27,45,1.0);
+  height: 36px;
+  position: absolute;
+  top: 304px;
+  width: 100% !important;
+}
+.yellow-thin-rectangle-y1HRxC {
+  margin-top: -5px;
+  width: 100% !important;
+}
+.addfunds .grey-back-y1HRxC {
+  background-color: rgba(238,238,238,1.0);
+  height: 429px !important;
+  left: 0px !important;
+  position: absolute;
+  top: 348px !important;
+  width: 100% !important;
+}
+.addfunds .swapslogoimage {
+  background-color: transparent;
+  height: 478px !important;
+  left: 470px;
+  object-fit: cover;
+  position: absolute;
+  top: 300px;
+  width: 100% !important;
+  margin-left: 1106px;
+  
+}
+.addfunds .add-funds-y1HRxC {
+  background-color: transparent;
+  color: rgba(9,6,1,1.0);
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 818px;
+  white-space: nowrap;
+  width: auto;
+}
+.addfunds .adding-funds-to-ounts-made-easy-0PZcXW {
+  align-self: flex-start;
+  background-color: transparent;
+  color: var(--nero);
+  flex-shrink: 1;
+  font-family: 'Oswald', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  min-height: 49px;
+  min-width: 512px;
+  position: relative;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  white-space: nowrap;
+  width: auto;
+}
+.addfunds .automatic-payme-dit-debit-cards-0PZcXW {
+  background-color: transparent;
+  color: var(--nero);
+  flex-shrink: 1;
+  font-family: 'Oswald', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  margin-right: 101.0px;
+  margin-top: 162px;
+  min-height: 36px;
+  min-width: 437px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.addfunds .automatic-payme-for-transaction-aewt80 {
+  background-color: transparent;
+  bottom: -2px;
+  color: var(--licorice);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 57px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 26px);
+}
+.addfunds .black-top-rectangle-pqRchW {
+  background-color: rgba(4,27,45,1.0);
+  height: 36px;
+  left: 2px;
+  position: absolute;
+  top: 304px;
+  width: 1734px;
+}
+.addfunds .black-top-rectangle-y1HRxC {
+  background-color: rgba(4,27,45,1.0);
+  height: 37px;
+  left: 10px;
+  position: absolute;
+  top: 304px;
+  width: 1920px;
+}
+.addfunds .click-on-initia-eposit-to-begin-XawMdy {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(44.44% - 13px);
+  white-space: nowrap;
+  width: calc(100.00% - 65px);
+}
+.addfunds .click-on-the-wa-account-option-6G7QO0 {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
+.addfunds .click-on-the-wa-account-option-wcA9lP {
+  background-color: transparent;
+  height: 29px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 24px);
+}
+.addfunds .click-pay-yS0cYZ {
+  background-color: transparent;
+  bottom: calc(36.70% - 11px);
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 80px;
+}
+.addfunds .complete-the-re-ard-information-yS0cYZ {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.36% - 9px);
+  white-space: nowrap;
+  width: calc(100.00% - 119px);
+}
+.addfunds .confirm-deposit-e-prompt-window-XawMdy {
+  background-color: transparent;
+  bottom: 3px;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
+.addfunds .ellipse-13-6G7QO0 {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.addfunds .ellipse-14-6G7QO0 {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: 12px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.addfunds .ellipse-15-aewt80 {
+  background-color: var(--licorice);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.addfunds .ellipse-16-aewt80 {
+  background-color: var(--licorice);
+  border-radius: 3px;
+  bottom: calc(32.52% - 2px);
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.addfunds .ellipse-21-XawMdy {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.addfunds .ellipse-22-XawMdy {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(48.42% - 3px);
+  width: 6px;
+}
+.addfunds .ellipse-23-XawMdy {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: 12px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.addfunds .ellipse-24-yS0cYZ {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.addfunds .ellipse-25-yS0cYZ {
+  background-color: var(--nero);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(34.85% - 2px);
+  width: 6px;
+}
+.addfunds .ellipse-26-yS0cYZ {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: calc(37.12% - 2px);
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.addfunds .ellipse-27-yS0cYZ {
+  background-color: var(--nero);
+  border-radius: 3px;
+  bottom: 12px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.addfunds .enter-the-deposit-amount-value-XawMdy {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 89px);
+}
+.addfunds .everything-you-se-our-services-y1HRxC {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 589px;
+  width: 350px;
+}
+.addfunds .flex-col-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-right: -554px;
+  margin-top: -304px;
+  min-height: 866px;
+  position: relative;
+  width: 2288px;
+}
+.addfunds .flex-col-Xi618D {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 880px;
+  position: relative;
+  width: 530px;
+}
+.addfunds .flex-col-dXBp89 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 854px;
+  position: relative;
+  width: 732px;
+}
+.addfunds .flex-row-C61RwL {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 909px;
+  justify-content: flex-start;
+  margin-right: 44.0px;
+  margin-top: 57px;
+  min-width: 1312px;
+  position: relative;
+  width: auto;
+}
+.addfunds .grey-back-y1HRxC {
+  background-color: rgba(238,238,238,1.0);
+  height: 419px;
+  left: 10px;
+  position: absolute;
+  top: 358px;
+  width: 1726px;
+}
+.addfunds .group-10-0PZcXW {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 84px;
+  margin-left: 23px;
+  margin-top: 14px;
+  position: relative;
+  width: 604px;
+}
+.addfunds .group-11-0PZcXW {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 129px;
+  margin-top: 17px;
+  position: relative;
+  width: 712px;
+}
+.addfunds .group-12-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 138px;
+  margin-right: 17.0px;
+  margin-top: 10px;
+  position: relative;
+  width: 475px;
+}
+.addfunds .group-13-0PZcXW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 101px;
+  margin-right: 122.0px;
+  margin-top: 34px;
+  position: relative;
+  width: 370px;
+}
+.addfunds .group-9-0PZcXW {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 64px;
+  margin-right: 8px;
+  margin-top: 16px;
+  position: relative;
+  width: 614px;
+}
+.addfunds .image-13-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 455px;
+  object-fit: cover;
+  position: relative;
+  width: 530px;
+}
+.addfunds .image-14-y0eQTV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 237px;
+  margin-top: 188px;
+  object-fit: cover;
+  position: relative;
+  width: 511px;
+}
+.addfunds .image-15-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 415px;
+  margin-right: 228px;
+  margin-top: 132px;
+  object-fit: cover;
+  position: relative;
+  width: 811px;
+}
+.addfunds .line-1-y1HRxC {
+  background-color: transparent;
+  height: 1px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 418px;
+  width: 1604px;
+}
+.addfunds .line-8-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1px;
+  margin-left: 88.5px;
+  margin-top: 5px;
+  object-fit: cover;
+  position: relative;
+  width: 1599px;
+}
+.addfunds .manual-payments-nto-your-wallet-aewt80 {
+  background-color: transparent;
+  color: var(--licorice);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 56px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 14px);
+}
+.addfunds .overlap-group-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 860px;
+  position: relative;
+  width: 2288px;
+}
+.addfunds .select-the-paym-ent-by-currency-6G7QO0 {
+  background-color: transparent;
+  bottom: 3px;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 158px);
+}
+.addfunds .select-the-paym-ent-by-currency-wcA9lP {
+  background-color: transparent;
+  bottom: 3px;
+  height: 29px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 168px);
+}
+.addfunds .swaps-fx-portal-user-guide-y1HRxC {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  top: 503px;
+  white-space: nowrap;
+  width: auto;
+}
+.addfunds .swaps-fx-user-guide-y1HRxC {
+  background-color: transparent;
+  color: var(--nero);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 378px;
+  white-space: nowrap;
+  width: auto;
+}
+.addfunds .swapslogoimage {
+  background-color: transparent;
+  height: 488px;
+  left: 573px;
+  object-fit: cover;
+  position: absolute;
+  top: 300px;
+  width: 10%;
+  margin-left: 470px;
+  z-index: 999;
+}
+.addfunds .wait-to-see-this-window-yS0cYZ {
+  background-color: transparent;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: 212px;
+}
+.addfunds .x1-wcA9lP {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: 17px;
+}
+.addfunds .x2-wcA9lP {
+  background-color: transparent;
+  bottom: 3px;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+.addfunds .yellow-thin-rectangle-pqRchW {
+  background-color: rgba(249,166,2,1.0);
+  height: 8px;
+  left: 10px;
+  position: absolute;
+  top: 344px;
+  width: 1726px;
+}
+.addfunds .yellow-thin-rectangle-y1HRxC {
+  background-color: rgba(249,166,2,1.0);
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 345px;
+  width: 1930px;
+}
+.addfunds .you-will-be-red-tal-to-continue-yS0cYZ {
+  background-color: transparent;
+  bottom: 3px;
+  height: 29px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
+}
