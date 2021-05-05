@@ -1,28 +1,38 @@
 /* screen - addfunds */
-.container-fluid {
-    width: 100%;
-    width: 100%;
-    padding-left: 0px;
-    padding-right: 0px;
-    margin-right: 0px;
-    margin-left: 0px;
+.container-center-vertical, .container-center-horizontal {
+  flex-direction: column;
 }
-.addfunds.screen {
-  margin: 0px;
-  width: 100%;
-}
+
 .addfunds {
   align-items: flex-end;
   background-color: rgba(255,255,255,1.0);
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  height: 2177px;
+  height: auto;
   justify-content: flex-start;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1724px;
+  width: 100%;
+}
+
+.addfunds .add-funds-y1HRxC {
+  background-color: transparent;
+  color: rgba(9,6,1,1.0);
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: bolder;
+  height: auto;
+  margin-left: 7%;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: left;
+  top: 32px;
+  white-space: nowrap;
+  width: auto;
 }
 .addfunds .flex-col-C61RwL {
   align-items: flex-start;
@@ -33,57 +43,9 @@
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  margin-right: 0px !important;
-  margin-top: -304px;
-  min-height: 10% !important;
-  width: 100% !important;
-}
-.addfunds .black-top-rectangle-pqRchW {
-  background-color: rgba(4,27,45,1.0);
-  height: 36px;
-  position: absolute;
-  top: 304px;
-  width: 100% !important;
-}
-.yellow-thin-rectangle-y1HRxC {
-  margin-top: -5px;
-  width: 100% !important;
-}
-.addfunds .grey-back-y1HRxC {
-  background-color: rgba(238,238,238,1.0);
-  height: 429px !important;
-  left: 0px !important;
-  position: absolute;
-  top: 348px !important;
-  width: 100% !important;
-}
-.addfunds .swapslogoimage {
-  background-color: transparent;
-  height: 478px !important;
-  left: 470px;
-  object-fit: cover;
-  position: absolute;
-  top: 300px;
-  width: 100% !important;
-  margin-left: 1106px;
-  
-}
-.addfunds .add-funds-y1HRxC {
-  background-color: transparent;
-  color: rgba(9,6,1,1.0);
-  font-family: 'OswaldRegular-Regular', Helvetica;
-  font-size: 30px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 138px;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: absolute;
-  text-align: left;
-  top: 818px;
-  white-space: nowrap;
-  width: auto;
+  top: 0px;
+  position: relative;
+  width: 100%;
 }
 .addfunds .adding-funds-to-ounts-made-easy-0PZcXW {
   align-self: flex-start;
@@ -97,13 +59,12 @@
   height: auto;
   letter-spacing: 0.00px;
   line-height: 35px;
-  min-height: 49px;
-  min-width: 512px;
   position: relative;
   text-align: left;
-  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  text-shadow: 0px 3px 6px rgb(0 0 0 / 16%);
   white-space: nowrap;
   width: auto;
+  
 }
 .addfunds .automatic-payme-dit-debit-cards-0PZcXW {
   background-color: transparent;
@@ -116,13 +77,8 @@
   height: auto;
   letter-spacing: 0.00px;
   line-height: 25px;
-  margin-right: 101.0px;
-  margin-top: 162px;
-  min-height: 36px;
-  min-width: 437px;
-  position: relative;
+  margin-top: 197px;
   text-align: left;
-  white-space: nowrap;
   width: auto;
 }
 .addfunds .automatic-payme-for-transaction-aewt80 {
@@ -141,21 +97,13 @@
   text-align: left;
   width: calc(100.00% - 26px);
 }
-.addfunds .black-top-rectangle-pqRchW {
-  background-color: rgba(4,27,45,1.0);
-  height: 36px;
-  left: 2px;
-  position: absolute;
-  top: 304px;
-  width: 1734px;
-}
+
 .addfunds .black-top-rectangle-y1HRxC {
   background-color: rgba(4,27,45,1.0);
   height: 37px;
-  left: 10px;
   position: absolute;
-  top: 304px;
-  width: 1920px;
+  width: 100%;
+  top: 0px;
 }
 .addfunds .click-on-initia-eposit-to-begin-XawMdy {
   background-color: transparent;
@@ -172,26 +120,24 @@
 .addfunds .click-on-the-wa-account-option-6G7QO0 {
   background-color: transparent;
   height: 29px;
-  left: 16px;
+  left: 20px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: absolute;
+  position: relative;
   text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% - 14px);
+  top: 12px;
+  width: 90%;
 }
 .addfunds .click-on-the-wa-account-option-wcA9lP {
   background-color: transparent;
   height: 29px;
-  left: 26px;
+  left: 46px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: absolute;
+  position: relative;
   text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% - 24px);
+  top: -54px;
+  width: 86%;
 }
 .addfunds .click-pay-yS0cYZ {
   background-color: transparent;
@@ -233,9 +179,9 @@
   background-color: var(--nero);
   border-radius: 3px;
   height: 6px;
-  left: 0px;
+  left: 1px;
   position: absolute;
-  top: 9px;
+  top: 26px;
   width: 6px;
 }
 .addfunds .ellipse-14-6G7QO0 {
@@ -243,7 +189,8 @@
   border-radius: 3px;
   bottom: 12px;
   height: 6px;
-  left: 0px;
+  left: 1px;
+  top: 87px;
   position: absolute;
   width: 6px;
 }
@@ -343,29 +290,16 @@
 .addfunds .everything-you-se-our-services-y1HRxC {
   background-color: transparent;
   height: auto;
-  left: 154px;
+  left: 9%;
   letter-spacing: 0.00px;
-  line-height: 20px;
+  line-height: 24px;
   position: absolute;
   text-align: left;
-  top: 589px;
+  top: 276px;
   width: 350px;
+
 }
-.addfunds .flex-col-C61RwL {
-  align-items: flex-start;
-  background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 1;
-  height: auto;
-  justify-content: flex-start;
-  margin-right: -554px;
-  margin-top: -304px;
-  min-height: 866px;
-  position: relative;
-  width: 2288px;
-}
+
 .addfunds .flex-col-Xi618D {
   align-items: flex-end;
   background-color: transparent;
@@ -375,11 +309,14 @@
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  margin-left: 50px;
-  min-height: 880px;
   position: relative;
-  width: 530px;
+  width: 50%;
+  top: 110px;
+  overflow: auto;
+  margin-right: 5%;
+  margin-left: 2%;
 }
+
 .addfunds .flex-col-dXBp89 {
   align-items: center;
   align-self: flex-end;
@@ -390,10 +327,14 @@
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  min-height: 854px;
   position: relative;
-  width: 732px;
+  width: 50%;
+  margin-left: 12%;
+  overflow: auto;
+  top: 40px;
+  
 }
+
 .addfunds .flex-row-C61RwL {
   align-items: flex-start;
   align-self: center;
@@ -404,29 +345,29 @@
   flex-shrink: 1;
   height: 909px;
   justify-content: flex-start;
-  margin-right: 44.0px;
-  margin-top: 57px;
-  min-width: 1312px;
   position: relative;
-  width: auto;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
 }
+
 .addfunds .grey-back-y1HRxC {
   background-color: rgba(238,238,238,1.0);
-  height: 419px;
-  left: 10px;
+  height: 80%;
   position: absolute;
-  top: 358px;
-  width: 1726px;
+  top: 53px;
+  width: 100%;
 }
 .addfunds .group-10-0PZcXW {
   align-self: flex-start;
   background-color: transparent;
   flex-shrink: 1;
   height: 84px;
-  margin-left: 23px;
+  margin-left: 14px;
   margin-top: 14px;
   position: relative;
-  width: 604px;
+  width: 80%;
+  left: 10px;
 }
 .addfunds .group-11-0PZcXW {
   align-self: flex-end;
@@ -435,25 +376,25 @@
   height: 129px;
   margin-top: 17px;
   position: relative;
-  width: 712px;
+  left: 0px;
+  width: 96%;
+  top: 124px;
 }
 .addfunds .group-12-0PZcXW {
   background-color: transparent;
   flex-shrink: 1;
   height: 138px;
-  margin-right: 17.0px;
   margin-top: 10px;
   position: relative;
-  width: 475px;
+  width: 80%;
 }
 .addfunds .group-13-0PZcXW {
   background-color: transparent;
   flex-shrink: 1;
   height: 101px;
-  margin-right: 122.0px;
   margin-top: 34px;
   position: relative;
-  width: 370px;
+  width: 80%;
 }
 .addfunds .group-9-0PZcXW {
   align-self: flex-end;
@@ -461,55 +402,60 @@
   flex-shrink: 1;
   height: 64px;
   margin-right: 8px;
-  margin-top: 16px;
+  margin-top: 7px;
   position: relative;
-  width: 614px;
+  width: 80%;
+  top: 80px;
 }
 .addfunds .image-13-y0eQTV {
   background-color: transparent;
   flex-shrink: 1;
-  height: 455px;
+  height: auto;
   object-fit: cover;
   position: relative;
-  width: 530px;
+  width: 90%;
+  overflow: auto;
 }
 .addfunds .image-14-y0eQTV {
   background-color: transparent;
   flex-shrink: 1;
-  height: 237px;
+  height: auto;
   margin-top: 188px;
   object-fit: cover;
   position: relative;
-  width: 511px;
+  width: 90%;
+  overflow: hidden;
 }
 .addfunds .image-15-C61RwL {
   background-color: transparent;
   flex-shrink: 1;
-  height: 415px;
-  margin-right: 228px;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
   margin-top: 132px;
   object-fit: cover;
   position: relative;
-  width: 811px;
+  width: 60%;
 }
 .addfunds .line-1-y1HRxC {
   background-color: transparent;
   height: 1px;
-  left: 72px;
+  margin-left: 2%;
   object-fit: cover;
   position: absolute;
-  top: 418px;
-  width: 1604px;
+  top: 104px;
+  width: 95%;
 }
 .addfunds .line-8-0xy0vn {
   background-color: transparent;
   flex-shrink: 1;
   height: 1px;
-  margin-left: 88.5px;
-  margin-top: 5px;
+  margin-left: 4%;
+  justify-content: center;
+  top: 23px;
   object-fit: cover;
   position: relative;
-  width: 1599px;
+  width: 90%;
 }
 .addfunds .manual-payments-nto-your-wallet-aewt80 {
   background-color: transparent;
@@ -530,49 +476,49 @@
 .addfunds .overlap-group-0xy0vn {
   background-color: transparent;
   flex-shrink: 1;
-  height: 860px;
+  height: auto;
   position: relative;
-  width: 2288px;
+  width: 100%;
 }
 .addfunds .select-the-paym-ent-by-currency-6G7QO0 {
   background-color: transparent;
   bottom: 3px;
-  height: 29px;
-  left: 16px;
+  height: 27px;
+  left: 21px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: absolute;
+  position: relative;
   text-align: left;
-  white-space: nowrap;
-  width: calc(100.00% - 158px);
+  width: 100%;
+  top: 44px;
 }
 .addfunds .select-the-paym-ent-by-currency-wcA9lP {
   background-color: transparent;
   bottom: 3px;
   height: 29px;
-  left: 26px;
+  left: 48px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: absolute;
+  position: relative;
   text-align: left;
-  white-space: nowrap;
-  width: calc(100.00% - 168px);
+  width: 80%;
+  top: -34px;
 }
 .addfunds .swaps-fx-portal-user-guide-y1HRxC {
   background-color: transparent;
   color: var(--nero);
   font-family: 'OswaldRegular-Regular', Helvetica;
-  font-size: 35px;
+  font-size: 45px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: bold;
   height: auto;
-  left: 154px;
+  left: 9%;
   letter-spacing: 0.00px;
-  line-height: 35px;
+  line-height: 45px;
   position: absolute;
   text-align: left;
-  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
-  top: 503px;
+  text-shadow: 0px 3px 6px rgb(0 0 0 / 16%);
+  top: 183px;
   white-space: nowrap;
   width: auto;
 }
@@ -584,25 +530,23 @@
   font-style: normal;
   font-weight: 400;
   height: auto;
-  left: 72px;
+  margin-left: 2%;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
   text-align: left;
-  top: 378px;
+  top: 72px;
   white-space: nowrap;
   width: auto;
 }
-.addfunds .swapslogoimage {
+.addfunds .swapslogoimage-transparent-y1HRxC {
   background-color: transparent;
-  height: 488px;
-  left: 573px;
+  height: auto;
+  margin-left: 25%;
   object-fit: cover;
-  position: absolute;
-  top: 300px;
-  width: 10%;
-  margin-left: 470px;
-  z-index: 999;
+  position: relative;
+  width: 111%;
+  margin-top: -15%;
 }
 .addfunds .wait-to-see-this-window-yS0cYZ {
   background-color: transparent;
@@ -619,42 +563,34 @@
 .addfunds .x1-wcA9lP {
   background-color: transparent;
   height: 29px;
-  left: 0px;
+  left: 25px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: absolute;
+  position: relative;
   text-align: left;
-  top: -5px;
-  white-space: nowrap;
-  width: 17px;
+  top: -25px;
+  width: auto;
 }
 .addfunds .x2-wcA9lP {
   background-color: transparent;
   bottom: 3px;
   height: 29px;
-  left: 0px;
+  left: 25px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: absolute;
+  position: relative;
   text-align: left;
-  white-space: nowrap;
-  width: 17px;
+  top: -4px;
+  width: auto;
 }
-.addfunds .yellow-thin-rectangle-pqRchW {
-  background-color: rgba(249,166,2,1.0);
-  height: 8px;
-  left: 10px;
-  position: absolute;
-  top: 344px;
-  width: 1726px;
-}
+
 .addfunds .yellow-thin-rectangle-y1HRxC {
   background-color: rgba(249,166,2,1.0);
   height: 8px;
   left: 0px;
   position: absolute;
-  top: 345px;
-  width: 1930px;
+  top: 41px;
+  width: 100%;
 }
 .addfunds .you-will-be-red-tal-to-continue-yS0cYZ {
   background-color: transparent;
@@ -668,3 +604,251 @@
   white-space: nowrap;
   width: calc(100.00% - 14px);
 }
+
+
+@media (min-width: 1500px) {
+  .addfunds .swaps-fx-portal-user-guide-y1HRxC {
+    background-color: transparent;
+    color: var(--nero);
+    font-family: 'OswaldRegular-Regular', Helvetica;
+    font-size: 85px;
+    font-style: normal;
+    font-weight: bold;
+    height: auto;
+    left: 9%;
+    letter-spacing: 0.00px;
+    line-height: 79px;
+    position: absolute;
+    text-align: left;
+    text-shadow: 0px 3px 6px rgb(0 0 0 / 16%);
+    top: 324px;
+    white-space: nowrap;
+    width: auto;
+}
+.addfunds .everything-you-se-our-services-y1HRxC {
+  background-color: transparent;
+  height: auto;
+  left: 9%;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 476px;
+  width: 600px;
+  font-size: 40px !important;
+}
+.addfunds .add-funds-y1HRxC {
+  font-size: 70px;
+}
+.addfunds .line-8-0xy0vn {
+  top: 44px;
+}
+.addfunds .flex-row-C61RwL {
+margin-top: 4%;
+}
+.addfunds .adding-funds-to-ounts-made-easy-0PZcXW {
+  font-size: 50px;
+}
+.words {
+  font-size: 27px !important;
+}
+/*.addfunds .image-15-C61RwL {
+    top: 1280px;
+}
+.addfunds .flex-col-dXBp89 {
+  align-items: center;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  position: relative;
+  width: 50%;
+  margin-left: 12%;
+  overflow: auto;
+  top: 110px;
+}
+.addfunds .flex-col-Xi618D {
+  align-items: center;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  position: relative;
+  width: 50%;
+  margin-left: 12%;
+  overflow: auto;
+  top: 110px;
+}
+}
+*/
+
+@media (max-width: 1200px) {
+  .addfunds .swapslogoimage-transparent-y1HRxC {
+    margin-left: 17%;
+    width: 123%;
+    margin-top: -16%;
+  }
+  .addfunds .swaps-fx-user-guide-y1HRxC {
+    font-size: 20px;
+    top: 57px;
+  }
+  .addfunds .line-1-y1HRxC {
+    top: 85px;
+  }
+  .addfunds .adding-funds-to-ounts-made-easy-0PZcXW
+  .addfunds .automatic-payme-dit-debit-cards-0PZcXW {
+    font-size: 23px;
+    font-weight: bold;
+  }
+  .words {
+   font-size: 17px !important;
+  }
+
+
+}
+@media (max-width: 1000px) {
+  
+ 
+}
+
+@media (max-width: 900px) {
+  .addfunds .everything-you-se-our-services-y1HRxC {
+    top: 198px;
+    width: 200px;
+  }
+  .addfunds .swaps-fx-portal-user-guide-y1HRxC  {
+    top: 138px;
+    line-height: 30px;
+    font-size: 29px;
+  }
+  .addfunds .swapslogoimage-transparent-y1HRxC {
+    margin-top: -18%;
+  }
+  .addfunds .add-funds-y1HRxC {
+    font-size: 25px;
+    top: 57px;
+  }
+  .addfunds .line-8-0xy0vn {
+    top: 46px;
+  }
+ 
+  .addfunds .flex-col-dXBp89 {
+    top: 0px;
+  }
+  
+
+
+}
+@media (max-width: 750px) {
+ 
+}
+
+
+@media (max-width: 700px) {
+
+
+
+
+@media (max-width: 600px) {
+  .addfunds .line-1-y1HRxC {
+    width: 90%;
+    top: 44px;
+  }
+  .addfunds .swaps-fx-user-guide-y1HRxC {
+    font-size: 13px;
+    top: 20px;
+  }
+  .addfunds .swapslogoimage-transparent-y1HRxC {
+    margin-left: 6%;
+    width: 140%;
+  }
+  .addfunds .grey-back-y1HRxC {
+    top: 23px;
+    height: 88%;
+  }
+  .addfunds .black-top-rectangle-y1HRxC {
+    height: 14px;
+  }
+  .addfunds .yellow-thin-rectangle-y1HRxC {
+    height: 4px;
+    top: 15px;
+  }
+  .addfunds .everything-you-se-our-services-y1HRxC {
+    top: 122px;
+    font-size: 13px;
+    width: 161px;
+    line-height: 13px;
+  }
+  .addfunds .swaps-fx-portal-user-guide-y1HRxC {
+    top: 84px;
+    font-size: 18px;
+    line-height: 17px;
+    width: 50%;
+  }
+}
+
+
+@media (max-width: 550px) {
+
+  
+
+}
+
+
+@media (max-width: 400px) {
+  
+  .addfunds .everything-you-se-our-services-y1HRxC {
+    top: 136px;
+    font-size: 12px;
+    width: 158px;
+    line-height: 14px;
+    
+  }
+  .addfunds .swaps-fx-portal-user-guide-y1HRxC {
+    top: 92px;
+    font-size: 20px;
+    line-height: 21px;
+  }
+  /*.addfunds .add-funds-y1HRxC {
+    font-size: 25px;
+  }*/
+ 
+ 
+}
+
+
+@media (max-width: 300px) {
+  .addfunds .swaps-fx-user-guide-y1HRxC {
+    font-size: 10px;
+  }
+  .addfunds .line-1-y1HRxC {
+    top: 39px;
+  }
+  .addfunds .swaps-fx-portal-user-guide-y1HRxC {
+    left: 14%;
+    top: 63px;
+    font-size: 12px;
+    line-height: 13px;
+  }
+  .addfunds .everything-you-se-our-services-y1HRxC {
+    top: 88px;
+    font-size: 9px;
+    width: 118px;
+    line-height: 13px;
+    left: 14%;
+  }
+  .addfunds .add-funds-y1HRxC  {
+    font-size: 19px;
+  }
+  .addfunds .line-8-0xy0vn {
+    top: 42px;
+  }
+
