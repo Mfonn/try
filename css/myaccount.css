@@ -6,7 +6,7 @@
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  height: 3000px;
+  height: auto;
   justify-content: flex-start;
   overflow: hidden;
   overflow-x: hidden;
@@ -85,6 +85,7 @@
   margin-top: 69px;
   position: relative;
   width: auto;
+  margin-bottom: 250px;
 }
 .myaccount .group-8-zUixHA {
   background-color: transparent;
