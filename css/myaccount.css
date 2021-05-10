@@ -290,10 +290,11 @@
 
 @media (min-width: 1500px) {
   .myaccount .my-account-management-4eduM0 {
-    font-size: 71px !important;
+    font-size: 66px !important;
   }
   .myaccount .line-8-C61RwL {
     font-size: 44px;
+    top: 57px;
   }
   .myaccount .one-stop-view-o-nts-by-currency-zUixHA {
     font-size: 49px;
@@ -327,7 +328,7 @@
 
 @media (max-width: 1500px) {
   .myaccount .swaps-fx-portal-user-guide-4eduM0 {
-    font-size: 60px;
+    font-size: 51px;
     line-height: 60px;
     top: 190px;
   }
@@ -337,7 +338,7 @@
     width: 500px;
   }
   .myaccount .my-account-management-4eduM0 {
-    font-size: 52px;
+    font-size: 39px;
   }
 }
 
@@ -368,8 +369,10 @@
     line-height: 32px;
   }
   .myaccount .group-8-zUixHA {
-    height: 76px;
+    height: 73px;
     font-size: 18px !important;
+    left: 38px;
+    top: 102px;
   }
   .myaccount .you-can-manage-s-from-one-page-zUixHA {
     font-size: 18px;
@@ -383,27 +386,35 @@
 
 @media (max-width: 900px) {
   .myaccount .grey-back-4eduM0 {
-    height: 80%;
+    height: 75%;
   }
   .myaccount .swapslogoimage-transparent-4eduM0 {
     margin-left: 6%;
     width: 138%;
-    margin-top: -12%;
+    margin-top: -23%;
   }
   .myaccount .swaps-fx-user-guide-4eduM0 {
     font-size: 20px;
     top: 57px;
   }
   .myaccount .swaps-fx-portal-user-guide-4eduM0 {
-    font-size: 30px;
+    font-size: 26px;
     line-height: 30px;
-    top: 155px;
+    top: 125px;
+    left: 11%;
   }
   .myaccount .everything-you-se-our-services-4eduM0 {
-    top: 218px;
-    font-size: 21px !important;
-    width: 287px;
-    line-height: 28px;
+    top: 187px;
+    font-size: 16px !important;
+    width: 283px;
+    line-height: 19px;
+    left: 11%;
+  }
+  .myaccount .line-8-C61RwL {
+    top: 37px;
+  }
+  .myaccount .my-account-management-4eduM0 {
+    font-size: 28px;
   }
 }
 
@@ -412,42 +423,55 @@
 @media (max-width: 600px) {
   .myaccount .grey-back-4eduM0 {
     top: 23px;
-    height: 91%;
+    height: 85%;
   }
   .myaccount .swapslogoimage-transparent-4eduM0 {
     margin-left: 6%;
     width: 140%;
+    margin-top: -11%;
   }
   .myaccount .line-1-4eduM0 {
-    top: 85px;
+    top: 70px;
   }
   .myaccount .swaps-fx-portal-user-guide-4eduM0 {
-    font-size: 27px;
-    line-height: 30px;
+    font-size: 20px;
+    line-height: 22px;
     top: 125px;
   }
   .myaccount .everything-you-se-our-services-4eduM0 {
-    top: 179px;
-    font-size: 16px !important;
-    width: 211px;
+    top: 169px;
+    font-size: 12px !important;
+    width: 187px;
     line-height: 18px;
   }
   .myaccount .my-account-management-4eduM0 {
-    font-size: 19px;
+    font-size: 17px;
     margin-top: 0px;
   }
   .myaccount .line-8-C61RwL {
-    margin-top: -10px;
+    margin-top: -11px;
   }
   .myaccount .one-stop-view-o-nts-by-currency-zUixHA {
-    font-size: 24px;
+    font-size: 15px;
+    top: -52px;
   }
   .myaccount .you-can-manage-s-from-one-page-zUixHA {
-    font-size: 15px;
+    font-size: 9px;
+    top: -20px;
+    left: 10px;
   }
   .myaccount .group-8-zUixHA {
-    font-size: 14px !important;
-    top: 102px;
+    font-size: 9px !important;
+    top: 6px;
+    left: 22px;
+    height: 52px;
+  }
+  .myaccount .swaps-fx-user-guide-4eduM0 {
+    font-size: 15px;
+    top: 48px;
+  }
+  .myaccount .image-12-C61RwL {
+    margin-top: 66px;
   }
 }
 
@@ -455,31 +479,39 @@
 
 @media (max-width: 400px) {
   .myaccount .swaps-fx-user-guide-4eduM0 {
-    font-size: 15px;
+    font-size: 12px;
     top: 48px;
   }
   .myaccount .line-1-4eduM0 {
-    top: 85px;
+    top: 69px;
   }
   .myaccount .swaps-fx-portal-user-guide-4eduM0 {
-    font-size: 20px;
+    font-size: 17px;
     line-height: 21px;
-    top: 116px;
+    top: 100px;
   }
   .myaccount .everything-you-se-our-services-4eduM0 {
-    top: 157px;
-    font-size: 14px !important;
-    width: 214px;
+    top: 146px;
+    font-size: 12px !important;
+    width: 153px;
     line-height: 14px;
   }
   .myaccount .my-account-management-4eduM0 {
-    margin-top: 5px;
+    margin-top: 50px;
   }
   .myaccount .line-8-C61RwL {
-    margin-top: -8px;
+    margin-top: 40px;
+  }
+  .myaccount .image-12-C61RwL {
+    margin-top: 70px;
+  }
+  .myaccount .swapslogoimage-transparent-4eduM0 {
+    margin-top: -6%;
+    width: 130%;
+    margin-left: 10%;
   }
   .myaccount .one-stop-view-o-nts-by-currency-zUixHA {
-    font-size: 18px;
+    font-size: 14px;
   }
   .myaccount .you-can-manage-s-from-one-page-zUixHA {
     font-size: 11px;
@@ -488,37 +520,68 @@
     font-size: 10px !important;
     height: 49px;
   }
+  .myaccount .grey-back-4eduM0 {
+    top: 23px;
+    height: 113%;
+  }
 }
 
 
 
 @media (max-width: 300px) {
   .myaccount .grey-back-4eduM0 {
-    height: 141%;
+    height: 123%;
   }
   .myaccount .swapslogoimage-transparent-4eduM0 {
     margin-top: -7%;
   }
-  .myaccount .swaps-fx-user-guide-4eduM0 {
-    font-size: 12px;
-  }
-  .myaccount .swaps-fx-portal-user-guide-4eduM0 {
-    font-size: 17px;
-    line-height: 17px;
-  }
-  .myaccount .everything-you-se-our-services-4eduM0 {
-    top: 152px;
-    font-size: 11px !important;
-    width: 172px;
-  }
-  .myaccount .my-account-management-4eduM0 {
-    font-size: 16px;
-    margin-top: 98px;
-  }
   .myaccount .line-8-C61RwL {
-    margin-top: 81px;
+    margin-top: 52px;
   }
   .myaccount .one-stop-view-o-nts-by-currency-zUixHA {
-    font-size: 16px;
+    font-size: 11px;
+    top: 0px;
+  }
+  .myaccount .yellow-thin-rectangle-BJQsbv {
+    height: 5px;
+  }
+  .myaccount .yellow-thin-rectangle-4eduM0 {
+    height: 5px;
+  }
+  .myaccount .swaps-fx-user-guide-4eduM0 {
+    font-size: 10px;
+    top: 42px;
+  }
+  .myaccount .line-1-4eduM0 {
+    top: 59px;
+  }
+  .myaccount .swaps-fx-portal-user-guide-4eduM0 {
+    font-size: 14px;
+  }
+  .myaccount .everything-you-se-our-services-4eduM0 {
+    font-size: 9px !important;
+    width: 159px;
+    top: 143px;
+  }
+  .myaccount .my-account-management-4eduM0 {
+    font-size: 14px;
+    margin-top: 63px;
+  }
+  .myaccount .image-12-C61RwL {
+    margin-top: 63px;
+  }
+  .myaccount .group-2-C61RwL {
+    margin-top: 12px;
+  }
+  .myaccount .you-can-manage-s-from-one-page-zUixHA {
+    font-size: 8px;
+    left: 6px;
+    top: 20px;
+  }
+  .myaccount .group-8-zUixHA {
+    font-size: 7px !important;
+    height: 43px;
+    top: 44px;
+    left: 18px;
   }
 }
