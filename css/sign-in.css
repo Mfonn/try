@@ -438,6 +438,10 @@
     font-size: 15px;
     top: 48px;
   }
+  .sign-in .yellow-thin-rectangle-pqRchW,
+  .sign-in .yellow-thin-rectangle-y1HRxC {
+    height: 5px;
+  }
   .sign-in .line-1-y1HRxC {
     top: 70px;
   }
@@ -463,6 +467,12 @@
     top: 23px;
     height: 85%;
   }
+  .sign-in .image-4-dXBp89 {
+    margin-top: 139px;
+  }
+  .sign-in .flex-col-dXBp89 {
+    top: 76px;
+  }
 }
 
 
@@ -486,7 +496,7 @@
   }
   .sign-in .everything-you-se-our-services-y1HRxC {
     top: 177px;
-    font-size: 12px !important;
+    font-size: 11px !important;
     width: 153px;
     line-height: 14px;
   }
@@ -506,10 +516,6 @@
 
 
 @media (max-width: 300px) {
-  .sign-in .yellow-thin-rectangle-y1HRxC,
-  .sign-in .yellow-thin-rectangle-pqRchW {
-    height: 5px;
-  }
   .sign-in .swapslogoimage-transparent-y1HRxC {
     margin-top: -7%;
   }
