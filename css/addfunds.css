@@ -946,6 +946,7 @@
   .addfunds .group-11-0PZcXW {
     height: 117px;
   }
+  
 }
 
 
@@ -979,5 +980,28 @@
   }
   .addfunds .line-8-0xy0vn {
     margin-top: 52px;
+  }
+  .addfunds .group-10-0PZcXW {
+    margin-top: 1px;
+  }
+  .addfunds .group-9-0PZcXW {
+    margin-top: -4px;
+  }
+  .addfunds .ellipse-13-6G7QO0,
+  .addfunds .ellipse-14-6G7QO0,
+  .addfunds .ellipse-15-aewt80,
+  .addfunds .ellipse-16-aewt80 {
+    height: 4px;
+    width: 4px;
+  }
+  .addfunds .group-11-0PZcXW {
+    margin-top: -1px;
+  }
+  .addfunds .x1-wcA9lP,
+  .addfunds .x2-wcA9lP {
+    font-size: 10px !important;
+  }
+  .addfunds .ellipse-16-aewt80 {
+    top: 189px;
   }
 }
