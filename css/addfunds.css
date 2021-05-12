@@ -862,6 +862,7 @@
   .addfunds .image-15-C61RwL {
     width: 70%;
     top: -400px;
+    margin-top: 50px;
   }
 }
 
@@ -940,6 +941,18 @@
    .addfunds .image-13-y0eQTV {
      margin-top: 124px;
      width: 72%;
+   }
+   .addfunds .automatic-payme-dit-debit-cards-0PZcXW {
+     font-size: 16px;
+   }
+   .addfunds .enter-the-deposit-amount-value-XawMdy,
+   .addfunds .click-on-initia-eposit-to-begin-XawMdy,
+   .addfunds .confirm-deposit-e-prompt-window-XawMdy,
+   .addfunds .wait-to-see-this-window-yS0cYZ,
+   .addfunds .complete-the-re-ard-information-yS0cYZ,
+   .addfunds .click-pay-yS0cYZ,
+   .addfunds .you-will-be-red-tal-to-continue-yS0cYZ {
+     font-size: 12px;
    }
 }
 
