@@ -736,7 +736,7 @@
     font-size: 19px !important;
   }
   .addfunds .group-9-0PZcXW {
-    left:  57px;
+    left:  41px;
   }
   .addfunds .automatic-payme-for-transaction-aewt80,
   .addfunds .manual-payments-nto-your-wallet-aewt80 {
@@ -825,9 +825,14 @@
   }
   .addfunds .group-10-0PZcXW {
     height: 53px;
+    margin-top: 25px;
+    margin-left: -3px;
   }
   .segoeui-regular-normal-nero-20px {
     font-size: 14px !important;
+  }
+  .addfunds .ellipse-16-aewt80 {
+    top: 294px;
   }
 }
 
@@ -912,7 +917,7 @@
     width: 100%;
   }
   .addfunds .ellipse-16-aewt80 {
-    top: 296px;
+    top: 306px;
   }
   .addfunds .flexbox2 {
     top: -170px;
@@ -1006,6 +1011,7 @@
    }
    .addfunds .group-13-0PZcXW {
      height: 73px;
+     margin-top: 7px;
    }
    .addfunds .automatic-payme-dit-debit-cards-0PZcXW {
      font-size: 16px;
@@ -1027,7 +1033,7 @@
     font-size: 10px !important;
   }
   .addfunds .ellipse-16-aewt80 {
-    top: 323px;
+    top: 281px;
   }
 }
 
@@ -1075,7 +1081,7 @@
   .addfunds .select-the-paym-ent-by-currency-wcA9lP, 
   .addfunds .manual-payments-nto-your-wallet-aewt80, 
   .addfunds .automatic-payme-for-transaction-aewt80 {
-    font-size: 7px;
+    font-size: 9px;
   }
   .addfunds .group-10-0PZcXW {
     height: 42px;
@@ -1084,10 +1090,20 @@
     height: 45px;
   }
   .addfunds .ellipse-16-aewt80 {
-    top: 242px;
+    top: 250px;
   }
   .addfunds .group-11-0PZcXW {
     height: 117px;
+  }
+  .addfunds .select-the-paym-ent-by-currency-wcA9lP,
+  .addfunds .click-on-the-wa-account-option-wcA9lP {
+    left: 14px;
+    font-size: 8px !important;
+  }
+  .segoeui-regular-normal-nero-20px,
+  .addfunds .automatic-payme-for-transaction-aewt80,
+  .addfunds .manual-payments-nto-your-wallet-aewt80 {
+    font-size: 8px !important;
   }
   
 }
