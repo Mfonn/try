@@ -1110,6 +1110,10 @@
   .addfunds .manual-payments-nto-your-wallet-aewt80 {
     font-size: 8px !important;
   }
+.addfunds {
+  height: 1700px;
+}
+ 
   
 }
 
