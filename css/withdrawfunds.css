@@ -244,18 +244,15 @@
   width: 100%;
 }
 .withdrawfunds .flex-col-GyJUNH {
-  align-items: flex-start;
   align-self: flex-end;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
   flex-shrink: 1;
   height: auto;
-  justify-content: flex-start;
-  min-height: 408px;
+  object-fit: cover;
   position: relative;
-  width: 706px;
+  margin-right: -27%;
+  margin-left: 9%;
+  width: 65%;
 }
 .withdrawfunds .flex-col-dXBp89 {
   align-items: flex-start;
@@ -301,15 +298,12 @@
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   flex-shrink: 1;
-  height: 498px;
+  height: auto;
   justify-content: flex-start;
-  margin-left: 152px;
-  margin-top: 71px;
- 
   position: relative;
-  width: auto;
+  width: 100%;
 }
 .withdrawfunds .flex-row-C61RwL {
   align-items: center;
@@ -374,10 +368,10 @@
   align-self: flex-end;
   background-color: transparent;
   flex-shrink: 1;
-  height: 116px;
-  margin-top: 15px;
+  height: 65px;
+  margin-top: 26px;
   position: relative;
-  width: 582px;
+  width: 80%;
 }
 .withdrawfunds .group-16-QkTteQ {
   background-color: transparent;
@@ -414,13 +408,19 @@
   width: 38%;
 }
 .withdrawfunds .image-17-GyJUNH {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
   flex-shrink: 1;
-  height: 352px;
-  margin-left: 39px;
-  object-fit: cover;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 204.0px;
+  margin-left: 11%;
+  margin-right: 2%;
   position: relative;
-  width: 785px;
+  width: 38%;
 }
 .withdrawfunds .image-18-QkTteQ {
   background-color: transparent;
@@ -473,13 +473,13 @@
   color: var(--nero);
   flex-shrink: 1;
   font-family: 'Oswald', Helvetica;
-  font-size: 25px;
+  font-size: 35px;
   font-style: normal;
   font-weight: 300;
   height: auto;
   letter-spacing: 0.00px;
   line-height: 25px;
-  margin-left: 85px;
+  margin-left: -25px;
   min-height: 36px;
   min-width: 250px;
   position: relative;
@@ -735,8 +735,15 @@
   .segoeui-regular-normal-nero-20px {
     font-size: 25px !important;
   }
+  
+.withdrawfunds .flex-col-GyJUNH {
+  top: -258px;
+}
 
 }
+
+
+
 @media (max-width: 2000px) { 
   .withdrawfunds .swaps-fx-portal-user-guide-5sTxFf {
     font-size: 70px;
@@ -758,8 +765,14 @@
   .segoeui-regular-normal-nero-20px  {
     font-size: 19px !important;
   }
+  .withdrawfunds .flex-col-GyJUNH {
+    top: -250px;
+  }
 
 }
+
+
+
 
 @media (min-width: 1500px) {
   .withdrawfunds .withdraw-funds-5sTxFf {
@@ -769,8 +782,13 @@
     top: 44px;
     top: 57px;
   }
-  .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86 {
+  .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86,
+  .withdrawfunds .missing-withdrawal-account-3xHcwy {
     font-size: 42px;
+  }
+  .withdrawfunds .group-15-3xHcwy {
+    margin-top: 43px;
+    height: 92px;
   }
 
 }
@@ -792,7 +810,13 @@
 .segoeui-regular-normal-nero-20px  {
   font-size: 16px !important;
 }
+.withdrawfunds .flex-col-GyJUNH {
+  top: -228px;
 }
+}
+
+
+
 
 
 @media (max-width: 1200px) { 
@@ -822,7 +846,8 @@
   .withdrawfunds .flex-col-fKmFVR {
     top: -187px;
   }
-  .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86 {
+  .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86,
+  .withdrawfunds .missing-withdrawal-account-3xHcwy {
     font-size: 25px;
   }
   .withdrawfunds .group-14-Sxvg86 {
@@ -834,6 +859,10 @@
      font-size: 12px !important;
    }
 }
+
+
+
+
 @media (max-width: 900px) { 
   .withdrawfunds .swapslogoimage-transparent-5sTxFf {
     margin-left: 6%;
@@ -888,9 +917,28 @@
 }
 .withdrawfunds .select-the-desi-he-account-type-p8MuxV,
  .segoeui-regular-normal-nero-20px {
-   font-size: 14px !important;
+   font-size: 13px !important;
+ }
+ .withdrawfunds .flex-col-GyJUNH {
+  margin-right: auto;
+  margin-left: auto;
+  width: 72%;
+  top: -100px;
+ }
+ .withdrawfunds .image-17-GyJUNH {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  width: 70%;
+ }
+ .withdrawfunds .group-15-3xHcwy {
+   width: 100%;
  }
 }
+
+
+
+
 @media (max-width: 600px) { 
 
   .withdrawfunds .swapslogoimage-transparent-5sTxFf {
@@ -934,7 +982,37 @@
   .withdrawfunds .line-8-zHcrMx {
     margin-top: -11px;
   }
+  .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86 {
+    font-size: 18px !important;
+  }
+  
+  .withdrawfunds .select-the-desi-he-account-type-p8MuxV, 
+  .segoeui-regular-normal-nero-20px {
+    font-size: 8px !important;
+  }
+  
+  .withdrawfunds .ellip {
+    height: 4px;
+    width: 4px;
+  }
+  .withdrawfunds .image-16-fKmFVR {
+    margin-top: 158px;
+  }
+  .withdrawfunds .group-14-Sxvg86 {
+    height: 85px;
+    top: -48px;
+  }
+  .withdrawfunds .group-15-3xHcwy {
+    margin-top: 5px;
+    height: 51px;
+  }
+  .withdrawfunds .image-17-GyJUNH {
+    margin-top: -36px;
+  }
 }
+
+
+
 
 @media (max-width: 400px) {
   .withdrawfunds .grey-back-5sTxFf {
@@ -969,28 +1047,34 @@
   .withdrawfunds .line-8-zHcrMx {
     margin-top: 40px;
   }
-  .withdrawfunds .select-the-desi-he-account-type-p8MuxV, 
-  .segoeui-regular-normal-nero-20px {
-    font-size: 8px;
-  }
   .withdrawfunds {
     height: 1700px;
   }
-  .withdrawfunds .ellip {
-    height: 4px;
-    width: 4px;
-  }
-  .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86 {
-    font-size: 18px;
-  }
+
   .withdrawfunds .group-14-Sxvg86 {
-    height: 86px;
-    top: -43px;
+    height: 71px;
+    top: -55px;
   }
   .withdrawfunds .image-16-fKmFVR {
-    margin-top: 148px;
+    margin-top: 129px;
     width: 70%;
   }
+  .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86,
+  .withdrawfunds .missing-withdrawal-account-3xHcwy {
+    font-size: 14px !important;
+  }
+  .withdrawfunds .select-the-desi-he-account-type-p8MuxV, 
+  .segoeui-regular-normal-nero-20px {
+    font-size: 6px !important;
+  }
+  .withdrawfunds .image-17-GyJUNH {
+    margin-top: -50px;
+  }
+  .withdrawfunds .flex-row-0xy0vn {
+    top: -30px;
+  }
+
+
 
 }
 
