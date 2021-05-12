@@ -660,6 +660,9 @@
 
 
 @media (min-width: 2000px) {
+  .addfunds .swapslogoimage-transparent-y1HRxC {
+    margin-top: -22%;
+  }
   .addfunds .grey-back-y1HRxC {
     height: 85%;
   }
@@ -672,7 +675,9 @@
     top: 239px;
   }
   .addfunds .everything-you-se-our-services-y1HRxC  {
-    top: 433px;
+    top: 441px;
+    width: 538px;
+    font-size: 34px !important;
   }
   .addfunds .line-8-0xy0vn {
     top: 54px !important;
