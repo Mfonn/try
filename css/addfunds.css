@@ -1,7 +1,4 @@
 /* screen - addfunds */
-.container-center-vertical, .container-center-horizontal {
-  flex-direction: column;
-}
 
 .addfunds {
   align-items: flex-end;
@@ -16,36 +13,21 @@
   position: relative;
   width: 100%;
 }
-
 .addfunds .add-funds-y1HRxC {
   background-color: transparent;
   color: rgba(9,6,1,1.0);
   font-family: 'OswaldRegular-Regular', Helvetica;
   font-size: 30px;
   font-style: normal;
-  font-weight: bolder;
+  font-weight: bold;
   height: auto;
   margin-left: 7%;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: relative;
+  position: absolute;
   text-align: left;
-  top: 32px;
   white-space: nowrap;
   width: auto;
-}
-.addfunds .flex-col-C61RwL {
-  align-items: flex-start;
-  background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 1;
-  height: auto;
-  justify-content: flex-start;
-  top: 0px;
-  position: relative;
-  width: 100%;
 }
 .addfunds .adding-funds-to-ounts-made-easy-0PZcXW {
   align-self: flex-start;
@@ -53,7 +35,7 @@
   color: var(--nero);
   flex-shrink: 1;
   font-family: 'Oswald', Helvetica;
-  font-size: 35px;
+  font-size: 30px;
   font-style: normal;
   font-weight: 300;
   height: auto;
@@ -64,7 +46,6 @@
   text-shadow: 0px 3px 6px rgb(0 0 0 / 16%);
   white-space: nowrap;
   width: auto;
-  
 }
 .addfunds .automatic-payme-dit-debit-cards-0PZcXW {
   background-color: transparent;
@@ -77,8 +58,13 @@
   height: auto;
   letter-spacing: 0.00px;
   line-height: 25px;
-  margin-top: 197px;
+  margin-right: 101.0px;
+  margin-top: 162px;
+  min-height: 36px;
+  min-width: 437px;
+  position: relative;
   text-align: left;
+  white-space: nowrap;
   width: auto;
 }
 .addfunds .automatic-payme-for-transaction-aewt80 {
@@ -86,7 +72,7 @@
   bottom: -2px;
   color: var(--licorice);
   font-family: 'SegoeUI-Regular', Helvetica;
-  font-size: 20px;
+  font-size: 15px;
   font-style: normal;
   font-weight: 400;
   height: 57px;
@@ -95,15 +81,21 @@
   line-height: 20px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 26px);
+  width: 70%;
 }
-
+.addfunds .black-top-rectangle-pqRchW {
+  background-color: rgba(4,27,45,1.0);
+  height: 37px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
 .addfunds .black-top-rectangle-y1HRxC {
   background-color: rgba(4,27,45,1.0);
   height: 37px;
   position: absolute;
-  width: 100%;
   top: 0px;
+  width: 100%;
 }
 .addfunds .click-on-initia-eposit-to-begin-XawMdy {
   background-color: transparent;
@@ -120,24 +112,26 @@
 .addfunds .click-on-the-wa-account-option-6G7QO0 {
   background-color: transparent;
   height: 29px;
-  left: 20px;
+  left: 16px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: relative;
+  position: absolute;
   text-align: left;
-  top: 12px;
-  width: 90%;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 14px);
 }
 .addfunds .click-on-the-wa-account-option-wcA9lP {
   background-color: transparent;
   height: 29px;
-  left: 46px;
+  left: 26px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: relative;
+  position: absolute;
   text-align: left;
-  top: -54px;
-  width: 86%;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 24px);
 }
 .addfunds .click-pay-yS0cYZ {
   background-color: transparent;
@@ -179,9 +173,9 @@
   background-color: var(--nero);
   border-radius: 3px;
   height: 6px;
-  left: 1px;
+  left: 0px;
   position: absolute;
-  top: 26px;
+  top: 9px;
   width: 6px;
 }
 .addfunds .ellipse-14-6G7QO0 {
@@ -189,8 +183,7 @@
   border-radius: 3px;
   bottom: 12px;
   height: 6px;
-  left: 1px;
-  top: 87px;
+  left: 0px;
   position: absolute;
   width: 6px;
 }
@@ -211,6 +204,7 @@
   left: 0px;
   position: absolute;
   width: 6px;
+  top: 313px;
 }
 .addfunds .ellipse-21-XawMdy {
   background-color: var(--nero);
@@ -292,14 +286,28 @@
   height: auto;
   left: 9%;
   letter-spacing: 0.00px;
-  line-height: 24px;
+  line-height: 32px;
   position: absolute;
   text-align: left;
-  top: 276px;
-  width: 350px;
-
+  top: 253px;
+  width: 600px;
+  font-size: 26px !important;
 }
-
+.addfunds .flex-col-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-right: -554px;
+  margin-top: -304px;
+  min-height: 866px;
+  position: relative;
+  width: 2288px;
+}
 .addfunds .flex-col-Xi618D {
   align-items: flex-end;
   background-color: transparent;
@@ -309,14 +317,11 @@
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 880px;
   position: relative;
-  width: 50%;
-  top: 110px;
-  overflow: auto;
-  margin-right: 5%;
-  margin-left: 2%;
+  width: 530px;
 }
-
 .addfunds .flex-col-dXBp89 {
   align-items: center;
   align-self: flex-end;
@@ -327,30 +332,34 @@
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
+  min-height: 854px;
   position: relative;
-  width: 50%;
-  margin-left: 12%;
-  overflow: auto;
-  top: 40px;
-  
+  width: 732px;
 }
-
 .addfunds .flex-row-C61RwL {
   align-items: flex-start;
-  align-self: center;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   flex-shrink: 1;
-  height: 909px;
+  height: auto;
   justify-content: flex-start;
   position: relative;
   width: 100%;
-  margin-right: auto;
-  margin-left: auto;
 }
-
+.addfunds .letters {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  object-fit: cover;
+  position: relative;
+  margin-right: -27%;
+  margin-left: 9%;
+  width: 65%;
+  top: -250px;
+}
 .addfunds .grey-back-y1HRxC {
   background-color: rgba(238,238,238,1.0);
   height: 80%;
@@ -363,11 +372,10 @@
   background-color: transparent;
   flex-shrink: 1;
   height: 84px;
-  margin-left: 14px;
+  margin-left: 23px;
   margin-top: 14px;
   position: relative;
   width: 80%;
-  left: 10px;
 }
 .addfunds .group-11-0PZcXW {
   align-self: flex-end;
@@ -376,25 +384,25 @@
   height: 129px;
   margin-top: 17px;
   position: relative;
-  left: 0px;
-  width: 96%;
-  top: 124px;
+  width: 86%;
 }
 .addfunds .group-12-0PZcXW {
   background-color: transparent;
   flex-shrink: 1;
   height: 138px;
+  margin-right: 17.0px;
   margin-top: 10px;
   position: relative;
-  width: 80%;
+  width: 475px;
 }
 .addfunds .group-13-0PZcXW {
   background-color: transparent;
   flex-shrink: 1;
   height: 101px;
+  margin-right: 122.0px;
   margin-top: 34px;
   position: relative;
-  width: 80%;
+  width: 370px;
 }
 .addfunds .group-9-0PZcXW {
   align-self: flex-end;
@@ -402,40 +410,44 @@
   flex-shrink: 1;
   height: 64px;
   margin-right: 8px;
-  margin-top: 7px;
+  margin-top: 16px;
   position: relative;
   width: 80%;
-  top: 80px;
 }
 .addfunds .image-13-y0eQTV {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
   flex-shrink: 1;
   height: auto;
-  object-fit: cover;
+  justify-content: flex-start;
+  margin-bottom: 204.0px;
+  margin-left: 8%;
+  margin-right: 2%;
+  margin-top: 158px;
   position: relative;
-  width: 90%;
-  overflow: auto;
+  width: 40%;
 }
 .addfunds .image-14-y0eQTV {
   background-color: transparent;
   flex-shrink: 1;
-  height: auto;
+  height: 237px;
   margin-top: 188px;
   object-fit: cover;
   position: relative;
-  width: 90%;
-  overflow: hidden;
+  width: 511px;
 }
 .addfunds .image-15-C61RwL {
   background-color: transparent;
   flex-shrink: 1;
-  height: auto;
-  margin-right: auto;
-  margin-left: auto;
+  height: 415px;
+  margin-right: 228px;
   margin-top: 132px;
   object-fit: cover;
   position: relative;
-  width: 60%;
+  width: 811px;
 }
 .addfunds .line-1-y1HRxC {
   background-color: transparent;
@@ -449,19 +461,18 @@
 .addfunds .line-8-0xy0vn {
   background-color: transparent;
   flex-shrink: 1;
-  height: 1px;
+  height: 2px;
   margin-left: 4%;
-  justify-content: center;
-  top: 23px;
   object-fit: cover;
   position: relative;
-  width: 90%;
+  top: 42px;
+  width: 94%;
 }
 .addfunds .manual-payments-nto-your-wallet-aewt80 {
   background-color: transparent;
   color: var(--licorice);
   font-family: 'SegoeUI-Regular', Helvetica;
-  font-size: 20px;
+  font-size: 15px;
   font-style: normal;
   font-weight: 400;
   height: 56px;
@@ -471,7 +482,7 @@
   position: absolute;
   text-align: left;
   top: 0px;
-  width: calc(100.00% - 14px);
+  width: 80%;
 }
 .addfunds .overlap-group-0xy0vn {
   background-color: transparent;
@@ -483,42 +494,42 @@
 .addfunds .select-the-paym-ent-by-currency-6G7QO0 {
   background-color: transparent;
   bottom: 3px;
-  height: 27px;
-  left: 21px;
+  height: 29px;
+  left: 16px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: relative;
+  position: absolute;
   text-align: left;
-  width: 100%;
-  top: 44px;
+  white-space: nowrap;
+  width: 80%;
 }
 .addfunds .select-the-paym-ent-by-currency-wcA9lP {
   background-color: transparent;
   bottom: 3px;
   height: 29px;
-  left: 48px;
+  left: 26px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: relative;
+  position: absolute;
   text-align: left;
-  width: 80%;
-  top: -34px;
+  white-space: nowrap;
+  width: calc(100.00% - 168px);
 }
 .addfunds .swaps-fx-portal-user-guide-y1HRxC {
   background-color: transparent;
   color: var(--nero);
   font-family: 'OswaldRegular-Regular', Helvetica;
-  font-size: 45px;
+  font-size: 44px;
   font-style: normal;
   font-weight: bold;
   height: auto;
   left: 9%;
   letter-spacing: 0.00px;
-  line-height: 45px;
+  line-height: 48px;
   position: absolute;
   text-align: left;
   text-shadow: 0px 3px 6px rgb(0 0 0 / 16%);
-  top: 183px;
+  top: 155px;
   white-space: nowrap;
   width: auto;
 }
@@ -563,27 +574,35 @@
 .addfunds .x1-wcA9lP {
   background-color: transparent;
   height: 29px;
-  left: 25px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: relative;
+  position: absolute;
   text-align: left;
-  top: -25px;
-  width: auto;
+  top: -5px;
+  white-space: nowrap;
+  width: 17px;
 }
 .addfunds .x2-wcA9lP {
   background-color: transparent;
   bottom: 3px;
   height: 29px;
-  left: 25px;
+  left: 0px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: relative;
+  position: absolute;
   text-align: left;
-  top: -4px;
-  width: auto;
+  white-space: nowrap;
+  width: 17px;
 }
-
+.addfunds .yellow-thin-rectangle-pqRchW {
+  background-color: rgba(249,166,2,1.0);
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 41px;
+  width: 100%;
+}
 .addfunds .yellow-thin-rectangle-y1HRxC {
   background-color: rgba(249,166,2,1.0);
   height: 8px;
@@ -606,89 +625,71 @@
 }
 
 
-@media (min-width: 1500px) {
+
+@media (min-width: 2000px) {
+  .addfunds .grey-back-y1HRxC {
+    height: 85%;
+  }
+  .addfunds .swaps-fx-user-guide-y1HRxC {
+    font-size: 31px;
+  }
   .addfunds .swaps-fx-portal-user-guide-y1HRxC {
-    background-color: transparent;
-    color: var(--nero);
-    font-family: 'OswaldRegular-Regular', Helvetica;
-    font-size: 85px;
-    font-style: normal;
-    font-weight: bold;
-    height: auto;
-    left: 9%;
-    letter-spacing: 0.00px;
-    line-height: 79px;
-    position: absolute;
-    text-align: left;
-    text-shadow: 0px 3px 6px rgb(0 0 0 / 16%);
-    top: 324px;
-    white-space: nowrap;
-    width: auto;
+    font-size: 90px;
+    line-height: 104px;
+    top: 239px;
+  }
+  .addfunds .everything-you-se-our-services-y1HRxC  {
+    top: 433px;
+  }
+  .addfunds .line-8-0xy0vn {
+    top: 54px !important;
+  }
 }
-.addfunds .everything-you-se-our-services-y1HRxC {
-  background-color: transparent;
-  height: auto;
-  left: 9%;
-  letter-spacing: 0.00px;
-  line-height: 42px;
-  position: absolute;
-  text-align: left;
-  top: 476px;
-  width: 600px;
-  font-size: 40px !important;
+
+
+
+@media (max-width: 2000px) {
+  .addfunds .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 70px;
+    line-height: 78px;
+    top: 190px;
+  }
+  .addfunds .everything-you-se-our-services-y1HRxC  {
+    top: 345px;
+  }
 }
-.addfunds .add-funds-y1HRxC {
-  font-size: 70px;
+
+
+
+@media (max-width: 1500px) {
+  .addfunds .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 51px;
+    line-height: 60px;
+    top: 190px;
+  }
+  .addfunds .everything-you-se-our-services-y1HRxC  {
+    top: 309px;
+    font-size: 30px !important;
+    width: 500px;
+  }
+  .addfunds .add-funds-y1HRxC {
+    font-size: 39px;
+  }
 }
-.addfunds .line-8-0xy0vn {
-  top: 44px;
+
+
+
+@media (min-width: 1500px) {
+  .addfunds .add-funds-y1HRxC {
+    font-size: 66px !important;
+  }
+  .addfunds .line-8-0xy0vn {
+    font-size: 44px;
+    top: 57px;
+  }
 }
-.addfunds .flex-row-C61RwL {
-margin-top: 4%;
-}
-.addfunds .adding-funds-to-ounts-made-easy-0PZcXW {
-  font-size: 50px;
-}
-.words {
-  font-size: 27px !important;
-}
-/*.addfunds .image-15-C61RwL {
-    top: 1280px;
-}
-.addfunds .flex-col-dXBp89 {
-  align-items: center;
-  align-self: flex-end;
-  background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 1;
-  height: auto;
-  justify-content: flex-start;
-  position: relative;
-  width: 50%;
-  margin-left: 12%;
-  overflow: auto;
-  top: 110px;
-}
-.addfunds .flex-col-Xi618D {
-  align-items: center;
-  align-self: flex-end;
-  background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 1;
-  height: auto;
-  justify-content: flex-start;
-  position: relative;
-  width: 50%;
-  margin-left: 12%;
-  overflow: auto;
-  top: 110px;
-}
-}
-*/
+
+
 
 @media (max-width: 1200px) {
   .addfunds .swapslogoimage-transparent-y1HRxC {
@@ -703,152 +704,280 @@ margin-top: 4%;
   .addfunds .line-1-y1HRxC {
     top: 85px;
   }
-  .addfunds .adding-funds-to-ounts-made-easy-0PZcXW
-  .addfunds .automatic-payme-dit-debit-cards-0PZcXW {
-    font-size: 23px;
-    font-weight: bold;
+  .addfunds .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 44px;
+    line-height: 48px;
+    top: 155px;
   }
-  .words {
-   font-size: 17px !important;
+  .addfunds .everything-you-se-our-services-y1HRxC  {
+    top: 253px;
+    font-size: 28px !important;
+    width: 500px;
+    line-height: 32px;
   }
+  .addfunds .letters {
+    top: -218px;
+  }
+  .addfunds .adding-funds-to-ounts-made-easy-0PZcXW {
+    font-size: 27px;
+  }
+  .addfunds .click-on-the-wa-account-option-6G7QO0,
+  .addfunds .select-the-paym-ent-by-currency-6G7QO0 {
+    font-size: 12px;
+  }
+  .addfunds .click-on-the-wa-account-option-wcA9lP,
+  .addfunds .select-the-paym-ent-by-currency-wcA9lP,
+  .addfunds .manual-payments-nto-your-wallet-aewt80,
+  .addfunds .automatic-payme-for-transaction-aewt80{
+    font-size: 14px;
+  }
+  .addfunds .image-13-y0eQTV {
+    width: 38%;
+    margin-left: 10%;
+  }
+  .addfunds .group-10-0PZcXW {
+    height: 53px;
+  }
+}
 
 
-}
-@media (max-width: 1000px) {
-  
- 
-}
 
 @media (max-width: 900px) {
-  .addfunds .everything-you-se-our-services-y1HRxC {
-    top: 198px;
-    width: 200px;
-  }
-  .addfunds .swaps-fx-portal-user-guide-y1HRxC  {
-    top: 138px;
-    line-height: 30px;
-    font-size: 29px;
+  .addfunds .grey-back-y1HRxC {
+    height: 75%;
   }
   .addfunds .swapslogoimage-transparent-y1HRxC {
-    margin-top: -18%;
+    margin-left: 6%;
+    width: 138%;
+    margin-top: -23%;
   }
-  .addfunds .add-funds-y1HRxC {
-    font-size: 25px;
+  .addfunds .swaps-fx-user-guide-y1HRxC {
+    font-size: 20px;
     top: 57px;
   }
+  .addfunds .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 26px;
+    line-height: 30px;
+    top: 125px;
+    left: 11%;
+  }
+  .addfunds .everything-you-se-our-services-y1HRxC  {
+    top: 187px;
+    font-size: 16px !important;
+    width: 283px;
+    line-height: 19px;
+    left: 11%;
+  }
+  .addfunds .add-funds-y1HRxC {
+    font-size: 28px;
+  }
   .addfunds .line-8-0xy0vn {
-    top: 46px;
+    top: 37px;
   }
- 
-  .addfunds .flex-col-dXBp89 {
-    top: 0px;
+  .addfunds .letters {
+    margin-right: 5%;
+    margin-left: 12%;
+    width: 100%;
+    top: 150px;
   }
-  
-
-
+  .addfunds .image-13-y0eQTV {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 276px;
+    width: 57%;
+  }
+  .addfunds .adding-funds-to-ounts-made-easy-0PZcXW {
+    font-size: 33px;
+  }
+  .addfunds .group-10-0PZcXW {
+    height: 67px;
+    margin-left: 5px;
+  }
+  .addfunds .click-on-the-wa-account-option-6G7QO0, 
+  .addfunds .select-the-paym-ent-by-currency-6G7QO0,
+  .addfunds .click-on-the-wa-account-option-wcA9lP, 
+  .addfunds .select-the-paym-ent-by-currency-wcA9lP, 
+  .addfunds .manual-payments-nto-your-wallet-aewt80, 
+  .addfunds .automatic-payme-for-transaction-aewt80{
+    font-size: 14px;
+  }
+  .addfunds .group-9-0PZcXW {
+    left: 38px;
+  }
+  .addfunds .group-11-0PZcXW,
+  .addfunds .automatic-payme-for-transaction-aewt80 {
+    width: 100%;
+  }
 }
-@media (max-width: 750px) {
- 
-}
-
-
-@media (max-width: 700px) {
 
 
 
 
 @media (max-width: 600px) {
-  .addfunds .line-1-y1HRxC {
-    width: 90%;
-    top: 44px;
+  .addfunds .yellow-thin-rectangle-y1HRxC,
+  .addfunds .yellow-thin-rectangle-pqRchW {
+    height: 5px;
   }
-  .addfunds .swaps-fx-user-guide-y1HRxC {
-    font-size: 13px;
-    top: 20px;
+  .addfunds .grey-back-y1HRxC {
+    top: 23px;
+    height: 85%;
   }
   .addfunds .swapslogoimage-transparent-y1HRxC {
     margin-left: 6%;
     width: 140%;
+    margin-top: -11%;
   }
-  .addfunds .grey-back-y1HRxC {
-    top: 23px;
-    height: 88%;
+  .addfunds .swaps-fx-user-guide-y1HRxC {
+    font-size: 15px;
+    top: 48px;
   }
-  .addfunds .black-top-rectangle-y1HRxC {
-    height: 14px;
-  }
-  .addfunds .yellow-thin-rectangle-y1HRxC {
-    height: 4px;
-    top: 15px;
-  }
-  .addfunds .everything-you-se-our-services-y1HRxC {
-    top: 122px;
-    font-size: 13px;
-    width: 161px;
-    line-height: 13px;
+  .addfunds .line-1-y1HRxC {
+    top: 70px;
   }
   .addfunds .swaps-fx-portal-user-guide-y1HRxC {
-    top: 84px;
-    font-size: 18px;
-    line-height: 17px;
-    width: 50%;
+    font-size: 20px;
+    line-height: 22px;
+    top: 125px;
   }
+  .addfunds .everything-you-se-our-services-y1HRxC  {
+    top: 169px;
+    font-size: 12px !important;
+    width: 187px;
+    line-height: 18px;
+  }
+  .addfunds .add-funds-y1HRxC {
+    font-size: 17px;
+    margin-top: 0px;
+  }
+  .addfunds .line-8-0xy0vn {
+    margin-top: -11px;
+  }
+  .addfunds .letters {
+    width: 100%;
+    top: 82px;
+  }
+  .addfunds .adding-funds-to-ounts-made-easy-0PZcXW {
+    font-size: 23px;
+  }
+  .addfunds .group-10-0PZcXW {
+    height: 52px;
+    width: 80%;
+  }
+  .addfunds .click-on-the-wa-account-option-6G7QO0, 
+  .addfunds .select-the-paym-ent-by-currency-6G7QO0, 
+  .addfunds .click-on-the-wa-account-option-wcA9lP, 
+  .addfunds .select-the-paym-ent-by-currency-wcA9lP,
+   .addfunds .manual-payments-nto-your-wallet-aewt80,
+   .addfunds .automatic-payme-for-transaction-aewt80 {
+     font-size: 10px;
+   }
+   .addfunds .group-9-0PZcXW {
+     left: 27px;
+     height: 53px;
+   }
+   .addfunds .group-11-0PZcXW, 
+   .addfunds .automatic-payme-for-transaction-aewt80 {
+     width: 91%;
+   }
+   .addfunds .ellipse-16-aewt80 {
+     top: 270px;
+   }
+   .addfunds .image-13-y0eQTV {
+     margin-top: 124px;
+     width: 72%;
+   }
 }
 
-
-@media (max-width: 550px) {
-
-  
-
-}
 
 
 @media (max-width: 400px) {
-  
-  .addfunds .everything-you-se-our-services-y1HRxC {
-    top: 136px;
+  .addfunds .grey-back-y1HRxC {
+    top: 23px;
+    height: 113%;
+  }
+  .addfunds .swapslogoimage-transparent-y1HRxC {
+    margin-top: -6%;
+    width: 1;
+  }
+  .addfunds .swaps-fx-user-guide-y1HRxC {
     font-size: 12px;
-    width: 158px;
-    line-height: 14px;
-    
+    top: 48px;
+  }
+  .addfunds .line-1-y1HRxC {
+    top: 69px;
   }
   .addfunds .swaps-fx-portal-user-guide-y1HRxC {
-    top: 92px;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 21px;
+    top: 134px;
   }
-  /*.addfunds .add-funds-y1HRxC {
-    font-size: 25px;
-  }*/
- 
- 
+  .addfunds .everything-you-se-our-services-y1HRxC  {
+    top: 177px;
+    font-size: 11px !important;
+    width: 153px;
+    line-height: 14px;
+  }
+  .addfunds .add-funds-y1HRxC {
+    margin-top: 50px;
+  }
+  .addfunds .line-8-0xy0vn {
+    margin-top: 40px;
+  }
+  .addfunds .adding-funds-to-ounts-made-easy-0PZcXW {
+    font-size: 17px;
+  }
+  .addfunds .click-on-the-wa-account-option-6G7QO0, 
+  .addfunds .select-the-paym-ent-by-currency-6G7QO0, 
+  .addfunds .click-on-the-wa-account-option-wcA9lP, 
+  .addfunds .select-the-paym-ent-by-currency-wcA9lP, 
+  .addfunds .manual-payments-nto-your-wallet-aewt80, 
+  .addfunds .automatic-payme-for-transaction-aewt80 {
+    font-size: 7px;
+  }
+  .addfunds .group-10-0PZcXW {
+    height: 42px;
+  }
+  .addfunds .group-9-0PZcXW {
+    height: 45px;
+  }
+  .addfunds .ellipse-16-aewt80 {
+    top: 242px;
+  }
+  .addfunds .group-11-0PZcXW {
+    height: 117px;
+  }
 }
 
 
+
 @media (max-width: 300px) {
+  .addfunds .grey-back-y1HRxC {
+    height: 123%;
+  }
+  .addfunds .swapslogoimage-transparent-y1HRxC {
+    margin-top: -7%;
+  }
   .addfunds .swaps-fx-user-guide-y1HRxC {
     font-size: 10px;
-  }
-  .addfunds .line-1-y1HRxC {
-    top: 39px;
-  }
-  .addfunds .swaps-fx-portal-user-guide-y1HRxC {
-    left: 14%;
-    top: 63px;
-    font-size: 12px;
-    line-height: 13px;
-  }
-  .addfunds .everything-you-se-our-services-y1HRxC {
-    top: 88px;
-    font-size: 9px;
-    width: 118px;
-    line-height: 13px;
-    left: 14%;
-  }
-  .addfunds .add-funds-y1HRxC  {
-    font-size: 19px;
-  }
-  .addfunds .line-8-0xy0vn {
     top: 42px;
   }
-
+  .addfunds .line-1-y1HRxC {
+    top: 59px;
+  }
+  .addfunds .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 14px;
+    line-height: 16px;
+  }
+  .addfunds .everything-you-se-our-services-y1HRxC  {
+    font-size: 9px !important;
+    width: 159px;
+    top: 133px;
+  }
+  .addfunds .add-funds-y1HRxC {
+    font-size: 14px;
+    margin-top: 63px;
+  }
+  .addfunds .line-8-0xy0vn {
+    margin-top: 52px;
+  }
+}
