@@ -52,7 +52,7 @@
   color: var(--nero);
   flex-shrink: 1;
   font-family: 'Oswald', Helvetica;
-  font-size: 25px;
+  font-size: 29px;
   font-style: normal;
   font-weight: 300;
   height: auto;
@@ -60,8 +60,6 @@
   line-height: 25px;
   margin-right: 101.0px;
   margin-top: 162px;
-  min-height: 36px;
-  min-width: 437px;
   position: relative;
   text-align: left;
   white-space: nowrap;
@@ -348,7 +346,31 @@
   position: relative;
   width: 100%;
 }
+.addfunds .flexbox2 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: row wrap;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  position: relative;
+  width: 100%;
+}
 .addfunds .letters {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  object-fit: cover;
+  position: relative;
+  margin-right: -27%;
+  margin-left: 9%;
+  width: 65%;
+  top: -250px;
+}
+.addfunds .letters2 {
   align-self: flex-end;
   background-color: transparent;
   flex-shrink: 1;
@@ -430,24 +452,35 @@
   position: relative;
   width: 40%;
 }
+
 .addfunds .image-14-y0eQTV {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
   flex-shrink: 1;
-  height: 237px;
-  margin-top: 188px;
-  object-fit: cover;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 204.0px;
+  margin-left: 8%;
+  margin-right: 2%;
+  margin-top: 158px;
+  top: -80px;
   position: relative;
-  width: 511px;
+  width: 40%;
 }
 .addfunds .image-15-C61RwL {
   background-color: transparent;
   flex-shrink: 1;
-  height: 415px;
-  margin-right: 228px;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
   margin-top: 132px;
+  margin-bottom: 250px;
   object-fit: cover;
   position: relative;
-  width: 811px;
+  width: 60%;
 }
 .addfunds .line-1-y1HRxC {
   background-color: transparent;
@@ -780,10 +813,22 @@
     width: 100%;
     top: 150px;
   }
+  .addfunds .letters2 {
+    margin-right: 5%;
+    margin-left: 12%;
+    width: 100%;
+    top: -46px;
+  }
   .addfunds .image-13-y0eQTV {
     margin-left: auto;
     margin-right: auto;
     margin-top: 276px;
+    width: 57%;
+  }
+  .addfunds .image-14-y0eQTV {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 124px;
     width: 57%;
   }
   .addfunds .adding-funds-to-ounts-made-easy-0PZcXW {
@@ -807,6 +852,16 @@
   .addfunds .group-11-0PZcXW,
   .addfunds .automatic-payme-for-transaction-aewt80 {
     width: 100%;
+  }
+  .addfunds .ellipse-16-aewt80 {
+    top: 296px;
+  }
+  .addfunds .flexbox2 {
+    top: -170px;
+  }
+  .addfunds .image-15-C61RwL {
+    width: 70%;
+    top: -200px;
   }
 }
 
