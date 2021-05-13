@@ -255,18 +255,16 @@
   width: 65%;
 }
 .withdrawfunds .flex-col-dXBp89 {
-  align-items: flex-start;
+  align-self: flex-end;
   background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
   flex-shrink: 1;
   height: auto;
-  justify-content: flex-start;
-  margin-bottom: 37.0px;
-  min-height: 113px;
+  object-fit: cover;
   position: relative;
-  width: 456px;
+  margin-right: -27%;
+  margin-left: 9%;
+  width: 65%;
+  top: -250px;
 }
 .withdrawfunds .flex-col-fKmFVR {
   align-self: flex-end;
@@ -306,34 +304,28 @@
   width: 100%;
 }
 .withdrawfunds .flex-row-C61RwL {
-  align-items: center;
-  align-self: center;
+  align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   flex-shrink: 1;
-  height: 188px;
+  height: auto;
   justify-content: flex-start;
-  margin-left: 130.0px;
-  margin-top: 116px;
-  min-width: 1291px;
   position: relative;
-  width: auto;
+  width: 100%;
 }
 .withdrawfunds .flex-row-oV5UrE {
-  align-items: center;
+  align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   flex-shrink: 1;
-  height: 424px;
+  height: auto;
   justify-content: flex-start;
-  margin-left: 202px;
-  margin-top: 50px;
   position: relative;
-  width: auto;
+  width: 100%;
 }
 .withdrawfunds .flex-row-xpmbvu {
   align-items: flex-start;
@@ -374,20 +366,23 @@
   width: 80%;
 }
 .withdrawfunds .group-16-QkTteQ {
+  align-self: flex-end;
   background-color: transparent;
   flex-shrink: 1;
-  height: 168px;
-  margin-bottom: 6.0px;
-  margin-left: 58px;
+  height: 163px;
+  object-fit: cover;
   position: relative;
-  width: 691px;
+  margin-right: -27%;
+  margin-left: 0%;
+  width: 65%;
+  top: -399px;
 }
 .withdrawfunds .group-17-0PZcXW {
   align-self: flex-end;
   background-color: transparent;
   flex-shrink: 1;
-  height: 64px;
-  margin-top: 13px;
+  height: 74px;
+  margin-top: 31px;
   position: relative;
   width: 440px;
 }
@@ -423,21 +418,37 @@
   width: 38%;
 }
 .withdrawfunds .image-18-QkTteQ {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
   flex-shrink: 1;
-  height: 424px;
-  object-fit: cover;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 204.0px;
+  margin-left: 7%;
+  margin-right: 2%;
+  margin-top: 158px;
   position: relative;
-  width: 663px;
+  width: 44%;
+  top: -50px;
 }
 .withdrawfunds .image-19-dXBp89 {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
   flex-shrink: 1;
-  height: 188px;
-  margin-left: 67px;
-  object-fit: cover;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 204.0px;
+  margin-left: 6%;
+  margin-right: 2%;
+  margin-top: 158px;
   position: relative;
-  width: 768px;
+  width: 45%;
 }
 .withdrawfunds .line-1-5sTxFf {
   background-color: transparent;
@@ -451,12 +462,12 @@
 .withdrawfunds .line-11-0xy0vn {
   background-color: transparent;
   flex-shrink: 1;
-  height: 1px;
-  margin-left: 90.5px;
-  margin-top: 11px;
+  height: 2px;
+  margin-left: 4%;
   object-fit: cover;
   position: relative;
-  width: 1599px;
+  margin-top: 11px;
+  width: 100%;
 }
 .withdrawfunds .line-8-zHcrMx {
   background-color: transparent;
@@ -479,7 +490,7 @@
   height: auto;
   letter-spacing: 0.00px;
   line-height: 25px;
-  margin-left: -25px;
+  margin-left: 0px;
   min-height: 36px;
   min-width: 250px;
   position: relative;
@@ -545,23 +556,20 @@
 }
 .withdrawfunds .setup-withdrawal-account-3xHcwy {
   background-color: transparent;
-  color: var(--nero);
-  flex-shrink: 1;
-  font-family: 'Oswald', Helvetica;
-  font-size: 35px;
+  color: rgba(9,6,1,1.0);
+  font-family: 'OswaldRegular-Regular', Helvetica;
+  font-size: 30px;
   font-style: normal;
-  font-weight: 300;
+  font-weight: bold;
   height: auto;
+  right: 65%;
   letter-spacing: 0.00px;
-  line-height: 35px;
-  margin-top: 192px;
-  min-height: 49px;
-  min-width: 318px;
+  line-height: 30px;
   position: relative;
   text-align: left;
-  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
   white-space: nowrap;
   width: auto;
+  top: 0%;
 }
 .withdrawfunds .swaps-fx-portal-user-guide-5sTxFf {
   background-color: transparent;
@@ -739,6 +747,18 @@
 .withdrawfunds .flex-col-GyJUNH {
   top: -258px;
 }
+.withdrawfunds .setup-withdrawal-account-3xHcwy {
+  right: 72% !important;
+}
+.withdrawfunds .group-16-QkTteQ {
+  height: 238px !important;
+  margin-left: 1% !important;
+  top: -454px !important;
+}
+.withdrawfunds .group-17-0PZcXW {
+  height: 99px;
+  margin-top: 55px;
+}
 
 }
 
@@ -769,6 +789,7 @@
     top: -250px;
   }
 
+ 
 }
 
 
@@ -783,15 +804,29 @@
     top: 57px;
   }
   .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86,
-  .withdrawfunds .missing-withdrawal-account-3xHcwy {
+  .withdrawfunds .missing-withdrawal-account-3xHcwy,
+  .withdrawfunds .to-remove-a-withdrawal-account-0PZcXW {
     font-size: 42px;
   }
   .withdrawfunds .group-15-3xHcwy {
     margin-top: 43px;
     height: 92px;
   }
+  .withdrawfunds .setup-withdrawal-account-3xHcwy {
+    font-size: 42px !important;
+    right: 62%;
+  }
+  .withdrawfunds .group-16-QkTteQ {
+    margin-left: 4%;
+    top: -447px; 
+  }
+
 
 }
+
+
+
+
 @media (max-width: 1500px) {
   .withdrawfunds .everything-you-se-our-services-5sTxFf {
     top: 309px;
@@ -847,17 +882,31 @@
     top: -187px;
   }
   .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86,
-  .withdrawfunds .missing-withdrawal-account-3xHcwy {
+  .withdrawfunds .missing-withdrawal-account-3xHcwy,
+  .withdrawfunds .to-remove-a-withdrawal-account-0PZcXW {
     font-size: 25px;
   }
   .withdrawfunds .group-14-Sxvg86 {
     height: 124px;
     top: -32px;
   }
+  .withdrawfunds .setup-withdrawal-account-3xHcwy {
+    right: 58%;
+  }
   .withdrawfunds .select-the-desi-he-account-type-p8MuxV,
    .segoeui-regular-normal-nero-20px {
      font-size: 12px !important;
    }
+   .withdrawfunds .image-18-QkTteQ {
+     width: 41%;
+   }
+   .withdrawfunds .group-16-QkTteQ {
+     height: 120px;
+     margin-left: -1%;
+     top: -324px;
+   }
+   
+
 }
 
 
@@ -934,6 +983,40 @@
  .withdrawfunds .group-15-3xHcwy {
    width: 100%;
  }
+ .withdrawfunds .image-18-QkTteQ {
+  margin-right: auto;
+  margin-left: auto;
+  width: 72%;
+  margin-top: 100px;
+ }
+ .withdrawfunds .group-16-QkTteQ {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 123px;
+  width: 70%;
+ }
+ .withdrawfunds .setup-withdrawal-account-3xHcwy {
+   right: 38%;
+ }
+ .withdrawfunds .complete-the-co-selected-above-vvCDiG {
+   top: 47px;
+ }
+ .withdrawfunds .flex-col-dXBp89 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 123px;
+  width: 70%;
+ }
+ .withdrawfunds .image-19-dXBp89 {
+  margin-right: auto;
+  margin-left: auto;
+  width: 72%;
+  margin-top: -132px;
+ }
+ .withdrawfunds .flex-row-C61RwL {
+   top: -85px;
+ }
+
 }
 
 
@@ -982,7 +1065,9 @@
   .withdrawfunds .line-8-zHcrMx {
     margin-top: -11px;
   }
-  .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86 {
+  .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86,
+  .withdrawfunds .missing-withdrawal-account-3xHcwy,
+  .withdrawfunds .to-remove-a-withdrawal-account-0PZcXW {
     font-size: 18px !important;
   }
   
@@ -1008,6 +1093,33 @@
   }
   .withdrawfunds .image-17-GyJUNH {
     margin-top: -36px;
+  }
+  .withdrawfunds .complete-the-co-selected-above-vvCDiG {
+    top: 39px;
+  }
+  .withdrawfunds .group-16-QkTteQ {
+    height: 98px;
+  }
+  .withdrawfunds .flex-row-0xy0vn {
+    margin-bottom: -110px;
+  }
+  .withdrawfunds .setup-withdrawal-account-3xHcwy {
+    font-size: 17px;
+    right: 45%;
+    top: 0.5%;
+  }
+  .withdrawfunds .group-17-0PZcXW {
+    height: 46px;
+    margin-top: -3px;
+  }
+  .withdrawfunds .flex-row-C61RwL {
+    top: -140px;
+  }
+  .withdrawfunds .image-19-dXBp89 {
+    margin-top: -181px;
+  }
+  .withdrawfunds .confirm-action-omplete-removal-7VPqCY {
+    top: 19px;
   }
 }
 
@@ -1060,7 +1172,8 @@
     width: 70%;
   }
   .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86,
-  .withdrawfunds .missing-withdrawal-account-3xHcwy {
+  .withdrawfunds .missing-withdrawal-account-3xHcwy,
+  .withdrawfunds .to-remove-a-withdrawal-account-0PZcXW {
     font-size: 14px !important;
   }
   .withdrawfunds .select-the-desi-he-account-type-p8MuxV, 
@@ -1072,8 +1185,27 @@
   }
   .withdrawfunds .flex-row-0xy0vn {
     top: -30px;
+    margin-bottom: -157px;
   }
-
+  .withdrawfunds .complete-the-co-selected-above-vvCDiG {
+    top: 29px;
+  }
+  .withdrawfunds .group-16-QkTteQ {
+    height: 82px;
+  }
+  .withdrawfunds .setup-withdrawal-account-3xHcwy {
+    right: 33%;
+  }
+  .withdrawfunds .image-19-dXBp89 {
+    margin-top: -203px;
+    margin-bottom: 50px;
+  }
+  .withdrawfunds .group-17-0PZcXW {
+    height: 38px;
+  }
+  .withdrawfunds .confirm-action-omplete-removal-7VPqCY {
+    top: 14px;
+  }
 
 
 }
