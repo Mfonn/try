@@ -1,13 +1,22 @@
 /* screen - sign-up */
 
 .sign-up {
+  align-items: flex-end;
   background-color: rgba(255,255,255,1.0);
-  height: 100vh;
-  margin: 0px;
-  min-height: 2287px;
-  min-width: 1696px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
   overflow: hidden;
   overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.sign-up .overlap-group-zHcrMx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
   position: relative;
   width: 100%;
 }
@@ -18,7 +27,8 @@
   font-family: 'Oswald', Helvetica;
   font-size: 30px;
   font-style: normal;
-  font-weight: 300;
+  font-weight: bold;
+  left: 1px;
   height: 43px;
   letter-spacing: 0.00px;
   line-height: 30px;
@@ -26,7 +36,8 @@
   right: calc(36.66% - 71px);
   text-align: left;
   white-space: nowrap;
-  width: 193px;
+  width: 100%;
+  top: 103px;
 }
 .sign-up .animate-enter {
   animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
@@ -35,28 +46,22 @@ opacity: 0;
 }
 .sign-up .black-top-rectangle-C61RwL {
   background-color: rgba(4,27,45,1.0);
-  height: 36px;
-  left: 0px;
+  height: 37px;
   position: absolute;
-  top: 0px;
   width: 100%;
+  top: 0px;
 }
 .sign-up .everything-you-se-our-services-vZhGO4 {
   background-color: transparent;
-  color: var(--nero);
-  flex-shrink: 1;
-  font-family: 'SegoeUI-Regular', Helvetica;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
   height: auto;
+  left: 9%;
   letter-spacing: 0.00px;
-  line-height: 20px;
-  margin-top: -3px;
-  min-height: 56px;
-  position: relative;
+  line-height: 32px;
+  position: absolute;
   text-align: left;
-  width: 350px;
+  top: 253px;
+  width: 600px;
+  font-size: 26px !important;
 }
 .sign-up .getting-started-C61RwL {
   background-color: transparent;
@@ -64,23 +69,21 @@ opacity: 0;
   font-family: 'OswaldRegular-Regular', Helvetica;
   font-size: 30px;
   font-style: normal;
-  font-weight: 400;
-  height: 43px;
-  left: 76px;
+  font-weight: bold;
+  height: auto;
+  margin-left: 7%;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(23.75% - 10px);
   white-space: nowrap;
-  width: 170px;
+  width: auto;
 }
 .sign-up .grey-back-C61RwL {
   background-color: rgba(238,238,238,1.0);
-  height: 419px;
-  left: 0px;
+  height: 80%;
   position: absolute;
-  top: 52px;
+  top: 53px;
   width: 100%;
 }
 .sign-up .group-1-C61RwL {
@@ -92,113 +95,164 @@ opacity: 0;
   width: 100%;
 }
 .sign-up .group-30-C61RwL {
+  align-items: flex-start;
   background-color: transparent;
-  height: 249px;
-  position: absolute;
-  right: 11px;
-  top: calc(31.94% - 80px);
-  width: 763px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 204.0px;
+  margin-right: 2%;
+  margin-left: 9%;
+  margin-top: 390px;
+  position: relative;
+  width: 36%;
 }
 .sign-up .image-1-C61RwL {
+  align-self: flex-end;
   background-color: transparent;
-  border-radius: 6px;
-  display: block;
-  height: 361px;
-  left: 87px;
+  flex-shrink: 1;
+  height: auto;
   object-fit: cover;
-  position: absolute;
-  top: calc(31.05% - 112px);
-  width: 759px;
-opacity: 0;
+  position: relative;
+  margin-left: 9%;
+  width: 42%;
+  top: -168px;
 }
 .sign-up .image-2-C61RwL {
+  align-self: flex-end;
   background-color: transparent;
-  bottom: calc(39.59% - 249px);
-  height: 630px;
+  flex-shrink: 1;
+  height: auto;
   object-fit: cover;
-  position: absolute;
-  right: 229px;
-  width: 505px;
+  position: relative;
+  margin-right: -118%;
+  width: 85%;
+  top: -19px;
+}
+.sign-up .lines {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-bottom: 204.0px;
+  margin-left: 11%;
+  margin-right: 2%;
+  position: relative;
+  width: 38%;
 }
 .sign-up .image-3-C61RwL {
+  align-self: flex-end;
   background-color: transparent;
-  bottom: 134px;
-  height: 421px;
-  left: calc(24.45% - 124px);
+  flex-shrink: 1;
+  height: auto;
   object-fit: cover;
-  position: absolute;
-  width: 506px;
+  position: relative;
+  margin-right: 2%;
+  margin-left: 9%;
+  width: 39%;
+  margin-bottom: 250px;
+  top: -110px;
+}
+.sign-up .account {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  margin-left: 6%;
+  justify-content: flex-start;
+  margin-bottom: 204.0px;
+  position: relative;
+  width: 43%;
 }
 .sign-up .line-1-C61RwL {
   background-color: transparent;
   height: 1px;
-  left: 62px;
+  margin-left: 2%;
   object-fit: cover;
   position: absolute;
-  top: 114px;
-  width: calc(100.00% - 96px);
+  top: 104px;
+  width: 95%;
 }
 .sign-up .line-2-C61RwL {
   background-color: transparent;
-  height: 1px;
-  left: 62px;
+  flex-shrink: 1;
+  height: 2px;
+  margin-left: 4%;
   object-fit: cover;
-  position: absolute;
-  top: 25.07%;
-  width: calc(100.00% - 96px);
+  position: relative;
+  top: 42px;
+  width: 94%;
+}
+.sign-up .flex-row-xpmbvu {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: row wrap;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  position: relative;
+  width: 100%;
 }
 .sign-up .line-3-C61RwL {
-  background-color: transparent;
-  bottom: calc(49.49% - 155px);
-  height: 314px;
-  left: calc(26.65% - 5px);
-  object-fit: cover;
+  border-left: 2px solid black;
+  height: 69%;
   position: absolute;
-  width: 19px;
+  left: 50%;
+  top: -27%;
 }
 .sign-up .line-4-C61RwL {
-  background-color: transparent;
-  bottom: calc(43.03% - 8px);
-  height: 19px;
-  left: calc(36.40% - 170px);
-  object-fit: cover;
+  border-bottom: 2px solid black;
   position: absolute;
-  width: 468px;
+  left: 50%;
+  top: 42%;
+  width: 81%;
 }
 .sign-up .line-6-C61RwL {
-  background-color: transparent;
-  bottom: calc(20.03% - 45px);
-  height: 223px;
-  object-fit: cover;
+  border-left: 2px solid black;
+  height: 235%;
   position: absolute;
-  right: calc(27.48% - 5px);
-  width: 19px;
+  left: 50%;
+  top: -161%;
 }
 .sign-up .line-7-C61RwL {
-  background-color: transparent;
-  bottom: 412px;
-  height: 20px;
-  object-fit: cover;
+  border-bottom: 2px solid black;
   position: absolute;
-  right: calc(35.99% - 149px);
-  width: 415px;
+  left: -18%;
+  top: 70%;
+  width: 68%;
 }
 .sign-up .polygon-1-C61RwL {
   background-color: transparent;
-  bottom: calc(42.95% - 20px);
+  bottom: calc(52.95%);
   height: 47px;
   object-fit: cover;
   position: absolute;
-  right: calc(45.33% - 26px);
+  right: calc(-34.67%);
   width: 57px;
+  transform: rotateY( 
+180deg
+);
 }
 .sign-up .polygon-2-C61RwL {
   background-color: transparent;
-  bottom: 398px;
+  bottom: calc(54.95%);
   height: 47px;
-  left: calc(48.93% - 28px);
   object-fit: cover;
   position: absolute;
+  right: calc(112.33%);
+  top: 54%;
   width: 57px;
 }
 .sign-up .proceed-to-sign-in-VyzZeT {
@@ -266,14 +320,14 @@ opacity: 0;
   font-family: 'Oswald', Helvetica;
   font-size: 35px;
   font-style: normal;
-  font-weight: 300;
+  font-weight: bold;
   height: 49px;
   left: 4px;
   letter-spacing: 0.00px;
   line-height: 35px;
   position: absolute;
   text-align: left;
-  top: 0px;
+  top: -200px;
   white-space: nowrap;
   width: 95px;
 }
@@ -298,19 +352,18 @@ opacity: 0;
 .sign-up .swaps-fx-portal-user-guide-ROslHN {
   background-color: transparent;
   color: var(--nero);
-  flex-shrink: 1;
   font-family: 'OswaldRegular-Regular', Helvetica;
-  font-size: 35px;
+  font-size: 44px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: bold;
   height: auto;
+  left: 9%;
   letter-spacing: 0.00px;
-  line-height: 35px;
-  min-height: 96px;
-  min-width: 202px;
-  position: relative;
+  line-height: 48px;
+  position: absolute;
   text-align: left;
-  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  text-shadow: 0px 3px 6px rgb(0 0 0 / 16%);
+  top: 155px;
   white-space: nowrap;
   width: auto;
 }
@@ -321,24 +374,24 @@ opacity: 0;
   font-size: 25px;
   font-style: normal;
   font-weight: 400;
-  height: 35px;
-  left: 62px;
+  height: auto;
+  margin-left: 2%;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
   text-align: left;
-  top: 74px;
+  top: 72px;
   white-space: nowrap;
-  width: 223px;
+  width: auto;
 }
 .sign-up .swapslogoimage-transparent-C61RwL {
   background-color: transparent;
-  height: 824px;
+  height: auto;
+  margin-left: 25%;
   object-fit: cover;
-  position: absolute;
-  right: -511px;
-  top: -297px;
-  width: 1684px;
+  position: relative;
+  width: 111%;
+  margin-top: -15%;
 }
 .sign-up .x1-a-one-time-to-ocess-completed-C61RwL {
   background-color: transparent;
@@ -351,23 +404,24 @@ opacity: 0;
   height: 119px;
   letter-spacing: 0.00px;
   line-height: 30px;
-  position: absolute;
-  right: -2px;
+  position: relative;
   text-align: left;
-  width: 765px;
+  width: 100%;
+  top: 141px;
 }
 .sign-up .x1-click-on-the-sign-up-button-xxkKyh {
   background-color: transparent;
   bottom: 3px;
   color: var(--nero);
   font-family: "Segoe UI", Helvetica;
-  font-size: 20px;
+  font-size: 16px;
   height: 149px;
   left: 0px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
+  top: -121px;
   width: calc(100.00% + 2px);
 }
 .sign-up .yellow-thin-rectangle-C61RwL {
@@ -375,14 +429,14 @@ opacity: 0;
   height: 8px;
   left: 0px;
   position: absolute;
-  top: 40px;
+  top: 41px;
   width: 100%;
 }
 .sign-up .you-can-easily-following-steps-xxkKyh {
   background-color: transparent;
   color: var(--nero);
   font-family: 'SegoeUI-Regular', Helvetica;
-  font-size: 22px;
+  font-size: 18px;
   font-style: normal;
   font-weight: 400;
   height: 32px;
@@ -391,11 +445,580 @@ opacity: 0;
   line-height: 22px;
   position: absolute;
   text-align: left;
-  top: calc(24.88% - 8px);
-  width: 586px;
+  top: -153px;
+  width: 108%;
 }
 @keyframes animate-enter-frames {
 
 from{opacity: 0;}
 to{opacity: 1;}
+}
+
+
+
+
+@media (min-width: 2000px) {
+  .sign-up .grey-back-C61RwL {
+    height: 85%;
+  }
+  .sign-up .swapslogoimage-transparent-C61RwL {
+    margin-top: -22%;
+  }
+  .sign-up .swaps-fx-user-guide-C61RwL {
+    font-size: 31px;
+  }
+  .sign-up .swaps-fx-portal-user-guide-ROslHN {
+    font-size: 90px;
+    line-height: 104px;
+    top: 239px;
+  }
+  .sign-up .everything-you-se-our-services-vZhGO4 {
+    top: 441px;
+    width: 538px;
+    font-size: 34px !important;
+  }
+  .sign-up .line-2-C61RwL {
+    top: 54px !important;
+  }
+}
+
+
+
+@media (max-width: 2000px) {
+  .sign-up .grey-back-C61RwL {
+    height: 83%;
+  }
+  .sign-up .swapslogoimage-transparent-C61RwL {
+    margin-top: -18%;
+  }
+  .sign-up .swaps-fx-portal-user-guide-ROslHN {
+    font-size: 70px;
+    line-height: 78px;
+    top: 190px;
+  }
+  .sign-up .everything-you-se-our-services-vZhGO4 {
+    top: 345px;
+    width: 581px;
+    font-size: 31px !important;
+  }
+}
+
+
+
+
+@media (min-width: 1500px) {
+  .sign-up .getting-started-C61RwL {
+    font-size: 66px !important;
+  }
+  .sign-up .line-2-C61RwL {
+    top: 44px;
+  }
+  
+  .sign-up .image-1-C61RwL {
+    top: -100px;
+  }
+  .sign-up .sign-up-xxkKyh {
+    font-size: 41px;
+    margin-left: -13%;
+  }
+
+}
+
+
+
+
+@media (max-width: 1500px) {
+  .sign-up .swaps-fx-portal-user-guide-ROslHN {
+    font-size: 51px;
+    line-height: 60px;
+    top: 190px;
+  }
+  .sign-up .everything-you-se-our-services-vZhGO4 {
+    top: 309px;
+    font-size: 30px !important;
+    width: 500px;
+  }
+  .sign-up .getting-started-C61RwL {
+    font-size: 39px;
+  }
+}
+
+
+
+
+
+@media (max-width: 1200px) {
+  .sign-up .swapslogoimage-transparent-C61RwL {
+    margin-left: 17%;
+    width: 123%;
+    margin-top: -16%;
+  }
+  .sign-up .swaps-fx-user-guide-C61RwL {
+    font-size: 20px;
+    top: 57px;
+  }
+  .sign-up .line-1-C61RwL {
+    top: 85px;
+  }
+  .sign-up .swaps-fx-portal-user-guide-ROslHN {
+    font-size: 44px;
+    line-height: 48px;
+    top: 155px;
+  }
+  .sign-up .everything-you-se-our-services-vZhGO4 {
+    top: 253px;
+    font-size: 28px !important;
+    width: 500px;
+    line-height: 32px;
+  }
+  .sign-up .image-1-C61RwL {
+    top: -265px;
+  }
+  .sign-up .group-30-C61RwL {
+    width: 38%;
+    margin-left: 4%;
+    width: 43%;
+  }
+  .sign-up .sign-up-xxkKyh {
+    font-size: 24px;
+    top: -217px;
+  }
+  .sign-up .you-can-easily-following-steps-xxkKyh {
+    font-size: 15px;
+    top: -177px;
+  }
+  .sign-up .x1-click-on-the-sign-up-button-xxkKyh {
+    font-size: 11px;
+    line-height: 17px;
+    top: -148px;
+  }
+  .sign-up .line-3-C61RwL {
+    height: 53%;
+    top: -55%;
+  }
+  .sign-up .line-4-C61RwL {
+    top: -2%;
+    width: 78%;
+  }
+  .sign-up .polygon-1-C61RwL {
+    bottom: calc(94.99%);
+  }
+  .sign-up .image-2-C61RwL {
+    top: -185px;
+  }
+  .sign-up .image-3-C61RwL {
+    top: -291px;
+    margin-bottom: 0px;
+  }
+  .sign-up .account-validation-C61RwL {
+    top: -170px;
+  }
+  .sign-up .x1-a-one-time-to-ocess-completed-C61RwL {
+    font-size: 15px;
+    top: -136px;
+  }
+  .sign-up .account {
+    margin-left: 3%;
+    margin-bottom: 0px;
+  }
+  .sign-up .line-6-C61RwL {
+    height: 176%;
+    left: 60%;
+    top: -326%;
+  }
+  .sign-up .line-7-C61RwL {
+    left: -7%;
+    top: -150%;
+    width: 68%;
+  }
+  .sign-up .polygon-2-C61RwL {
+    top: -164%;
+    right: calc(100.33%);
+    bottom: calc(54.95%);
+  }
+}
+
+
+
+@media (max-width: 900px) {
+  .sign-up .grey-back-C61RwL {
+    height: 75%;
+  }
+  .sign-up .swapslogoimage-transparent-C61RwL {
+    margin-left: 6%;
+    width: 138%;
+    margin-top: -23%;
+  }
+  .sign-up .swaps-fx-user-guide-C61RwL {
+    font-size: 20px;
+    top: 57px;
+  }
+  .sign-up .swaps-fx-portal-user-guide-ROslHN {
+    font-size: 26px;
+    line-height: 30px;
+    top: 125px;
+    left: 11%;
+  }
+  .sign-up .everything-you-se-our-services-vZhGO4 {
+    top: 187px;
+    font-size: 16px !important;
+    width: 283px;
+    line-height: 19px;
+    left: 11%;
+  }
+  .sign-up .getting-started-C61RwL {
+    font-size: 28px;
+  }
+  .sign-up .line-2-C61RwL {
+    top: 37px;
+  }
+  .sign-up .image-1-C61RwL {
+    width: 70%;
+    top: 53px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .sign-up .group-30-C61RwL {
+    width: 80%;
+    margin-right: auto;
+    margin-left: 19%;
+    margin-top: 302px;
+  }
+  .sign-up .sign-up-xxkKyh {
+    font-size: 29px;
+    top: -220px;
+  }
+  .sign-up .you-can-easily-following-steps-xxkKyh {
+    font-size: 18px;
+    top: -165px;
+  }
+  .sign-up .x1-click-on-the-sign-up-button-xxkKyh {
+    font-size: 13px;
+    line-height: 26px;
+    top: -128px;
+  }
+  .sign-up .line-3-C61RwL {
+    height: 48%;
+    top: -37%;
+    left: 32%;
+  }
+  .sign-up .line-4-C61RwL {
+    top: 10%;
+    width: 57%;
+    left: 31%;
+  }
+  .sign-up .polygon-1-C61RwL {
+    bottom: calc(82.99%);
+    right: calc(-3.67%);
+  }
+  .sign-up .image-2-C61RwL {
+    top: -123px;
+    width: 121%;
+  }
+  .sign-up .account-validation-C61RwL {
+    top: -218px;
+    left: 165px;
+    font-size: 25px;
+  }
+  .sign-up .x1-a-one-time-to-ocess-completed-C61RwL {
+    font-size: 15px;
+    top: -171px;
+    line-height: 34px;
+    left: 164px;
+    width: 151%;
+  }
+  .sign-up .line-6-C61RwL {
+    height: 142%;
+    left: 167%;
+    top: -478%;
+  }
+  .sign-up .line-7-C61RwL {
+    left: 133%;
+    top: -339%;
+    width: 35%;
+  }
+  .sign-up .polygon-2-C61RwL {
+    top: -351%;
+    right: calc(-38.67%);
+    bottom: calc(54.95%);
+    height: 30px;
+    width: 47px;
+  }
+  .sign-up .account-validation-C61RwL {
+    top: -218px;
+    left: 165px;
+    font-size: 25px;
+  }
+  .sign-up .x1-a-one-time-to-ocess-completed-C61RwL {
+    font-size: 15px;
+    top: -171px;
+    line-height: 34px;
+    left: 164px;
+    width: 151%;
+  }
+  .sign-up .image-3-C61RwL {
+    width: 48%;
+  }
+}
+
+
+
+@media (max-width: 600px) {
+  .sign-up .black-top-rectangle-C61RwL {
+    height: 14px;
+  }
+  .sign-up .yellow-thin-rectangle-C61RwL {
+    height: 5px;
+    top: 15px;
+  }
+  .sign-up .grey-back-C61RwL {
+    top: 23px;
+    height: 85%;
+  }
+  .sign-up .swapslogoimage-transparent-C61RwL {
+    margin-left: 6%;
+    width: 140%;
+    margin-top: -11%;
+  }
+  .sign-up .swaps-fx-user-guide-C61RwL {
+    font-size: 15px;
+    top: 48px;
+  }
+  .sign-up .line-1-C61RwL {
+    top: 70px;
+  }
+  .sign-up .swaps-fx-portal-user-guide-ROslHN {
+    font-size: 20px;
+    line-height: 22px;
+    top: 125px;
+  }
+  .sign-up .everything-you-se-our-services-vZhGO4 {
+    top: 169px;
+    font-size: 12px !important;
+    width: 187px;
+    line-height: 18px;
+  }
+  .sign-up .getting-started-C61RwL {
+    font-size: 17px;
+    margin-top: 0px;
+  }
+  .sign-up .line-2-C61RwL {
+    margin-top: -11px;
+  }
+  .sign-up .sign-up-xxkKyh {
+    font-size: 23px;
+    top: -236px;
+  }
+  .sign-up .you-can-easily-following-steps-xxkKyh {
+    font-size: 12px;
+    top: -197px;
+  }
+  .sign-up .x1-click-on-the-sign-up-button-xxkKyh {
+    font-size: 9px;
+    line-height: 17px;
+    top: -173px;
+  }
+  .sign-up .line-3-C61RwL {
+    height: 26%;
+    top: -81%;
+    left: 32%;
+  }
+  .sign-up .line-4-C61RwL {
+    top: -55%;
+    width: 55%;
+    left: 32%;
+  }
+  .sign-up .polygon-1-C61RwL {
+    bottom: calc(148.99%);
+    right: calc(3.33%);
+    width: 27px;
+    height: 27px;
+  }
+  .sign-up .image-2-C61RwL {
+    top: -259px;
+    width: 117%;
+  }
+  .sign-up .image-3-C61RwL {
+    width: 46%;
+    top: -400px;
+  }
+  .sign-up .account-validation-C61RwL {
+    top: -361px;
+    left: 102px;
+    font-size: 22px;
+  }
+  .sign-up .x1-a-one-time-to-ocess-completed-C61RwL {
+    font-size: 12px;
+    top: -318px;
+    line-height: 25px;
+    left: 101px;
+    width: 151%;
+  }
+  .sign-up .line-6-C61RwL {
+    height: 89%;
+    left: 167%;
+    top: -512%;
+  }
+  .sign-up .line-7-C61RwL {
+    left: 133%;
+    top: -425%;
+    width: 35%;
+  }
+  .sign-up .polygon-2-C61RwL {
+    top: -434%;
+    right: calc(-38.67%);
+    bottom: calc(54.95%);
+    height: 27px;
+    width: 27px;
+  }
+  .sign-up .account {
+    margin-bottom: -250px;
+  }
+}
+
+
+
+@media (max-width: 400px) {
+  .sign-up .grey-back-C61RwL {
+    top: 23px;
+    height: 103%;
+  }
+  .sign-up .swapslogoimage-transparent-C61RwL {
+    margin-top: -6%;
+    width: 1;
+  }
+  .sign-up .swaps-fx-user-guide-C61RwL {
+    font-size: 12px;
+    top: 48px;
+  }
+  .sign-up .line-1-C61RwL {
+    top: 69px;
+  }
+  .sign-up .swaps-fx-portal-user-guide-ROslHN {
+    font-size: 17px;
+    line-height: 21px;
+    top: 134px;
+  }
+  .sign-up .everything-you-se-our-services-vZhGO4 {
+    top: 177px;
+    font-size: 11px !important;
+    width: 153px;
+    line-height: 14px;
+  }
+  .sign-up .getting-started-C61RwL {
+    margin-top: 50px;
+  }
+  .sign-up .line-2-C61RwL {
+    margin-top: 40px;
+  }
+  .sign-up .sign-up-xxkKyh {
+    font-size: 16px;
+    top: -243px;
+  }
+  .sign-up .you-can-easily-following-steps-xxkKyh {
+    font-size: 8px;
+    top: -215px;
+  }
+  .sign-up .x1-click-on-the-sign-up-button-xxkKyh {
+    font-size: 6px;
+    line-height: 11px;
+    top: -192px;
+  }
+  .sign-up .line-3-C61RwL {
+    height: 26%;
+    top: -152%;
+    left: 36%;
+  }
+  .sign-up .line-4-C61RwL {
+    top: -126%;
+    width: 51%;
+    left: 36%;
+  }
+  .sign-up .polygon-1-C61RwL {
+    bottom: calc(217.99%);
+    right: calc(3.33%);
+    width: 27px;
+    height: 27px;
+  }
+  .sign-up .image-2-C61RwL {
+    top: -321px;
+    width: 117%;
+  }
+  .sign-up .image-3-C61RwL {
+    top: -482px;
+  }
+  .sign-up .account-validation-C61RwL {
+    top: -468px;
+    left: 56px;
+    font-size: 15px;
+  }
+  .sign-up .x1-a-one-time-to-ocess-completed-C61RwL {
+    font-size: 7px;
+    top: -433px;
+    line-height: 14px;
+    left: 60px;
+  }
+  .sign-up .line-6-C61RwL {
+    height: 79%;
+    left: 167%;
+    top: -531%;
+  }
+  .sign-up .line-7-C61RwL {
+    left: 133%;
+    top: -454%;
+    width: 35%;
+  }
+  .sign-up .polygon-2-C61RwL {
+    top: -462%;
+    bottom: calc(54.95%);
+  }
+}
+
+
+
+@media (max-width: 300px) {
+  .sign-up .grey-back-C61RwL {
+    height: 123%;
+  }
+  .sign-up .swapslogoimage-transparent-C61RwL {
+    margin-top: -7%;
+  }
+  .sign-up .swaps-fx-user-guide-C61RwL {
+    font-size: 10px;
+    top: 42px;
+  }
+  .sign-up .line-1-C61RwL {
+    top: 59px;
+  }
+  .sign-up .swaps-fx-portal-user-guide-ROslHN {
+    top: 133px;
+    font-size: 9px !important;
+    width: 159px;
+  }
+  .sign-up .everything-you-se-our-services-vZhGO4 {
+    top: 133px;
+    font-size: 9px !important;
+    width: 159px;
+  }
+  .sign-up .getting-started-C61RwL {
+    font-size: 14px;
+    margin-top: 63px;
+  }
+  .sign-up .line-2-C61RwL {
+    margin-top: 52px;
+  }
+  .sign-up .line-3-C61RwL {
+    top: -205%;
+    height: 37%;
+  }
+  .sign-up .line-4-C61RwL {
+    top: -168%;
+  }
+  .sign-up .polygon-1-C61RwL {
+    bottom: calc(256.99%);
+  }
+  .sign-up .line-6-C61RwL {
+    height: 62%;
+    top: -515%;
+  }
 }
