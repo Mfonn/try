@@ -539,9 +539,12 @@ to{opacity: 1;}
     width: 581px;
     font-size: 31px !important;
   }
-    .sign-up .line-3-C61RwL {
+  .sign-up .line-3-C61RwL {
     height: 57%;
     top: -15%;
+  }
+  .sign-up .polygon-1-C61RwL {
+     bottom: calc(53.95%);
   }
 }
 
