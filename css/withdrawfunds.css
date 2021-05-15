@@ -801,7 +801,6 @@
   }
   .withdrawfunds .line-8-zHcrMx {
     top: 44px;
-    top: 57px;
   }
   .withdrawfunds .taking-out-fund-ounts-made-easy-Sxvg86,
   .withdrawfunds .missing-withdrawal-account-3xHcwy,
@@ -912,7 +911,8 @@
 
 @media (min-width: 900px) {
   .withdrawfunds .flex-row-C61RwL {
-  margin-top: -200px;
+    margin-top: -200px;
+  }
 }
 
 
@@ -1134,7 +1134,7 @@
 @media (max-width: 400px) {
   .withdrawfunds .grey-back-5sTxFf {
     top: 23px;
-    height: 103%;
+    height: 88%;
   }
   .withdrawfunds .swapslogoimage-transparent-5sTxFf {
     margin-top: -6%;
@@ -1148,24 +1148,27 @@
     top: 69px;
   }
   .withdrawfunds .everything-you-se-our-services-5sTxFf {
-    top: 177px;
-    font-size: 11px !important;
-    width: 153px;
+    top: 146px;
+    font-size: 9px !important;
+    width: 136px;
     line-height: 14px
   }
   .withdrawfunds .swaps-fx-portal-user-guide-5sTxFf {
     font-size: 17px;
     line-height: 21px;
-    top: 134px;
+    top: 105px;
   }
   .withdrawfunds .withdraw-funds-5sTxFf {
-    margin-top: 50px;
+    margin-top: 9px;
   }
   .withdrawfunds .line-8-zHcrMx {
-    margin-top: 40px;
+    margin-top: -4px;
   }
   .withdrawfunds {
-    height: 1800px;
+    height: 1549px;
+  }
+  .withdrawfunds .flex-row-xpmbvu {
+    top: -40px;
   }
 
   .withdrawfunds .group-14-Sxvg86 {
@@ -1189,7 +1192,7 @@
     margin-top: -50px;
   }
   .withdrawfunds .flex-row-0xy0vn {
-    top: -30px;
+    top: -94px;
     margin-bottom: -157px;
   }
   .withdrawfunds .complete-the-co-selected-above-vvCDiG {
@@ -1200,6 +1203,7 @@
   }
   .withdrawfunds .setup-withdrawal-account-3xHcwy {
     right: 26%;
+    top: -4.5%
   }
   .withdrawfunds .image-19-dXBp89 {
     margin-top: -203px;
@@ -1214,13 +1218,16 @@
   .withdrawfunds .flex-row-C61RwL {
     margin-top: -31px !important;
   }
+  .withdrawfunds .line-11-0xy0vn {
+    margin-top: -85px;
+  }
 
 
 }
 
 @media (max-width: 300px) {
   .withdrawfunds .grey-back-5sTxFf {
-    height: 123%;
+    height: 94%;
   }
   .withdrawfunds .swapslogoimage-transparent-5sTxFf {
     margin-top: -7%;
@@ -1243,9 +1250,13 @@
   }
   .withdrawfunds .withdraw-funds-5sTxFf {
     font-size: 14px;
-    margin-top: 63px;
+    margin-top: 17px;
   }
   .withdrawfunds .line-8-zHcrMx {
-    margin-top: 52px;
+    margin-top: 3px;
+  }
+  .withdrawfunds .setup-withdrawal-account-3xHcwy {
+    top: -5.2%;
+    font-size: 15px;
   }
 }
