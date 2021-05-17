@@ -1,55 +1,31 @@
 /* screen - userdocumentupload */
-body {
-  margin: 0;
-  background: rgba(255, 255, 255, 1);
-}
 
 .userdocumentupload {
-  align-items: flex-start;
+  align-items: flex-end;
   background-color: rgba(255,255,255,1.0);
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  height: 1758px;
+  height: auto;
   justify-content: flex-start;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
   width: 100%;
 }
-
 .userdocumentupload .black-top-rectangle-pqRchW {
   background-color: rgba(4,27,45,1.0);
-  height: 36px;
-  left: 2px;
+  height: 37px;
   position: absolute;
-  top: 304px;
-  width: 1734px;
+  top: 0px;
+  width: 100%;
 }
 .userdocumentupload .black-top-rectangle-y1HRxC {
   background-color: rgba(4,27,45,1.0);
   height: 37px;
-  left: 10px;
   position: absolute;
-  top: 304px;
-  width: 1920px;
-}
-.userdocumentupload .swaps-fx-user-guide-y1HRxC {
-  background-color: transparent;
-  color: var(--nero);
-  font-family: 'SegoeUI-Regular', Helvetica;
-  font-size: 25px;
-  font-style: normal;
-  font-weight: 400;
-  height: auto;
-  left: 402px;
-  letter-spacing: 0.00px;
-  line-height: 25px;
-  position: absolute;
-  text-align: left;
-  top: 378px;
-  white-space: nowrap;
-  width: auto;
+  top: 0px;
+  width: 100%;
 }
 .userdocumentupload .click-delete-ic-ve-the-document-2eLxbt {
   background-color: transparent;
@@ -186,17 +162,17 @@ body {
 .userdocumentupload .everything-you-se-our-services-y1HRxC {
   background-color: transparent;
   height: auto;
-  left: 72px;
+  left: 9%;
   letter-spacing: 0.00px;
-  line-height: 20px;
+  line-height: 32px;
   position: absolute;
   text-align: left;
-  top: 589px;
-  width: 350px;
+  top: 253px;
+  width: 600px;
+  font-size: 26px !important;
 }
 .userdocumentupload .flex-col-C61RwL {
   align-items: flex-start;
-  align-self: flex-end;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
@@ -204,11 +180,9 @@ body {
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  margin-right: -557px;
-  margin-top: -309px;
-  min-height: 866px;
   position: relative;
-  width: 2288px;
+  top: 0px;
+  width: 100%;
 }
 .userdocumentupload .flex-col-Xi618D {
   align-items: flex-start;
@@ -219,13 +193,78 @@ body {
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  margin-bottom: 204.0px;
-  margin-left: 107px;
-  min-height: 217px;
+  margin-left: -2%;
+  margin-right: auto;
+  margin-top: 19%;
   position: relative;
-  width: 816px;
+  width: 38%;
+}
+.userdocumentupload .words {
+  align-self: flex-start;
+    background-color: transparent;
+    flex-shrink: 1;
+    height: auto;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 5%;
+    object-fit: cover;
+    position: relative;
+    width: 68%;
+}
+.container-center-horizontal {
+  height: 2000px;
 }
 .userdocumentupload .flex-col-dXBp89 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: row wrap;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  position: relative;
+  width: 100%;
+}
+.userdocumentupload .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: row wrap;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  position: relative;
+  width: 100%;
+}
+.userdocumentupload .grey-back-y1HRxC {
+  background-color: rgba(238,238,238,1.0);
+  height: 80%;
+  position: absolute;
+  top: 53px;
+  width: 100%;
+}
+.userdocumentupload .group-19-y0eQTV {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 150px;
+  margin-top: 26px;
+  position: relative;
+  width: 100%;
+  font-size: 13px;
+}
+.userdocumentupload .group-23-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 148px;
+  margin-left: 0%;
+  margin-top: 2%;
+  position: relative;
+  width: 80%;
+}
+.userdocumentupload .image-26-0PZcXW {
   align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
@@ -234,85 +273,37 @@ body {
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  min-height: 677px;
   position: relative;
-  width: 590px;
-}
-.userdocumentupload .flex-row-C61RwL {
-  align-items: center;
-  align-self: center;
-  background-color: transparent;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: row;
-  flex-shrink: 1;
-  height: 677px;
-  justify-content: flex-start;
-  margin-left: 102.0px;
-  margin-top: 41px;
-  min-width: 1513px;
-  position: relative;
-  width: auto;
-}
-.userdocumentupload .grey-back-y1HRxC {
-  background-color: rgba(238,238,238,1.0);
-  height: 419px;
-  left: 10px;
-  position: absolute;
-  top: 358px;
-  width: 1726px;
-}
-.userdocumentupload .group-19-y0eQTV {
-  align-self: flex-end;
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 148px;
-  margin-top: 26px;
-  position: relative;
-  width: 801px;
-}
-.userdocumentupload .group-23-C61RwL {
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 148px;
-  margin-left: 169px;
-  margin-top: 26px;
-  position: relative;
-  width: 801px;
-}
-.userdocumentupload .image-26-0PZcXW {
-  align-self: flex-end;
-  background-color: transparent;
-  flex-shrink: 1;
-  height: 509px;
-  object-fit: cover;
-  position: relative;
-  width: 582px;
+  width: 45%;
+  margin-left: 8%;
+  margin-right: auto;
+  margin-top: 9%;
 }
 .userdocumentupload .line-1-y1HRxC {
   background-color: transparent;
   height: 1px;
+  margin-left: 2%;
   object-fit: cover;
   position: absolute;
-  top: 418px;
-  width: 990px;
+  top: 104px;
+  width: 95%;
 }
 .userdocumentupload .line-8-0xy0vn {
   background-color: transparent;
   flex-shrink: 1;
-  height: 1px;
-  margin-left: 88.5px;
-  margin-top: 5px;
+  height: 2px;
+  margin-left: 4%;
   object-fit: cover;
   position: relative;
-  width: 1599px;
+  top: 42px;
+  width: 94%;
 }
 .userdocumentupload .overlap-group-0xy0vn {
   background-color: transparent;
   flex-shrink: 1;
-  height: 860px;
+  height: auto;
   position: relative;
-  width: 2288px;
+  width: 100%;
 }
 .userdocumentupload .remove-update-documents-0PZcXW {
   background-color: transparent;
@@ -321,13 +312,11 @@ body {
   font-family: 'Oswald', Helvetica;
   font-size: 30px;
   font-style: normal;
-  font-weight: 300;
+  font-weight: bold;
   height: auto;
   letter-spacing: 0.00px;
   line-height: 30px;
-  margin-top: 125px;
-  min-height: 43px;
-  min-width: 312px;
+  margin-top: 6%;
   position: relative;
   text-align: left;
   white-space: nowrap;
@@ -349,17 +338,17 @@ body {
   background-color: transparent;
   color: var(--nero);
   font-family: 'OswaldRegular-Regular', Helvetica;
-  font-size: 35px;
+  font-size: 44px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: bold;
   height: auto;
-  left: 72px;
+  left: 9%;
   letter-spacing: 0.00px;
-  line-height: 35px;
+  line-height: 48px;
   position: absolute;
   text-align: left;
-  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
-  top: 503px;
+  text-shadow: 0px 3px 6px rgb(0 0 0 / 16%);
+  top: 155px;
   white-space: nowrap;
   width: auto;
 }
@@ -371,23 +360,23 @@ body {
   font-style: normal;
   font-weight: 400;
   height: auto;
-  left: 72px;
+  margin-left: 2%;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
   text-align: left;
-  top: 378px;
+  top: 72px;
   white-space: nowrap;
   width: auto;
 }
 .userdocumentupload .swapslogoimage-transparent-y1HRxC {
   background-color: transparent;
-  height: 108px;
-  left: 573px;
+  height: auto;
+  margin-left: 25%;
   object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 105px;
+  position: relative;
+  width: 111%;
+  margin-top: -15%;
 }
 .userdocumentupload .upload-or-drag-nd-save-changes-2eLxbt {
   background-color: transparent;
@@ -398,7 +387,7 @@ body {
   line-height: 30px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 253px);
+  width: 90%;
 }
 .userdocumentupload .upload-or-drag-nd-save-changes-TwzCqN {
   background-color: transparent;
@@ -418,15 +407,14 @@ body {
   font-family: 'Oswald', Helvetica;
   font-size: 30px;
   font-style: normal;
-  font-weight: 300;
+  font-weight: bold;
   height: auto;
   letter-spacing: 0.00px;
   line-height: 30px;
-  min-height: 43px;
-  min-width: 297px;
   position: relative;
   text-align: left;
   white-space: nowrap;
+  margin-left: 1%;
   width: auto;
 }
 .userdocumentupload .user-documents-y1HRxC {
@@ -435,68 +423,390 @@ body {
   font-family: 'OswaldRegular-Regular', Helvetica;
   font-size: 30px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: bolder;
   height: auto;
-  left: 138px;
+  margin-left: 7%;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 818px;
   white-space: nowrap;
   width: auto;
-}
-.userdocumentupload .yellow-thin-rectangle-pqRchW {
-  background-color: rgba(249,166,2,1.0);
-  height: 8px;
-  left: 10px;
-  position: absolute;
-  top: 344px;
-  width: 1726px;
 }
 .userdocumentupload .yellow-thin-rectangle-y1HRxC {
   background-color: rgba(249,166,2,1.0);
   height: 8px;
   left: 0px;
   position: absolute;
-  top: 345px;
-  width: 1930px;
+  top: 41px;
+  width: 100%;
+}
+.userdocumentupload .yellow-thin-rectangle-y1HRxC {
+  background-color: rgba(249,166,2,1.0);
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: 41px;
+  width: 100%;
 }
 
-@media only screen and (max-width: 1200px) {
 
+@media (min-width: 2000px) {
+  .userdocumentupload .grey-back-y1HRxC {
+    height: 85%;
+  }
+  .userdocumentupload .swaps-fx-user-guide-y1HRxC {
+    font-size: 31px;
+  }
+  .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 90px;
+    line-height: 104px;
+    top: 239px;
+  }
+  .userdocumentupload .everything-you-se-our-services-y1HRxC {
+    top: 441px;
+    width: 538px;
+    font-size: 34px !important;
+  }
+  .userdocumentupload .line-8-0xy0vn {
+    top: 54px !important;
+  }
+  .userdocumentupload .swapslogoimage-transparent-y1HRxC {
+    margin-top: -22%;
+  }
+  .userdocumentupload .upload-required-documents-y0eQTV,
+  .userdocumentupload .remove-update-documents-0PZcXW {
+    font-size: 38px !important;
+  }
+  .userdocumentupload .group-19-y0eQTV,
+  .userdocumentupload .group-23-C61RwL {
+    font-size: 19px !important;
+    height: 164px;
+  }
+  .container-center-horizontal {
+    height: 3000px;
+  }
+}
+
+
+@media (max-width: 2000px) {
+  .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 70px;
+    line-height: 78px;
+    top: 190px;
+  }
+  .userdocumentupload .everything-you-se-our-services-y1HRxC {
+    top: 345px;
+    width: 581px;
+    font-size: 31px !important;
+  }
+  .userdocumentupload .grey-back-y1HRxC  {
+    height: 83%;
+  }
+  .userdocumentupload .swapslogoimage-transparent-y1HRxC {
+    margin-top: -18%;
+  }
+  .container-center-horizontal {
+    height: 2500px;
+  }
+}
+
+
+@media (min-width: 1500px) {
+  .userdocumentupload .line-8-0xy0vn {
+    top: 57px;
+    font-size: 44px;
+  }
+  .userdocumentupload .user-documents-y1HRxC {
+    font-size: 66px !important;
+  }
+  .userdocumentupload .upload-required-documents-y0eQTV,
+  .userdocumentupload .remove-update-documents-0PZcXW
+   {
+    font-size: 35px;
+  }
+  .userdocumentupload .group-19-y0eQTV,
+  .userdocumentupload .group-23-C61RwL {
+    font-size: 16px;
+  }
+}
+
+
+@media (max-width: 1500px) {
+  .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 51px;
+    line-height: 60px;
+    top: 190px;
+  }
+  .userdocumentupload .everything-you-se-our-services-y1HRxC {
+    top: 309px;
+    font-size: 30px !important;
+    width: 500px;
+  }
+  .userdocumentupload .user-documents-y1HRxC {
+    font-size: 39px;
+  }
+  .container-center-horizontal {
+    height: 1700px;
+  }
+}
+
+
+
+@media (max-width: 1200px) {
+  .userdocumentupload .swapslogoimage-transparent-y1HRxC {
+    margin-left: 17%;
+    width: 123%;
+    margin-top: -16%;
+  }
+  .userdocumentupload .swaps-fx-user-guide-y1HRxC {
+    font-size: 20px;
+    top: 57px;
+  }
+  .userdocumentupload .line-1-y1HRxC {
+    top: 85px;
+  }
+  .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 44px;
+    line-height: 48px;
+    top: 155px;
+  }
+  .userdocumentupload .everything-you-se-our-services-y1HRxC {
+    top: 253px;
+    font-size: 24px !important;
+    width: 384px;
+    line-height: 32px;
+  }
+  .userdocumentupload .group-19-y0eQTV,
+  .userdocumentupload .group-23-C61RwL {
+    height: 108px;
+    font-size: 9px;
+  }
+  .userdocumentupload .upload-required-documents-y0eQTV,
+  .userdocumentupload .remove-update-documents-0PZcXW {
+    font-size: 29px;
+  }
+  .container-center-horizontal {
+    height: 1400px;
+  }
+}
+
+
+@media(max-width: 900px) {
+  .userdocumentupload .grey-back-y1HRxC {
+    height: 75%;
+  }
+  .userdocumentupload .swapslogoimage-transparent-y1HRxC {
+    margin-left: 6%;
+    width: 138%;
+    margin-top:-12%;
+  }
+  .userdocumentupload .swaps-fx-user-guide-y1HRxC {
+    font-size: 20px;
+    top: 57px;
+  }
+  .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 26px;
+    line-height: 30px;
+    top: 125px;
+    left: 11%;
+  }
+  .userdocumentupload .everything-you-se-our-services-y1HRxC {
+    top: 187px;
+    font-size: 16px !important;
+    width: 247px;
+    line-height: 19px;
+    left: 11%;
+  }
+  .userdocumentupload .user-documents-y1HRxC  {
+    font-size: 28px;
+  }
+  .userdocumentupload .line-8-0xy0vn  {
+    top: 37px;
+  }
+  .userdocumentupload .flex-row-C61RwL {
+    flex-direction: column;
+  }
  
+  .userdocumentupload .upload-required-documents-y0eQTV,
+  .userdocumentupload .remove-update-documents-0PZcXW {
+    font-size: 36px;
+  }
+  .userdocumentupload .group-19-y0eQTV,
+  .userdocumentupload .group-23-C61RwL {
+    font-size: 13px;
+    margin-right: auto;
+    width: auto;
+  }
+  .userdocumentupload .flex-col-dXBp89 {
+    flex-direction: column;
+  }
+  .userdocumentupload .image-26-0PZcXW {
+    margin-left: auto;
+    margin-right: auto;
+    width: 47%;
+  }
+  .userdocumentupload .flex-col-Xi618D {
+    margin-left: 19%;
+    margin-top: 11%;
+    width: 70%;
+  }
+  .userdocumentupload .group-19-y0eQTV,
+  .userdocumentupload .group-23-C61RwL {
+    height: 138px;
+    font-size: 11px;
+    margin-left: 1%;
+  }
+  .container-center-horizontal {
+    height: 1700px;
+  }
+  .userdocumentupload .words {
+    margin-left: 20%;
+    margin-top: 10%;
+  }
 }
 
-@media only screen and (min-width: 990px) {
-  
+
+@media (max-width: 600px) {
+  .userdocumentupload .grey-back-y1HRxC {
+    top: 23px;
+    height: 85%;
+  }
+  .userdocumentupload .swapslogoimage-transparent-y1HRxC {
+    margin-left: 6%;
+    width: 140%;
+    margin-top: -11%;
+  }
+  .userdocumentupload .swaps-fx-user-guide-y1HRxC {
+    font-size: 15px;
+    top: 48px;
+  }
+  .userdocumentupload .line-1-y1HRxC {
+    top: 70px;
+  }
+  .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 20px;
+    line-height: 22px;
+    top: 125px;
+  }
+  .userdocumentupload .everything-you-se-our-services-y1HRxC {
+    top: 169px;
+    font-size: 12px !important;
+    width: 187px;
+    line-height: 18px;
+  }
+  .userdocumentupload .user-documents-y1HRxC {
+    font-size: 17px;
+    margin-top: 0px;
+  }
+  .userdocumentupload .line-8-0xy0vn {
+    margin-top: -11px;
+  }
+  .userdocumentupload .upload-required-documents-y0eQTV,
+  .userdocumentupload .remove-update-documents-0PZcXW {
+    font-size: 20px;
+  }
+  .userdocumentupload .group-19-y0eQTV,
+  .userdocumentupload .group-23-C61RwL {
+    font-size: 9px;
+    height: 100px;
+    font-size: 7px;
+    margin-top: 2%;
+  }
+  .userdocumentupload .image-26-0PZcXW {
+    margin-top: 16%;
+  }
+  .container-center-horizontal {
+    height: 1200px;
+  }
 }
 
-@media only screen and (max-width: 990px) {
- 
 
+
+@media (max-width: 400px) {
+  .userdocumentupload .grey-back-y1HRxC  {
+    top: 23px;
+    height: 104%;
+  }
+  .userdocumentupload .swapslogoimage-transparent-y1HRxC {
+    margin-top: -6%;
+    width: 1;
+  }
+  .userdocumentupload .swaps-fx-user-guide-y1HRxC {
+    font-size: 12px;
+    top: 48px;
+  }
+  .userdocumentupload .line-1-y1HRxC {
+    top: 69px;
+  }
+  .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 17px;
+    line-height: 21px;
+    top: 134px;
+  }
+  .userdocumentupload .everything-you-se-our-services-y1HRxC {
+    top: 177px;
+    font-size: 11px !important;
+    width: 153px;
+    line-height: 14px;
+  }
+  .userdocumentupload .user-documents-y1HRxC {
+    margin-top: 50px;
+  }
+  .userdocumentupload .line-8-0xy0vn {
+    margin-top: 40px;
+  }
+  .userdocumentupload .upload-required-documents-y0eQTV,
+  .userdocumentupload .remove-update-documents-0PZcXW {
+    font-size: 18px;
+  }
+  .userdocumentupload .group-19-y0eQTV,
+  .userdocumentupload .group-23-C61RwL {
+    font-size: 5px;
+    height: 83px;
+    margin-top: 5px;
+  }
+  .userdocumentupload .image-26-0PZcXW {
+    margin-top: 20%;
+  }
+  .container-center-horizontal {
+    height: 900px;
+  }
 }
 
-@media only screen and (max-width: 700px) {
- 
-}
 
 
-@media only screen and (max-width: 700px) {
-
- 
-  
- 
-}
-
-
-@media only screen and (max-width: 650px) {
- 
-
-}
-
-
-@media only screen and (max-width: 480px) {
-  
-
+@media (max-width: 300px) {
+  .userdocumentupload .grey-back-y1HRxC {
+    height: 123%;
+  }
+  .userdocumentupload .swapslogoimage-transparent-y1HRxC {
+    margin-top: -7%;
+  }
+  .userdocumentupload .swaps-fx-user-guide-y1HRxC {
+    font-size: 10px;
+    top: 42px;
+  }
+  .userdocumentupload .line-1-y1HRxC {
+    top: 59px;
+  }
+  .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 14px;
+    line-height: 16px;
+  }
+  .userdocumentupload .everything-you-se-our-services-y1HRxC {
+    top: 133px;
+    font-size: 9px !important;
+    width: 159px;
+  }
+  .userdocumentupload .user-documents-y1HRxC {
+    font-size: 14px;
+    margin-top: 63px;
+  }
+  .userdocumentupload .line-8-0xy0vn {
+    margin-top: 52px;
+  }
+  .container-center-horizontal {
+    height: 700px;
+  }
 }
