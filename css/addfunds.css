@@ -450,7 +450,7 @@
   margin-right: 2%;
   margin-top: 158px;
   position: relative;
-  width: 40%;
+  width: 37%;
 }
 
 .addfunds .image-14-y0eQTV {
@@ -466,7 +466,7 @@
   margin-left: 8%;
   margin-right: 2%;
   margin-top: 158px;
-  top: -80px;
+  top: 6px;
   position: relative;
   width: 40%;
 }
@@ -733,6 +733,8 @@
   }
   .addfunds .everything-you-se-our-services-y1HRxC  {
     top: 345px;
+    width: 581px;
+    font-size: 31px !important;
   }
   .addfunds .adding-funds-to-ounts-made-easy-0PZcXW,
   .addfunds .automatic-payme-dit-debit-cards-0PZcXW {
@@ -742,15 +744,24 @@
     margin-top: 67px;
     margin-left: -2px;
   }
+  .addfunds .swapslogoimage-transparent-y1HRxC {
+    margin-top: -18%;
+  }
+  .addfunds .grey-back-y1HRxC {
+    height: 83%;
+  }
   .segoeui-regular-normal-nero-20px {
-    font-size: 19px !important;
+    font-size: 16px !important;
+  }
+  .addfunds .group-11-0PZcXW {
+    width: 55%;
   }
   .addfunds .group-9-0PZcXW {
     left:  41px;
   }
   .addfunds .automatic-payme-for-transaction-aewt80,
   .addfunds .manual-payments-nto-your-wallet-aewt80 {
-    font-size: 18px;
+    font-size: 15px;
   }
   .addfunds .ellipse-16-aewt80 {
     top: 365px;
@@ -830,8 +841,14 @@
     font-size: 14px;
   }
   .addfunds .image-13-y0eQTV {
-    width: 38%;
-    margin-left: 10%;
+    width: 36%;
+    margin-left: 15%;
+  }
+  .addfunds .image-15-C61RwL {
+    top: -11%;
+  }
+  .addfunds .image-14-y0eQTV {
+    top: -55px;
   }
   .addfunds .group-10-0PZcXW {
     height: 53px;
