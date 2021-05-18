@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/quicktrade.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Oswald:300");
+
+      @font-face {
+        font-family: "SegoeUI-Bold";
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c584d745e9ae3000a003018/segoeuib.ttf") format("truetype");
+      }
+
+      @font-face {
+        font-family: "OswaldRegular-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/projects/60173c7b1239a371c29e919d/fonts/quattrocento-regular.otf")
+          format("opentype");
+      }
+
+      @font-face {
+        font-family: "SegoeUI-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5b1e8d8e336c4b0009507857/segoeui.ttf") format("truetype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+
+      @import url("https://fonts.googleapis.com/css?family=Oswald:300");
+
+      @font-face {
+        font-family: "SegoeUI-Bold";
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c584d745e9ae3000a003018/segoeuib.ttf") format("truetype");
+      }
+
+      @font-face {
+        font-family: "OswaldRegular-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/projects/60173c7b1239a371c29e919d/fonts/quattrocento-regular.otf")
+          format("opentype");
+      }
+
+      @font-face {
+        font-family: "SegoeUI-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5b1e8d8e336c4b0009507857/segoeui.ttf") format("truetype");
+      }
+      * {
+        box-sizing: border-box;
+      }
+      .border-1px-dove-gray {
+        border: 1px solid var(--dove-gray);
+      }
+      .oswald-light-nero-35px {
+        color: var(--nero);
+        font-family: var(--font-family-oswald);
+        font-style: normal;
+        font-weight: 300;
+      }
+      .segoeui-regular-normal-nero-20px {
+        color: var(--nero);
+        font-family: var(--font-family-segoeui-regular);
+        font-style: normal;
+        font-weight: 400;
+      }
+      :root {
+        --dove-gray: rgba(112, 112, 112, 1);
+        --font-family-oswald: "Oswald", Helvetica;
+        --font-family-segoeui-regular: "SegoeUI-Regular", Helvetica;
+        --font-size-l: 35px;
+        --font-size-m: 20px;
+        --nero: rgba(12, 4, 4, 1);
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="quicktrade" />
+    <div class="container-center-horizontal">
+      <div class="quicktrade screen">
+          <div class="overlap-group-0xy0vn">
+            <div class="black-top-rectangle-y1HRxC border-1px-dove-gray"></div>
+            <div class="yellow-thin-rectangle-y1HRxC border-1px-dove-gray"></div>
+            <div class="grey-back-y1HRxC"></div>
+            <img class="swapslogoimage-transparent-y1HRxC" src="img/swaps-logo-image-transparent@1x.png" />
+            <div class="black-top-rectangle-y1HRxC border-1px-dove-gray"></div>
+            <div class="yellow-thin-rectangle-y1HRxC border-1px-dove-gray"></div>
+            <div class="swaps-fx-user-guide-y1HRxC">SwapsFx User Guide</div>
+            <img class="line-1-y1HRxC" src="img/line-1@1x.png" />
+            <div class="swaps-fx-portal-user-guide-y1HRxC">SwapsFx Portal <br />User Guide</div>
+            <div class="everything-you-se-our-services-y1HRxC segoeui-regular-normal-nero-20px">
+              Everything you need to know about how to use our service(s)
+            </div>
+            <div class="quick-trade-y1HRxC">Quick Trade</div>
+          </div>
+          <img class="line-8-0xy0vn" src="img/line-8@1x.png" />
+          <div class="flex-row-0xy0vn">
+            <img class="image-7-GyJUNH" src="img/image-7@1x.png" />
+            <div class="group-2-GyJUNH letters">
+              <div class="what-is-quick-t-ing-on-swaps-fx-HRxdjE oswald-light-nero-35px headings">
+                What is Quick Trading on SwapsFx?
+              </div>
+              <div class="the-activity-of-more-currencies-HRxdjE segoeui-regular-normal-nero-20px">
+                The activity of exchanging value from one currency to one or more currencies.
+              </div>
+              <div class="features-of-quick-trade-HRxdjE segoeui-regular-normal-nero-20px">Features of Quick Trade</div>
+              <div class="group-7-HRxdjE">
+                <div class="ellipse-6-NI0Pql"></div>
+                <div class="quick-swap-NI0Pql segoeui-regular-normal-nero-20px">Quick Swap</div>
+                <div class="ellipse-7-NI0Pql"></div>
+                <div class="active-swap-request-NI0Pql segoeui-regular-normal-nero-20px">Active Swap Request</div>
+                <div class="ellipse-8-NI0Pql"></div>
+                <div class="my-active-orders-NI0Pql segoeui-regular-normal-nero-20px">My Active Orders</div>
+              </div>
+            </div>
+          </div>
+          <img class="line-9-0xy0vn" src="img/line-9@1x.png" />
+          <div class="flex-row-oV5UrE">
+            <div class="group-4-QkTteQ">
+              <div class="quick-swap-T8HKK8 oswald-light-nero-35px">Quick Swap</div>
+              <div class="easily-select-y-your-swap-order-T8HKK8 segoeui-regular-normal-nero-20px">
+                Easily select your currency exchange order options<br /><br />Provide the value for the currency you
+                have<br /><br />Place your swap order
+              </div>
+            </div>
+            <img class="image-9-QkTteQ" src="img/image-9@1x.png" />
+          </div>
+          <img class="line-10-0xy0vn" src="img/line-9@1x.png" />
+          <div class="flex-row-4iD7zR">
+            <img class="image-8-ossvxU" src="img/image-8@1x.png" />
+            <div class="group-3-ossvxU">
+              <div class="active-swap-request-JVMFxg oswald-light-nero-35px">Active Swap Request</div>
+              <div class="a-summary-view-the-marketplace-JVMFxg segoeui-regular-normal-nero-20px">
+                <span class="span0-rjxUaf"
+                  >A summary view of current swap orders of our marketplace by currency option(s).<br /><br />Click </span
+                ><span class="span1-rjxUaf">View All</span
+                ><span class="span2-rjxUaf"> to see more active requests in the marketplace</span>
+              </div>
+            </div>
+          </div>
+          <img class="path-1-0xy0vn" src="img/path-1@1x.png" />
+      
+        <div class="flex-row-C61RwL">
+          <div class="group-5-dXBp89">
+            <div class="my-active-orders-wbR61n oswald-light-nero-35px head">My Active Orders</div>
+            <div class="group-6-wbR61n">
+              <div class="ellipse-1-5ODmit elip"></div>
+              <div class="view-and-keep-t-are-in-progress-5ODmit segoeui-regular-normal-nero-20px word">
+                View and keep track of swap requests that are in progress
+              </div>
+              <div class="ellipse-2-5ODmit elip"></div>
+              <div class="select-any-of-t-ore-information-5ODmit segoeui-regular-normal-nero-20px word">
+                Select any of the active swap requests to view more <br />information
+              </div>
+              <div class="ellipse-3-5ODmit elip"></div>
+              <div class="view-your-reque-from-one-glance-5ODmit segoeui-regular-normal-nero-20px word">
+                View your request status from one glance
+              </div>
+              <div class="ellipse-4-5ODmit elip"></div>
+              <div class="cancel-a-swap-order-5ODmit segoeui-regular-normal-nero-20px word">Cancel a swap order</div>
+              <div class="ellipse-5-5ODmit elip"></div>
+              <div class="download-the-re-ipt-of-an-order-5ODmit segoeui-regular-normal-nero-20px word">
+                Download the receipt of an order
+              </div>
+            </div>
+          </div>
+          <div class="flex-col-dXBp89">
+            <div class="overlap-group1-0PZcXW">
+              <img class="image-10-nlxkfa" src="img/image-10@1x.png" />
+              <div class="lines">
+                
+              <img class="line-3-nlxkfa" src="img/line-3@1x.png" />
+              <img class="polygon-1-nlxkfa" src="img/polygon-1@1x.png" />
+              </div>
+            </div>
+            <img class="image-11-0PZcXW" src="img/image-11@1x.png" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
