@@ -324,6 +324,7 @@
   justify-content: flex-start;
   position: relative;
   width: 100%;
+  margin-top: 4%;
 }
 .history .free-text-search-CX8jfd {
   background-color: transparent;
@@ -478,9 +479,9 @@
   margin-bottom: 204.0px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 7%;
+  margin-top: 3%;
   position: relative;
-  width: 41%;
+  width: 38%;
 }
 .history .image-29-BdpSxK {
   align-items: flex-start;
@@ -561,7 +562,7 @@
   height: 1px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: -11%;
+  margin-top: -1%;
   object-fit: cover;
   position: relative;
   width: 70%;
@@ -882,6 +883,7 @@
   }
   .history .image-30-C61RwL {
     margin-top: 8%;
+    margin-bottom: 1%;
   }
   .history .group-27-C61RwL {
     height: 75px;
@@ -985,6 +987,7 @@
   }
   .history .image-28-dXBp89 {
     width: 70%;
+    margin-top: 9%;
   }
   .segoeui-regular-normal-nero-20px {
     font-size: 17px !important;
@@ -999,7 +1002,7 @@
     flex-direction: column;
   }
   .history .order-history-C61RwL {
-    margin-right: 70%;
+    margin-right: 67%;
   }
   .history .image-29-BdpSxK {
     width: 66%;
@@ -1010,13 +1013,15 @@
   .history .group-26-BdpSxK {
     margin-left: 18%;
     width: 90%;
+    margin-top: 14%;
   }
   .history .image-30-C61RwL {
-    margin-top: 24%;
+    margin-top: 26%;
   }
   .history .view-more-information-on-order-C61RwL {
-    margin-right: 41%;
+    margin-right: 38%;
     margin-top: 8%;
+    margin-bottom: 2%;
   }
   .history .group-27-C61RwL {
     margin-top: 3%;
@@ -1040,7 +1045,17 @@
   .history .within-the-summ-er-history-view-RH0WJ5 {
     margin-left: 22%;
   }
+  .history .image-31-C61RwL {
+    margin-top: 12%;
+  }
+  .history .words {
+    margin-left: 9%;
+  }
 }
+
+
+
+
 
 @media (max-width: 600px) {
   .history .grey-back-y1HRxC {
@@ -1223,7 +1238,7 @@
   margin-right: 62%;
 }
 .history .line-15-C61RwL {
-  margin-top: -50%;
+  margin-top: -44%;
 }
 .history .view-more-information-on-order-C61RwL {
   margin-right: 27%;
@@ -1234,6 +1249,20 @@
 }
 .container-center-horizontal {
   height: 2000px;
+}
+.elip {
+  width: 2px !important;
+  height: 2px !important;
+  left: 10px !important;
+}
+.history .ellipse-68-PiOlGO {
+  top: 20%;
+}
+.history .ellipse-67-BKbGut {
+  top: 67%;
+}
+.history .ellipse-69-PiOlGO {
+  top: 65%;
 }
 }
 
