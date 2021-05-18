@@ -1,17 +1,17 @@
 /* screen - userprofilemanagement */
 
 .userprofilemanagement {
-  align-items: center;
+  align-items: flex-end;
   background-color: rgba(255,255,255,1.0);
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  height: 2994px;
+  height: auto;
   justify-content: flex-start;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1726px;
+  width: 100%;
 }
 .userprofilemanagement .advanced-profile-management-O8Us0i {
   background-color: transparent;
@@ -24,9 +24,7 @@
   height: auto;
   letter-spacing: 0.00px;
   line-height: 35px;
-  margin-top: 1.0px;
   min-height: 49px;
-  min-width: 363px;
   position: relative;
   text-align: left;
   text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
@@ -35,19 +33,17 @@
 }
 .userprofilemanagement .black-top-rectangle-3XVj4X {
   background-color: rgba(4,27,45,1.0);
-  height: 36px;
-  left: 2px;
+  height: 37px;
   position: absolute;
-  top: 304px;
-  width: 1734px;
+  top: 0px;
+  width: 100%;
 }
 .userprofilemanagement .black-top-rectangle-O40pOL {
   background-color: rgba(4,27,45,1.0);
   height: 37px;
-  left: 10px;
   position: absolute;
-  top: 304px;
-  width: 1920px;
+  top: 0px;
+  width: 100%;
 }
 .userprofilemanagement .check-your-preferred-option-aax5kZ {
   background-color: transparent;
@@ -257,11 +253,10 @@
   height: auto;
   letter-spacing: 0.00px;
   line-height: 30px;
-  min-height: 43px;
-  min-width: 156px;
   position: relative;
   text-align: left;
   white-space: nowrap;
+  margin-left: -16%;
   width: auto;
 }
 .userprofilemanagement .ellipse-40-i2e62Q {
@@ -465,13 +460,14 @@
 .userprofilemanagement .everything-you-se-our-services-O40pOL {
   background-color: transparent;
   height: auto;
-  left: 154px;
+  left: 9%;
   letter-spacing: 0.00px;
-  line-height: 20px;
+  line-height: 32px;
   position: absolute;
   text-align: left;
-  top: 589px;
-  width: 350px;
+  top: 253px;
+  width: 600px;
+  font-size: 26px !important;
 }
 .userprofilemanagement .flex-col-0xy0vn {
   align-items: flex-start;
@@ -482,9 +478,8 @@
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  min-height: 866px;
   position: relative;
-  width: 2288px;
+  width: 100%;
 }
 .userprofilemanagement .flex-col-3elYpP {
   align-items: flex-start;
@@ -495,26 +490,27 @@
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  min-height: 262px;
   position: relative;
-  width: 664px;
+  width: 45%;
+  margin-left: 9%;
+  margin-right: auto;
+  margin-top: 7%;
 }
 .userprofilemanagement .flex-col-APIgQa {
   align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: column;
+  flex-flow: row wrap;
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  min-height: 72px;
   position: relative;
-  width: 1599px;
+  width: 100%;
+  margin-top: 7%;
 }
 .userprofilemanagement .flex-col-C61RwL {
   align-items: flex-start;
-  align-self: flex-end;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
@@ -522,11 +518,9 @@
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  margin-right: -552px;
-  margin-top: -304px;
-  min-height: 1350px;
   position: relative;
-  width: 2288px;
+  top: 0px;
+  width: 100%;
 }
 .userprofilemanagement .flex-col-GyJUNH {
   align-items: flex-start;
@@ -537,10 +531,11 @@
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  margin-bottom: 40.0px;
-  min-height: 198px;
   position: relative;
-  width: 880px;
+  width: 45%;
+  margin-left: 8%;
+  margin-right: auto;
+  margin-top: 13%;
 }
 .userprofilemanagement .flex-col-NvvWoh {
   align-items: flex-start;
@@ -551,43 +546,38 @@
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  margin-left: 59px;
-  min-height: 258px;
+  margin-left: -2%;
+  margin-right: auto;
+  margin-top: 8%;
   position: relative;
-  width: 642px;
+  width: 40%;
 }
 .userprofilemanagement .flex-col-VMr6Om {
-  align-items: center;
+  align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: column;
+  flex-flow: row wrap;
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  margin-left: 62.0px;
-  margin-top: 216px;
-  min-height: 817px;
   position: relative;
-  width: 1599px;
+  width: 100%;
 }
 .userprofilemanagement .flex-col-Xi618D {
   align-items: flex-start;
-  align-self: flex-end;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: column;
+  flex-flow: row wrap;
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  margin-left: 29px;
-  min-height: 778px;
   position: relative;
-  width: 810px;
+  width: 100%;
 }
-.userprofilemanagement .flex-col-dXBp89 {
-  align-items: flex-end;
+ .userprofilemanagement .settings_words {
+  align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
@@ -595,122 +585,125 @@
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  min-height: 773px;
   position: relative;
-  width: 581px;
+  width: 45%;
+  margin-left: 9%;
+  margin-right: auto;
+  margin-top: 7%;
+ }
+.userprofilemanagement .flex-col-dXBp89 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: row wrap;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  position: relative;
+  width: 100%;
 }
 .userprofilemanagement .flex-col-lcFreP {
-  align-items: center;
+  align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: column;
+  flex-flow: row wrap;
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  min-height: 520px;
   position: relative;
-  width: 1599px;
+  width: 100%;
 }
 .userprofilemanagement .flex-row-0xy0vn {
-  align-items: center;
+  align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   flex-shrink: 1;
-  height: 444px;
+  height: auto;
   justify-content: flex-start;
-  margin-left: 194px;
-  margin-top: 39px;
-  min-width: 1464px;
   position: relative;
-  width: auto;
+  width: 100%;
 }
 .userprofilemanagement .flex-row-APIgQa {
   align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   flex-shrink: 1;
-  height: 317px;
+  height: auto;
   justify-content: flex-start;
-  margin-right: 81.0px;
-  margin-top: 58px;
-  min-width: 1285px;
   position: relative;
-  width: auto;
+  width: 100%;
 }
 .userprofilemanagement .flex-row-C61RwL {
   align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   flex-shrink: 1;
-  height: 851px;
+  height: auto;
   justify-content: flex-start;
-  margin-left: 44.0px;
-  margin-top: 10px;
-  min-width: 1420px;
   position: relative;
-  width: auto;
+  width: 100%;
 }
 .userprofilemanagement .flex-row-lcFreP {
   align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   flex-shrink: 1;
-  height: 270px;
+  height: auto;
   justify-content: flex-start;
-  margin-right: 85.0px;
-  margin-top: 27px;
-  min-width: 1253px;
   position: relative;
-  width: auto;
+  width: 100%;
+  margin-bottom: 10%;
 }
 .userprofilemanagement .flex-row-mu6cJe {
-  align-items: center;
+  align-items: flex-start;
   background-color: transparent;
   box-sizing: border-box;
   display: flex;
-  flex-direction: row;
   flex-shrink: 1;
-  height: 64px;
+  height: auto;
   justify-content: flex-start;
-  margin-left: 68.5px;
-  min-width: 956px;
   position: relative;
-  width: auto;
+  width: 70%;
+  margin-left: 8%;
 }
 .userprofilemanagement .grey-back-O40pOL {
   background-color: rgba(238,238,238,1.0);
-  height: 419px;
-  left: 10px;
+  height: 80%;
   position: absolute;
-  top: 358px;
-  width: 1726px;
+  top: 53px;
+  width: 100%;
 }
 .userprofilemanagement .group-18-3xHcwy {
   align-self: flex-end;
   background-color: transparent;
   flex-shrink: 1;
   height: 138px;
-  margin-top: 17px;
+  margin-top: 2%;
   position: relative;
-  width: 801px;
+  font-size: 13px;
+  width: 95%;
 }
 .userprofilemanagement .group-19-y0eQTV {
+  font-size: 14px;
   align-self: flex-end;
   background-color: transparent;
   flex-shrink: 1;
   height: 138px;
-  margin-top: 44px;
+  margin-top: 8%;
   position: relative;
-  width: 801px;
+  margin-right: 11%;
+  width: 90%;
+
 }
 .userprofilemanagement .group-20-0PZcXW {
   background-color: transparent;
@@ -726,110 +719,160 @@
   background-color: transparent;
   flex-shrink: 1;
   height: 205px;
-  margin-top: 14px;
+  margin-top: 4%;
   position: relative;
-  width: 616px;
+  width: 90%;
+  margin-right: 9%;
 }
 .userprofilemanagement .group-22-PNnH4c {
   align-self: flex-end;
   background-color: transparent;
   flex-shrink: 1;
   height: 205px;
-  margin-top: 10px;
+  margin-top: 4%;
   position: relative;
-  width: 616px;
+  margin-right: 25%;
+  width: 90%;
 }
 .userprofilemanagement .image-20-GyJUNH {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
   flex-shrink: 1;
-  height: 444px;
-  margin-left: 22px;
-  object-fit: cover;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: -2%;
+  margin-right: auto;
+  margin-top: 8%;
   position: relative;
-  width: 562px;
+  width: 38%;
 }
 .userprofilemanagement .image-21-0PZcXW {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
   flex-shrink: 1;
-  height: 431px;
-  object-fit: cover;
+  height: auto;
+  justify-content: flex-start;
   position: relative;
-  width: 521px;
+  width: 38%;
+  margin-left: 8%;
+  margin-right: auto;
+  margin-top: 13%;
+}
+.userprofilemanagement .manage_words {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: -6%;
+  margin-right: auto;
+  margin-top: 19%;
+  position: relative;
+  width: 38%;
 }
 .userprofilemanagement .image-22-y0eQTV {
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
   flex-shrink: 1;
-  height: 368px;
-  margin-top: 185px;
-  object-fit: cover;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: -2%;
+  margin-right: auto;
+  margin-top: 14%;
   position: relative;
-  width: 748px;
+  width: 42%;
 }
 .userprofilemanagement .image-23-O8Us0i {
   background-color: transparent;
   flex-shrink: 1;
-  height: 64px;
-  margin-left: 26px;
+  height: auto;
+  margin-left: 2%;
   object-fit: cover;
   position: relative;
-  width: 567px;
+  width: 57%;
 }
 .userprofilemanagement .image-24-3elYpP {
-  align-self: flex-end;
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
   flex-shrink: 1;
-  height: 302px;
-  margin-left: 66px;
-  object-fit: cover;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: -2%;
+  margin-right: auto;
+  margin-top: 8%;
   position: relative;
-  width: 555px;
+  width: 40%;
 }
 .userprofilemanagement .image-25-NvvWoh {
-  align-self: flex-end;
+  align-items: flex-start;
   background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
   flex-shrink: 1;
-  height: 264px;
-  object-fit: cover;
+  height: auto;
+  justify-content: flex-start;
   position: relative;
-  width: 552px;
+  width: 41%;
+  margin-left: 9%;
+  margin-right: 12%;
+  margin-top: 7%;
 }
 .userprofilemanagement .line-1-O40pOL {
   background-color: transparent;
   height: 1px;
-  left: 72px;
+  margin-left: 2%;
   object-fit: cover;
   position: absolute;
-  top: 418px;
-  width: 1604px;
+  top: 104px;
+  width: 95%;
 }
 .userprofilemanagement .line-12-mu6cJe {
   background-color: transparent;
   flex-shrink: 1;
   height: 1px;
-  margin-top: 6px;
+  margin-top: 1%;
   object-fit: cover;
   position: relative;
-  width: 1599px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .userprofilemanagement .line-13-APIgQa {
   background-color: transparent;
   flex-shrink: 1;
   height: 1px;
-  margin-right: 42.0px;
-  margin-top: 71px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 7%;
   object-fit: cover;
   position: relative;
-  width: 866px;
+  width: 60%;
 }
 .userprofilemanagement .line-8-xpmbvu {
   background-color: transparent;
   flex-shrink: 1;
-  height: 1px;
-  margin-left: 88.5px;
-  margin-top: 5px;
+  height: 2px;
+  margin-left: 4%;
   object-fit: cover;
   position: relative;
-  width: 1599px;
+  top: 42px;
+  width: 94%;
 }
 .userprofilemanagement .manage-password-y0eQTV {
   background-color: transparent;
@@ -837,9 +880,7 @@
   height: auto;
   letter-spacing: 0.00px;
   line-height: 30px;
-  margin-left: 9px;
-  min-height: 43px;
-  min-width: 248px;
+  margin-left: 1%;
   position: relative;
   text-align: left;
   white-space: nowrap;
@@ -848,9 +889,9 @@
 .userprofilemanagement .overlap-group-xpmbvu {
   background-color: transparent;
   flex-shrink: 1;
-  height: 860px;
+  height: auto;
   position: relative;
-  width: 2288px;
+  width: 100%;
 }
 .userprofilemanagement .provide-the-nee-o-make-a-change-TwzCqN {
   background-color: transparent;
@@ -870,8 +911,6 @@
   height: auto;
   letter-spacing: 0.00px;
   line-height: 30px;
-  min-height: 43px;
-  min-width: 139px;
   position: relative;
   text-align: left;
   white-space: nowrap;
@@ -932,17 +971,17 @@
   background-color: transparent;
   color: var(--nero);
   font-family: 'OswaldRegular-Regular', Helvetica;
-  font-size: 35px;
+  font-size: 44px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: bold;
   height: auto;
-  left: 154px;
+  left: 9%;
   letter-spacing: 0.00px;
-  line-height: 35px;
+  line-height: 48px;
   position: absolute;
   text-align: left;
-  text-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
-  top: 503px;
+  text-shadow: 0px 3px 6px rgb(0 0 0 / 16%);
+  top: 155px;
   white-space: nowrap;
   width: auto;
 }
@@ -954,23 +993,23 @@
   font-style: normal;
   font-weight: 400;
   height: auto;
-  left: 72px;
+  margin-left: 2%;
   letter-spacing: 0.00px;
   line-height: 25px;
   position: absolute;
   text-align: left;
-  top: 378px;
+  top: 72px;
   white-space: nowrap;
   width: auto;
 }
 .userprofilemanagement .swapslogoimage-transparent-O40pOL {
   background-color: transparent;
-  height: 838px;
-  left: 573px;
+  height: auto;
+  margin-left: 25%;
   object-fit: cover;
-  position: absolute;
-  top: 0px;
-  width: 1715px;
+  position: relative;
+  width: 111%;
+  margin-top: -15%;
 }
 .userprofilemanagement .user-profile-management-O40pOL {
   background-color: transparent;
@@ -978,14 +1017,13 @@
   font-family: 'OswaldRegular-Regular', Helvetica;
   font-size: 30px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: bolder;
   height: auto;
-  left: 138px;
+  margin-left: 7%;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 818px;
   white-space: nowrap;
   width: auto;
 }
@@ -1007,26 +1045,504 @@
   height: auto;
   letter-spacing: 0.00px;
   line-height: 30px;
-  min-height: 43px;
-  min-width: 279px;
   position: relative;
   text-align: left;
-  white-space: nowrap;
   width: auto;
 }
 .userprofilemanagement .yellow-thin-rectangle-3XVj4X {
   background-color: rgba(249,166,2,1.0);
   height: 8px;
-  left: 10px;
+  left: 0px;
   position: absolute;
-  top: 344px;
-  width: 1726px;
+  top: 41px;
+  width: 100%;
 }
 .userprofilemanagement .yellow-thin-rectangle-O40pOL {
   background-color: rgba(249,166,2,1.0);
   height: 8px;
   left: 0px;
   position: absolute;
-  top: 345px;
-  width: 1930px;
+  top: 41px;
+  width: 100%;
+}
+
+
+
+@media (min-width: 2000px) {
+  .userprofilemanagement .swapslogoimage-transparent-O40pOL {
+    margin-top: -22%;
+  }
+  .userprofilemanagement .swaps-fx-user-guide-O40pOL {
+    font-size: 31px;
+  }
+  .userprofilemanagement .grey-back-O40pOL {
+    height: 85%;
+  }
+  .userprofilemanagement .swaps-fx-portal-user-guide-O40pOL {
+    font-size: 90px;
+    line-height: 104px;
+    top: 239px;
+  }
+  .userprofilemanagement .everything-you-se-our-services-O40pOL {
+    top: 441px;
+    width: 538px;
+    font-size: 34px !important;
+  }
+  .userprofilemanagement .line-8-xpmbvu {
+    top: 54px !important;
+  }
+  .userprofilemanagement .headings {
+    font-size: 45px !important;
+  }
+  .userprofilemanagement .letters {
+    height: 193px !important;
+    font-size: 23px !important;
+  }
+  .userprofilemanagement .image-22-y0eQTV {
+    margin-top: 11%;
+  }
+  .userprofilemanagement .advanced-profile-management-O8Us0i {
+    font-size: 46px !important;
+    margin-right: 4%;
+  }
+  .userprofilemanagement .image-24-3elYpP {
+    margin-top: 7% !important;
+  }
+}
+
+
+
+
+@media (max-width: 2000px) {
+  .userprofilemanagement .swapslogoimage-transparent-O40pOL {
+    margin-top: -18%;
+  }
+  .userprofilemanagement .grey-back-O40pOL {
+    height: 83%;
+  }
+  .userprofilemanagement .swaps-fx-portal-user-guide-O40pOL {
+    font-size: 70px;
+    line-height: 78px;
+    top: 190px;
+  }
+  .userprofilemanagement .everything-you-se-our-services-O40pOL {
+    top: 345px;
+    width: 581px;
+    font-size: 31px !important;
+  }
+}
+
+
+@media (min-width: 1500px) {
+  .userprofilemanagement .user-profile-management-O40pOL {
+    font-size: 66px !important;
+  }
+  .userprofilemanagement .line-8-xpmbvu {
+    top: 57px;
+    font-size: 44px;
+  }
+  .userprofilemanagement .headings {
+    font-size: 40px;
+  }
+  .userprofilemanagement .letters {
+    height: 173px;
+    margin-top: 6%;
+    font-size: 17px;
+  }
+  .userprofilemanagement .advanced-profile-management-O8Us0i {
+    font-size: 41px;
+    margin-top: 2%;
+    margin-left: 2%;
+
+  }
+  .userprofilemanagement .group-21-3TWxOt {
+    width: 90%;
+  }
+  .userprofilemanagement .image-24-3elYpP {
+    margin-top: 8%;
+    width: 34%;
+  }
+  .userprofilemanagement .flex-col-3elYpP {
+    width: 50%;
+  }
+}
+
+@media (max-width: 1500px) {
+  .userprofilemanagement .swaps-fx-portal-user-guide-O40pOL {
+    font-size: 51px;
+    line-height: 60px;
+    top: 190px;
+  }
+  .userprofilemanagement .everything-you-se-our-services-O40pOL {
+    top: 309px;
+    font-size: 30px !important;
+    width: 500px;
+  }
+  .userprofilemanagement .user-profile-management-O40pOL {
+    font-size: 39px;
+  }
+}
+
+
+@media (max-width: 1200px) {
+  .userprofilemanagement .swapslogoimage-transparent-O40pOL {
+    margin-left: 17%;
+    width: 123%;
+    margin-top: -16%;
+  }
+  .userprofilemanagement .swaps-fx-user-guide-O40pOL {
+    font-size: 20px;
+    top: 57px;
+  }
+  .userprofilemanagement .line-1-O40pOL {
+    top: 85px;
+  }
+  .userprofilemanagement .swaps-fx-portal-user-guide-O40pOL {
+    font-size: 44px;
+    line-height: 48px;
+    top: 155px;
+  }
+  .userprofilemanagement .everything-you-se-our-services-O40pOL {
+    top: 253px;
+    font-size: 24px !important;
+    width: 384px;
+    line-height: 32px;
+  }
+  .userprofilemanagement .headings {
+    font-size: 25px;
+  }
+  .userprofilemanagement .letters {
+    height: 111px;
+    font-size: 10px;
+    margin-top: 3%;
+  } 
+  .userprofilemanagement .settings_words {
+    margin-top: 0%;
+  }
+  .userprofilemanagement .advanced-profile-management-O8Us0i {
+    font-size: 30px;
+  }
+  .userprofilemanagement .image-24-3elYpP {
+    margin-top: 6%;
+  }
+}
+
+
+
+
+
+
+@media (max-width: 900px) {
+  .userprofilemanagement .grey-back-O40pOL {
+    height: 75%;
+  }
+  .userprofilemanagement .swapslogoimage-transparent-O40pOL {
+    margin-left: 6%;
+    width: 138%;
+    margin-top: -12%;
+  }
+  .userprofilemanagement .swaps-fx-user-guide-O40pOL {
+    font-size: 20px;
+    top: 57px;
+  }
+  .userprofilemanagement .swaps-fx-portal-user-guide-O40pOL {
+    font-size: 26px;
+    line-height: 30px;
+    top: 125px;
+    left: 11%;
+  }
+  .userprofilemanagement .everything-you-se-our-services-O40pOL {
+    top: 187px;
+    font-size: 16px !important;
+    width: 247px;
+    line-height: 19px;
+    left: 11%;
+  }
+  .userprofilemanagement .user-profile-management-O40pOL {
+    font-size: 28px;
+  }
+  .userprofilemanagement .line-8-xpmbvu  {
+    top: 37px;
+  }
+  .userprofilemanagement .flex-row-0xy0vn {
+    flex-direction: column;
+  }
+  .userprofilemanagement .flex-col-GyJUNH {
+    width: 90%;
+    margin-left: 15%;
+    margin-top: 13%;
+  }
+  .userprofilemanagement .headings {
+    font-size: 32px;
+  }
+  .userprofilemanagement .letters {
+    height: 118px;
+    font-size: 11px;
+    margin-top: 4%;
+  }
+  .userprofilemanagement .image-20-GyJUNH {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+  .userprofilemanagement .flex-col-dXBp89 {
+    flex-direction: column;
+  }
+  .userprofilemanagement .image-21-0PZcXW {
+    width: 70%;
+    margin-left: auto;
+  }
+  .userprofilemanagement .manage_words {
+    margin-left: 18%;
+    width: 90%;
+    margin-top: 13%;
+  }
+  .userprofilemanagement .manage-password-y0eQTV {
+    margin-bottom: -1%;
+    margin-left: 4%;
+  }
+  .userprofilemanagement .group-19-y0eQTV {
+    margin-right: 6%;
+  }
+  .userprofilemanagement .flex-col-Xi618D {
+    flex-direction: column;
+  }
+  .userprofilemanagement .image-22-y0eQTV {
+    margin-left: auto;
+    width: 70%;
+  }
+  .userprofilemanagement .settings_words {
+    margin-top: -2%;
+    margin-left: 21%;
+  }
+  .userprofilemanagement .flex-row-mu6cJe {
+    margin-top: 3%;
+  }
+  .userprofilemanagement .advanced-profile-management-O8Us0i {
+    font-size: 26px;
+    margin-right: 4%;
+  }
+  .userprofilemanagement .line-12-mu6cJe {
+    margin-top: 0%;
+  }
+  .userprofilemanagement .image-23-O8Us0i {
+    width: 54%;
+  }
+  .userprofilemanagement .flex-row-APIgQa {
+    flex-direction: column;
+  }
+  .userprofilemanagement .flex-col-3elYpP {
+    width: 80%;
+    margin-left: 24%;
+    margin-top: 9%;
+  }
+  .userprofilemanagement .group-21-3TWxOt {
+    height: 144px;
+  }
+  .userprofilemanagement .image-24-3elYpP {
+    margin-left: auto;
+    width: 70%;
+    margin-top: 14%;
+  }
+  .userprofilemanagement .flex-row-lcFreP {
+    flex-direction: column;
+    margin-top: 6%;
+    margin-bottom: 20%;
+  }
+  .userprofilemanagement .image-25-NvvWoh {
+    width: 70%;
+    margin-left: 19%;
+    margin-right: auto;
+  }
+  .userprofilemanagement .flex-col-NvvWoh {
+    margin-left: 39%;
+    width: 90%;
+    margin-top: 13%;
+  }
+}
+
+
+
+
+
+@media (max-width: 600px) {
+  .userprofilemanagement .grey-back-O40pOL {
+    top: 23px;
+    height: 85%;
+  }
+  .userprofilemanagement .swaps-fx-user-guide-O40pOL {
+    font-size: 15px;
+    top: 48px;
+  }
+  .userprofilemanagement .line-1-O40pOL {
+    top: 70px;
+  }
+  .userprofilemanagement .swapslogoimage-transparent-O40pOL {
+    margin-left: 6%;
+    width: 140%;
+    margin-top: -11%;
+  }
+  .userprofilemanagement .swaps-fx-portal-user-guide-O40pOL {
+    font-size: 20px;
+    line-height: 22px;
+    top: 125px;
+  }
+  .userprofilemanagement .everything-you-se-our-services-O40pOL {
+    top: 169px;
+    font-size: 12px !important;
+    width: 187px;
+    line-height: 18px;
+  }
+  .userprofilemanagement .user-profile-management-O40pOL {
+    font-size: 17px;
+    margin-top: 0px;
+  }
+  .userprofilemanagement .line-8-xpmbvu {
+    margin-top: -11px;
+  }
+  .userprofilemanagement .flex-col-GyJUNH {
+    margin-top: 17%;
+  }
+  .userprofilemanagement .headings {
+    font-size: 28px;
+  }
+  .userprofilemanagement .letters {
+    height: 91px;
+    font-size: 7px;
+  }
+  .userprofilemanagement .image-20-GyJUNH {
+    margin-top: 8%;
+  }
+  .userprofilemanagement .settings_words {
+    margin-top: -17%;
+  }
+  .userprofilemanagement .flex-row-mu6cJe {
+    margin-top: 7%;
+  }
+  .userprofilemanagement .advanced-profile-management-O8Us0i {
+    font-size: 17px;
+  }
+  .userprofilemanagement .image-23-O8Us0i {
+    width: 54%;
+  }
+  .userprofilemanagement .line-12-mu6cJe {
+    margin-top: -4%;
+  }
+} 
+
+
+
+
+
+@media (max-width: 400px) {
+  .userprofilemanagement .swapslogoimage-transparent-O40pOL {
+    margin-top: -6%;
+    width: 1;
+  }
+  .userprofilemanagement .grey-back-O40pOL {
+    top: 23px;
+    height: 104%;
+  }
+  .userprofilemanagement .swaps-fx-user-guide-O40pOL {
+    font-size: 12px;
+    top: 48px;
+  }
+  .userprofilemanagement .line-1-O40pOL {
+    top: 69px;
+  }
+  .userprofilemanagement .swaps-fx-portal-user-guide-O40pOL {
+    font-size: 17px;
+    line-height: 21px;
+    top: 134px;
+  }
+  .userprofilemanagement .everything-you-se-our-services-O40pOL {
+    top: 177px;
+    font-size: 11px !important;
+    width: 153px;
+    line-height: 14px;
+  }
+  .userprofilemanagement .user-profile-management-O40pOL {
+    margin-top: 50px;
+  }
+  .userprofilemanagement .line-8-xpmbvu {
+    margin-top: 40px;
+  }
+  .userprofilemanagement .flex-col-GyJUNH {
+    margin-top: 22%;
+  }
+  .userprofilemanagement .headings {
+    font-size: 21px;
+  }
+  .userprofilemanagement .letters {
+    height: 67px;
+    font-size: 5px;
+  }
+  .userprofilemanagement .ellipse-41-i2e62Q {
+    top: 25px;
+  }
+  .userprofilemanagement .ellipse-42-i2e62Q {
+    top: 40px;
+  }
+  .userprofilemanagement .ellipse-43-i2e62Q {
+    top: 50px;
+  }
+  
+  .elip {
+    width: 2px !important;
+    height: 2px !important;
+    left: 10px !important;
+  }
+  .userprofilemanagement .settings_words {
+    margin-top: -41%;
+  }
+  .userprofilemanagement .advanced-profile-management-O8Us0i {
+    font-size: 12px;
+  }
+  .userprofilemanagement .image-23-O8Us0i {
+    width: 48%;
+    margin-top: 8%;
+  }
+  .userprofilemanagement .line-12-mu6cJe {
+    margin-top: -6%;
+  }
+  .userprofilemanagement .flex-col-Xi618D {
+    margin-top: 7%;
+  }
+}
+
+
+
+
+
+@media (max-width: 300px) {
+  .userprofilemanagement .grey-back-O40pOL {
+    height: 123%;
+  }
+  .userprofilemanagement .swapslogoimage-transparent-O40pOL {
+    margin-top: -7%;
+  }
+  .userprofilemanagement .swaps-fx-user-guide-O40pOL {
+    font-size: 10px;
+    top: 42px;
+  }
+  .userprofilemanagement .line-1-O40pOL {
+    top: 59px;
+  }
+  .userprofilemanagement .swaps-fx-portal-user-guide-O40pOL {
+    font-size: 14px;
+    line-height: 16px;
+  }
+  .userprofilemanagement .everything-you-se-our-services-O40pOL {
+    top: 133px;
+    font-size: 9px !important;
+    width: 159px;
+  }
+ 
+  .userprofilemanagement .line-8-xpmbvu {
+    margin-top: 52px;
+  }
+  .userprofilemanagement .user-profile-management-O40pOL {
+    font-size: 14px;
+    margin-top: 63px;
+  }
 }
