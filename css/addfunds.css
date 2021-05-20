@@ -489,7 +489,7 @@
   margin-left: 2%;
   object-fit: cover;
   position: absolute;
-  top: 110px;
+  top: 107px;
   width: 95%;
 }
 .addfunds .line-8-0xy0vn {
@@ -837,6 +837,9 @@
   .addfunds .grey-back-y1HRxC {
     height: 104%;
   }
+  .addfunds .line-1-y1HRxC {
+    top: 110px;
+  }
 }
 
 
@@ -980,7 +983,7 @@
   }
   .addfunds .adding-funds-to-ounts-made-easy-0PZcXW, 
   .addfunds .automatic-payme-dit-debit-cards-0PZcXW {
-    font-size: 41px;
+    font-size: 30px;
   }
   .addfunds .group-9-0PZcXW {
     left: 38px;
