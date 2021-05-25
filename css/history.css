@@ -40,7 +40,7 @@
   position: absolute;
   text-align: left;
   top: 0px;
-  width: 238px;
+  width: 90%;
 }
 .history .black-top-rectangle-pqRchW {
   background-color: rgba(4,27,45,1.0);
@@ -77,8 +77,7 @@
   line-height: 30px;
   position: absolute;
   text-align: left;
-  white-space: nowrap;
-  width: 341px;
+  width: 90%;
 }
 .history .click-the-cance-der-to-complete-PiOlGO {
   background-color: transparent;
@@ -100,7 +99,7 @@
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: -5px;
+  top: 0px;
   white-space: nowrap;
   width: calc(100.00% - 14px);
 }
@@ -142,6 +141,7 @@
   position: absolute;
   text-align: left;
   white-space: nowrap;
+  top: 43px;
   width: calc(100.00% - 103px);
 }
 .history .ellipse-57-CX8jfd {
@@ -161,6 +161,7 @@
   left: 0px;
   position: absolute;
   width: 6px;
+  top: 48px;
 }
 .history .ellipse-59-9DCiFf {
   background-color: var(--nero);
@@ -204,7 +205,7 @@
   height: 6px;
   left: 0px;
   position: absolute;
-  top: 39px;
+  top: 72px;
   width: 6px;
 }
 .history .ellipse-64-PyC6bq {
@@ -215,7 +216,7 @@
   left: 0px;
   position: absolute;
   width: 6px;
-  top: 67px;
+  top: 126px;
 }
 .history .ellipse-65-PyC6bq {
   background-color: var(--nero);
@@ -225,7 +226,7 @@
   left: 0px;
   position: absolute;
   width: 6px;
-  top: 94px;
+  top: 179px;
 }
 .history .ellipse-66-BKbGut {
   background-color: var(--nero);
@@ -233,7 +234,7 @@
   height: 6px;
   left: 0px;
   position: absolute;
-  top: calc(16.98% - 1px);
+  top: calc(31.98% - 5px);
   width: 6px;
 }
 .history .ellipse-67-BKbGut {
@@ -242,6 +243,7 @@
   bottom: calc(22.64% - 1px);
   height: 6px;
   left: 0px;
+  top: 57px;
   position: absolute;
   width: 6px;
 }
@@ -266,9 +268,9 @@
 .history .everything-you-se-our-services-y1HRxC {
   background-color: transparent;
   height: auto;
-  left: 9%;
+  left: 10%;
   letter-spacing: 0.00px;
-  line-height: 32px;
+  line-height: 53px;
   position: absolute;
   text-align: left;
   top: 253px;
@@ -357,7 +359,7 @@
 }
 .history .grey-back-y1HRxC {
   background-color: rgba(238,238,238,1.0);
-  height: 80%;
+  height: 106%;
   position: absolute;
   top: 53px;
   width: 100%;
@@ -367,18 +369,18 @@
   height: 59px;
   left: 40px;
   position: absolute;
-  top: 46px;
+  top: 67px;
   width: 157px;
 }
 .history .group-25-0PZcXW {
   align-self: flex-end;
   background-color: transparent;
   flex-shrink: 1;
-  height: 101px;
-  margin-top: 4%;
+  height: 169px;
+  margin-top: 5%;
   margin-right: -23%;
   position: relative;
-  width: 95%;
+  width: 96%;
 }
 .history .group-26-BdpSxK {
   align-items: flex-start;
@@ -387,11 +389,11 @@
   display: flex;
   flex-direction: column;
   flex-shrink: 1;
-  height: auto;
+  height: 83px;
   justify-content: flex-start;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 7%;
+  margin-top: 1%;
   position: relative;
   width: 38%;
 }
@@ -399,19 +401,19 @@
   align-self: flex-start;
   background-color: transparent;
   flex-shrink: 1;
-  height: 59px;
-  margin-left: 20%;
-  margin-top: 2%;
+  height: 68px;
+  margin-left: 14%;
+  margin-top: 9%;
   position: relative;
   width: 80%;
 }
 .history .group-28-RH0WJ5 {
   background-color: transparent;
-  height: 59px;
+  height: 64px;
   margin-left: 24%;
   position: relative;
   width: 95%;
-  margin-top: 1%;
+  margin-top: 3%;
 }
 .history .history-transactions-y1HRxC {
   background-color: transparent;
@@ -438,8 +440,7 @@
   position: absolute;
   text-align: left;
   top: -5px;
-  white-space: nowrap;
-  width: calc(100.00% - 30px);
+  width: calc(81.00% - 30px);
 }
 .history .hover-click-on-ailable-options-PyC6bq {
   background-color: transparent;
@@ -477,11 +478,11 @@
   height: auto;
   justify-content: flex-start;
   margin-bottom: 204.0px;
-  margin-left: auto;
+  margin-left: 13%;
   margin-right: auto;
-  margin-top: 3%;
+  margin-top: 9%;
   position: relative;
-  width: 38%;
+  width: 34%;
 }
 .history .image-29-BdpSxK {
   align-items: flex-start;
@@ -493,8 +494,8 @@
   height: auto;
   justify-content: flex-start;
   position: relative;
-  width: 55%;
-  margin-left: 5%;
+  width: 44%;
+  margin-left: 10%;
   margin-right: auto;
   margin-top: 1%;
 }
@@ -515,8 +516,8 @@
   flex-shrink: 1;
   height: auto;
   margin-right: auto;
-  margin-top: 5%;
-  margin-left: 10%;
+  margin-top: 6%;
+  margin-left: 11%;
   object-fit: cover;
   position: relative;
   width: 68%;
@@ -530,8 +531,8 @@
   flex-shrink: 1;
   height: auto;
   justify-content: flex-start;
-  margin-right: 12%;
-  margin-top: 7%;
+  margin-right: 5%;
+  margin-top: 77px;
   position: relative;
   width: 35%;
 }
@@ -541,7 +542,7 @@
   margin-left: 2%;
   object-fit: cover;
   position: absolute;
-  top: 104px;
+  top: 107px;
   width: 95%;
 }
 .history .line-14-0xy0vn {
@@ -585,8 +586,8 @@
   margin-left: 4%;
   object-fit: cover;
   position: relative;
-  top: 42px;
   width: 94%;
+  margin-top: 13%;
 }
 .history .order-history-C61RwL {
   background-color: transparent;
@@ -599,7 +600,8 @@
   text-align: left;
   white-space: nowrap;
   width: auto;
-  margin-right: 78%;
+  top: 0.5%;
+  margin-right: 72%;
   margin-top: 2%;
 }
 .history .overlap-group-0xy0vn {
@@ -626,7 +628,7 @@
   flex-shrink: 1;
   height: 105px;
   margin-left: 27%;
-  margin-top: 4%;
+  margin-top: 5%;
   position: relative;
   width: 95%;
 }
@@ -639,8 +641,7 @@
   position: absolute;
   text-align: left;
   top: calc(44.44% - 13px);
-  white-space: nowrap;
-  width: calc(100.00% - 14px);
+  width: calc(89.00% - 14px);
 }
 .history .select-order-hi-se-the-sub-menu-PyC6bq {
   background-color: transparent;
@@ -676,7 +677,7 @@
   background-color: transparent;
   color: var(--nero);
   font-family: 'SegoeUI-Regular', Helvetica;
-  font-size: 25px;
+  font-size: 37.5px;
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -709,7 +710,7 @@
   text-align: left;
   white-space: nowrap;
   width: auto;
-  margin-left: 16%;
+  margin-left: 22%;
   top: 0%;
 }
 .history .view-more-information-on-order-C61RwL {
@@ -723,8 +724,8 @@
   text-align: left;
   white-space: nowrap;
   width: auto;
-  margin-right: 62%;
-  margin-top: 2%;
+  margin-right: 53%;
+  margin-top: -5%;
 }
 .history .wait-for-inform-tion-to-display-PyC6bq {
   background-color: transparent;
@@ -741,14 +742,13 @@
 .history .within-the-summ-er-history-view-RH0WJ5 {
   background-color: transparent;
   height: auto;
-  margin-left: 20%;
+  margin-left: 23%;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: relative;
   text-align: left;
-  white-space: nowrap;
-  margin-top: 3%;
-  width: 95%;
+  margin-top: 7%;
+  width: auto;
 }
 .history .yellow-thin-rectangle-y1HRxC {
   background-color: rgba(249,166,2,1.0);
@@ -773,23 +773,20 @@
     margin-top: -22%;
   }
   .history .swaps-fx-user-guide-y1HRxC {
-    font-size: 31px;
+    font-size: 46.5px;
   }
-  .history .grey-back-y1HRxC {
-    height: 85%;
+  .history .history-transactions-y1HRxC {
+    font-size: 125px !important;
   }
   .history .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 90px;
-    line-height: 104px;
+    font-size: 150px;
+    line-height: 143px;
     top: 239px;
   }
   .history .everything-you-se-our-services-y1HRxC {
-    top: 441px;
-    width: 538px;
-    font-size: 34px !important;
-  }
-  .history .line-8-0xy0vn {
-    top: 54px !important;
+    top: 540px;
+    width: 612px;
+    font-size: 51px !important;
   }
   .history .line-14-0xy0vn {
     margin-top: 9%;
@@ -805,18 +802,18 @@
     width: 80%;
     font-size: 22px;
   }
-  .headings {
-    font-size: 50px !important;
-  }
   .history .available-filters-search-BxCq5y {
     width: 80%;
   }
   .history .group-24-BxCq5y {
     width: 80%;
   }
+  .history .group-27-C61RwL {
+    margin-top: 7% !important;
+  }
   .history .view-more-information-on-order-C61RwL {
     margin-right: 68%;
-    margin-top: 4%;
+    margin-top: -4%;
   }
   .container-center-horizontal {
     height: 6700px !important;
@@ -824,6 +821,39 @@
   .history .group-28-RH0WJ5 {
     height: 67px;
     margin-top: 2%;
+    margin-left: 21%;
+  }
+  .oswald-light-nero-30px {
+    font-size: 53px !important;
+  }
+  .history .order-history-C61RwL {
+    margin-right: 73%;
+  }
+  .history .to-cancel-and-active-order-RH0WJ5 {
+    margin-left: 17%;
+  }
+  .history .within-the-summ-er-history-view-RH0WJ5 {
+    margin-left: 17%;
+  }
+  .history .within-the-summ-er-history-view-RH0WJ5 {
+    margin-top: 6%;
+  }
+  .history .words {
+    margin-left: 0%;
+  }
+  .history .image-32-RH0WJ5 {
+    margin-left: 6%;
+    margin-right: 9%;
+  }
+  .segoeui-regular-normal-nero-20px {
+    font-size: 24px !important;
+  }
+  .history .free-text-search-CX8jfd,
+  .history .date-range-CX8jfd {
+    font-size: 24px !important;
+  }
+  .history .image-31-C61RwL {
+    margin-top: 83px;
   }
 }
 
@@ -832,17 +862,20 @@
     margin-top: -18%;
   }
   .history .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 70px;
-    line-height: 78px;
+    font-size: 105px;
+    line-height: 96px;
     top: 190px;
   }
   .history .everything-you-se-our-services-y1HRxC {
-    top: 345px;
+    top: 382px;
     width: 581px;
-    font-size: 31px !important;
+    font-size: 46.5px !important;
   }
-  .history .grey-back-y1HRxC {
-    height: 83%;
+  .history .line-8-0xy0vn {
+    margin-top: 15%;
+  }
+  .history .history-transactions-y1HRxC {
+    top: 137%;
   }
 
 }
@@ -851,32 +884,37 @@
 
 @media (max-width: 1500px) {
   .history .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 51px;
-    line-height: 60px;
+    font-size: 78px;
+    line-height: 71px;
     top: 190px;
   }
   .history .everything-you-se-our-services-y1HRxC {
-    top: 309px;
-    font-size: 30px !important;
+    top: 338px;
+    font-size: 43px !important;
     width: 500px;
   }
+  .history .line-8-0xy0vn {
+    margin-top: 17%;
+  }
   .history .history-transactions-y1HRxC {
-    font-size: 39px;
+    font-size: 91.5px;
+    top: 135%;
   }
 }
 
 
 
 @media (min-width: 1500px) {
-  .history .line-8-0xy0vn {
-    top: 57px;
-    font-size: 44px;
+  
+  .history .grey-back-y1HRxC {
+    height: 104%;
+  }
+  .history .line-1-y1HRxC {
+    top: 110px;
   }
   .history .history-transactions-y1HRxC {
-    font-size: 66px !important;
-  }
-  .headings {
-    font-size: 42px !important;
+    font-size: 110px !important;
+    top: 129%;
   }
   .segoeui-regular-normal-nero-20px {
     font-size: 20px;
@@ -887,103 +925,189 @@
   }
   .history .group-27-C61RwL {
     height: 75px;
+    margin-top: 9%;
   }
   .container-center-horizontal {
     height: 5500px;
+  }
+  .history .group-25-0PZcXW {
+    height: 122px;
+  }
+  .history .hover-click-on-ailable-options-9DCiFf {
+    width: calc(100% - 30px);
+  }
+  .history .select-funds-hi-selection-tile-9DCiFf {
+     width: calc(100% - 14px);
+  }
+  .history .group-24-BxCq5y {
+    width: 90%;
+  }
+  .history .free-text-search-CX8jfd,
+  .history .date-range-CX8jfd {
+    font-size: 22px;
+  }
+  .history .ellipse-58-CX8jfd {
+    top: 42px;
+  }
+  .history .click-the-targe-et-more-details-BKbGut {
+    top: -7px;
+  }
+  .history .ellipse-67-BKbGut {
+    top: 55px;
+  }
+  .history .download-order-ceipt-if-needed-BKbGut {
+    top: 40px;
+  }
+  .history .view-more-information-on-order-C61RwL {
+    margin-right: 58%;
+    margin-top: -5%;
+  }
+  .history .image-28-dXBp89 {
+    margin-top: 8%;
+    margin-left: 11%;
   }
 }
 
 
 @media (max-width: 1200px) {
+  .history .grey-back-y1HRxC {
+    height: 91%;
+  }
   .history .swapslogoimage-transparent-y1HRxC {
-    margin-left: 17%;
-    width: 123%;
-    margin-top: -16%;
+    margin-left: 6%;
+    width: 138%;
+    margin-top: -23%;
   }
   .history .swaps-fx-user-guide-y1HRxC {
-    font-size: 20px;
+    font-size: 30px;
     top: 57px;
   }
   .history .line-1-y1HRxC {
     top: 85px;
   }
   .history .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 44px;
-    line-height: 48px;
+    font-size: 62px;
+    line-height: 61px;
     top: 155px;
   }
   .history .everything-you-se-our-services-y1HRxC {
-    top: 253px;
-    font-size: 24px !important;
-    width: 384px;
-    line-height: 32px;
+    top: 278px;
+    font-size: 42px !important;
+    width: 500px;
+    line-height: 37px;
+  }
+  .history .line-8-0xy0vn {
+    margin-top: 15%;
+  }
+  .history .history-transactions-y1HRxC {
+    font-size: 69.5px;
+    top: 119%;
   }
   .history .line-14-0xy0vn {
     margin-top: 14%;
   }
   .segoeui-regular-normal-nero-20px {
-    font-size: 10px !important;
+    font-size: 18px !important;
+  }
+  .oswald-light-nero-30px {
+    font-size: 42px !important;
   }
   .history .date-range-CX8jfd {
     width: 80%;
-    font-size: 10px;
+    font-size: 18px;
+  }
+  .history .image-27-0xy0vn {
+    top: 2%;
   }
   .history .free-text-search-CX8jfd {
     width: 80%;
-    font-size: 10px;
-  }
-  .headings {
-    font-size: 21px !important;
+    font-size: 18px;
   }
   .history .available-filters-search-BxCq5y {
     width: 80%;
   }
   .history .group-24-BxCq5y {
     width: 80%;
+    top: 41px;
+  }
+  .history .group-25-0PZcXW {
+    height: 165px;
+    margin-top: 7%;
+  }
+  .history .ellipse-58-CX8jfd {
+    top: 42px;
+  }
+  .history .image-28-dXBp89 {
+    margin-left: 7%;
+    margin-top: 12%;
+    width: 37%;
+  }
+  .history .order-history-C61RwL {
+    margin-right: 65%;
+  }
+  .history .flex-row-VMr6Om {
+    margin-top: 6%;
+  }
+  .history .image-29-BdpSxK {
+    width: 43%;
+  }
+  .history .group-26-BdpSxK {
+    margin-right: 8%;
+    width: 36%;
+  }
+  .history .image-30-C61RwL {
+    margin-top: 13%;
+  }
+  .history .group-27-C61RwL {
+    margin-top: 14%;
+  }
+  .history .ellipse-66-BKbGut {
+    top: 30px;
+  }
+  .history .click-the-targe-et-more-details-BKbGut {
+    top: 15px;
+  }
+  .history .ellipse-67-BKbGut {
+    top: 68px;
+  }
+  .history .download-order-ceipt-if-needed-BKbGut {
+    top: 54px;
   }
 }
 
 
 @media (max-width: 900px) {
   .history .grey-back-y1HRxC {
-    height: 75%;
+    height: 125%;
   }
   .history .swapslogoimage-transparent-y1HRxC {
-    margin-left: 6%;
-    width: 138%;
-    margin-top: -12%;
-  }
-  .history .swaps-fx-user-guide-y1HRxC {
-    font-size: 20px;
-    top: 57px;
+    margin-left: 29%;
+    width: 104%;
+    margin-top: -11%;
   }
   .history .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 26px;
-    line-height: 30px;
-    top: 125px;
-    left: 11%;
+    font-size: 41px;
+    line-height: 51px;
+    top: 155px;
   }
   .history .everything-you-se-our-services-y1HRxC {
-    top: 187px;
-    font-size: 16px !important;
-    width: 247px;
-    line-height: 19px;
-    left: 11%;
+    top: 256px;
+    font-size: 31px !important;
+    width: 378px;
+    line-height: 34px;
   }
   .history .history-transactions-y1HRxC {
-    font-size: 28px;
+    font-size: 44.5px;
+    margin-top: 15%;
   }
   .history .line-8-0xy0vn {
-    top: 37px;
+    margin-top: 29%;
   }
   .history .image-27-0xy0vn {
     top: 70px;
   }
   .history .flex-row-C61RwL {
     flex-direction: column;
-  }
-  .headings {
-    font-size: 28px !important;
   }
   .history .image-28-dXBp89 {
     width: 70%;
@@ -1002,29 +1126,38 @@
     flex-direction: column;
   }
   .history .order-history-C61RwL {
-    margin-right: 67%;
+    margin-right: 61%;
   }
   .history .image-29-BdpSxK {
     width: 66%;
-    margin-left: auto;
     margin-right: auto;
     margin-top: 3%;
   }
+  .history .ellipse-64-PyC6bq {
+    top: 93px;
+  }
+  .history .ellipse-65-PyC6bq {
+    top: 135px;
+  }
+  .history .ellipse-63-PyC6bq {
+    top: 57px;
+  }
   .history .group-26-BdpSxK {
-    margin-left: 18%;
+    margin-left: 12%;
     width: 90%;
-    margin-top: 14%;
+    margin-top: 8%;
+    height: 41px;
   }
   .history .image-30-C61RwL {
-    margin-top: 26%;
+    margin-top: 23%;
   }
   .history .view-more-information-on-order-C61RwL {
     margin-right: 38%;
-    margin-top: 8%;
+    margin-top: -5%;
     margin-bottom: 2%;
   }
   .history .group-27-C61RwL {
-    margin-top: 3%;
+    margin-top: 12%;
     height: 70px;
   }
   .history .overlap-group1-C61RwL {
@@ -1032,24 +1165,52 @@
   }
   .history .image-32-RH0WJ5 {
     margin-right:auto;
-    margin-left: auto;
+    margin-left: 10%;
     margin-top: 9%;
     width: 63%;
+    margin-bottom: 10%;
 
   }
   .history .group-28-RH0WJ5 {
     height: 69px;
     margin-top: 2%;
-    margin-left: 30%;
+    margin-left: 8%;
+  }
+  .history .to-cancel-and-active-order-RH0WJ5 {
+    margin-left: 3%;
   }
   .history .within-the-summ-er-history-view-RH0WJ5 {
-    margin-left: 22%;
+    margin-left: 3%;
+    margin-top: 4%;
   }
   .history .image-31-C61RwL {
-    margin-top: 12%;
+    margin-top: 14%;
   }
   .history .words {
     margin-left: 9%;
+    width: 90%;
+  }
+  .history .flex-col-dXBp89 {
+    width: 90%;
+    margin-left: 0%;
+    margin-right: 5%;
+  }
+  .history .funds-history-0PZcXW {
+    margin-left: 11%;
+  }
+  .history .group-25-0PZcXW {
+    margin-right: -11%;
+    height: 108px;
+    width: 99%;
+  }
+  .history .hover-click-on-ailable-options-9DCiFf {
+    width: calc(97% - 30px);
+  }
+  .history .overlap-group2-0PZcXW {
+    margin-left: 13%;
+  }
+  .history .line-15-C61RwL {
+    margin-top: -21%;
   }
 }
 
@@ -1060,40 +1221,35 @@
 @media (max-width: 600px) {
   .history .grey-back-y1HRxC {
     top: 23px;
-    height: 85%;
-  }
-  .history .swapslogoimage-transparent-y1HRxC {
-    margin-left: 6%;
-    width: 140%;
-    margin-top: -11%;
+    height: 129%;
   }
   .history .swaps-fx-user-guide-y1HRxC {
-    font-size: 15px;
+    font-size: 22.5px;
     top: 48px;
   }
   .history .line-1-y1HRxC  {
-    top: 70px;
+    top: 74px;
   }
   .history .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 20px;
-    line-height: 22px;
-    top: 125px;
+    font-size: 32px;
+    line-height: 31px;
+    top: 109px;
   }
   .history .everything-you-se-our-services-y1HRxC {
     top: 169px;
-    font-size: 12px !important;
-    width: 187px;
-    line-height: 18px;
+    font-size: 18px !important;
+    width: 205px;
+    line-height: 20px;
   }
   .history .history-transactions-y1HRxC {
-    font-size: 17px;
-    margin-top: 0px;
+    font-size: 31.5px;
+    margin-top: 11%;
   }
   .history .line-8-0xy0vn {
-    margin-top: -11px;
+    margin-top: 26%;
   }
   .history .image-27-0xy0vn {
-    top: 50px;
+    top: 32px;
   }
   .history .line-14-0xy0vn {
     margin-top: 12%;
@@ -1101,35 +1257,61 @@
   .history .flex-row-C61RwL {
     flex-direction: column;
   }
-  .headings {
-    font-size: 20px !important;
-  }
   .segoeui-regular-normal-nero-20px {
-    font-size: 10px !important;
+    font-size: 15px !important;
   } 
+  .history .order-history-C61RwL {
+    margin-right: 49%;
+  }
+  .history .image-29-BdpSxK {
+    margin-top: 4%;
+  }
   .history .date-range-CX8jfd {
-    font-size: 10px;
+    font-size: 15px;
   }
   .history .free-text-search-CX8jfd {
-    font-size: 10px;
+    font-size: 15px;
   }
   .history .image-28-dXBp89 {
     margin-top: 10%;
+    width: 70%;
+    margin-left: 11%;
   }
   .history .line-15-C61RwL {
-    margin-top: -23%;
+    margin-top: -31%;
   }
   .history .image-30-C61RwL {
-    margin-top: 30%;
+    margin-top: 32%;
   }
   .history .group-27-C61RwL {
     height: 52px;
+    margin-top: 28%;
   }
   .container-center-horizontal {
     height: 2500px;
   }
   .history .group-28-RH0WJ5 {
     height: 47px;
+  }
+  .oswald-light-nero-30px {
+    font-size: 33px !important;
+  }
+  .history .group-25-0PZcXW {
+    height: 143px;
+  }
+  .history .view-more-information-on-order-C61RwL {
+    margin-right: 0%;
+    right: 7%;
+  }
+  .history .ellipse-66-BKbGut {
+    top: 42px;
+  }
+  .history .click-the-targe-et-more-details-BKbGut {
+    top: 28px;
+  }
+  .history .words,
+  .history .group-26-BdpSxK {
+    width: 80%;
   }
 }
 
@@ -1144,31 +1326,32 @@
   }
   .history .grey-back-y1HRxC {
     top: 23px;
-    height: 104%;
+    height: 147%;
   }
   .history .swaps-fx-user-guide-y1HRxC {
-    font-size: 12px;
+    font-size: 18px;
     top: 48px;
   }
   .history .line-1-y1HRxC {
-    top: 69px;
+    top: 72px;
   }
   .history .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 17px;
-    line-height: 21px;
-    top: 134px;
+    font-size: 25.5px;
+    line-height: 26px;
+    top: 116px;
   }
   .history .everything-you-se-our-services-y1HRxC {
-    top: 177px;
-    font-size: 11px !important;
+    top: 169px;
+    font-size: 16.5px !important;
     width: 153px;
     line-height: 14px;
   }
   .history .history-transactions-y1HRxC {
-    margin-top: 50px;
+    margin-top: 22%;
+    font-size: 23.5px;
   }
   .history .line-8-0xy0vn {
-    margin-top: 40px;
+    margin-top: 39%;
   }
   .history .line-14-0xy0vn {
     margin-top: 16%;
@@ -1186,31 +1369,32 @@
     top: calc(28.44% - 13px);
   }
   .history .ellipse-61-9DCiFf {
-    top: 45px;
+    top: 47px;
   }
   .history .choose-the-wall-cy-tile-to-view-9DCiFf {
     top: 33px;
   }
   .history .overlap-group2-0PZcXW {
-    margin-top: -18%;
+    margin-top: -16%;
   }
   .history .group-24-BxCq5y {
-    top: 29px;
+    top: 21px;
+    left: 3px;
   }
   .history .ellipse-58-CX8jfd {
-    top: 24px;
+    top: 28px;
   }
   .history .free-text-search-CX8jfd {
     top: 18px;
   }
   .history .image-28-dXBp89 {
-    margin-top: 5%;
+    margin-top: -6%;
   }
 .segoeui-regular-normal-nero-20px {
-  font-size: 7px !important;
+  font-size: 8px !important;
 } 
 .history .date-range-CX8jfd {
-  font-size: 7px;
+  font-size: 8px;
 }
 .history .free-text-search-CX8jfd {
   font-size: 7px;
@@ -1238,14 +1422,20 @@
   margin-right: 62%;
 }
 .history .line-15-C61RwL {
-  margin-top: -44%;
+  margin-top: -51%;
 }
 .history .view-more-information-on-order-C61RwL {
   margin-right: 27%;
   font-size: 18px !important;
+  top: 16px;
 }
 .history .group-28-RH0WJ5 {
   margin-top: -3%;
+  margin-left: 0%;
+}
+.history .within-the-summ-er-history-view-RH0WJ5 {
+  margin-left: 3%;
+  margin-top: -1%;
 }
 .container-center-horizontal {
   height: 2000px;
@@ -1258,44 +1448,41 @@
 .history .ellipse-68-PiOlGO {
   top: 20%;
 }
-.history .ellipse-67-BKbGut {
-  top: 67%;
-}
 .history .ellipse-69-PiOlGO {
   top: 65%;
+}
+.oswald-light-nero-30px {
+  font-size: 23px !important;
+}
+.history .group-25-0PZcXW {
+  height: 96px;
+  margin-top: 3%;
+}
+.history .image-30-C61RwL {
+  margin-top: 17%;
+}
+.history .group-27-C61RwL {
+  margin-top: 19%;
 }
 }
 
 
 @media (max-width: 300px) {
   .history .grey-back-y1HRxC {
-    height: 123%;
-  }
-  .history .swapslogoimage-transparent-y1HRxC {
-    margin-top: -7%;
+    height: 144%;
   }
   .history .swaps-fx-user-guide-y1HRxC {
-    font-size: 10px;
+    font-size: 15px;
     top: 42px;
   }
   .history .line-1-y1HRxC  {
-    top: 59px;
-  }
-  .history .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 14px;
-    line-height: 16px;
-  }
-  .history .everything-you-se-our-services-y1HRxC {
-    top: 133px;
-    font-size: 9px !important;
-    width: 159px;
+    top: 63px;
   }
   .history .history-transactions-y1HRxC {
-    font-size: 14px;
-    margin-top: 63px;
+    top: 89%;
   }
   .history .line-8-0xy0vn {
-    margin-top: 52px;
+    margin-top: 79px;
   }
   .history .line-14-0xy0vn {
     margin-top: 20%;
