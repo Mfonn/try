@@ -30,9 +30,9 @@
 .sign-in .everything-you-se-our-services-y1HRxC {
   background-color: transparent;
   height: auto;
-  left: 9%;
+  left: 10%;
   letter-spacing: 0.00px;
-  line-height: 32px;
+  line-height: 53px;
   position: absolute;
   text-align: left;
   top: 253px;
@@ -80,7 +80,7 @@
 }
 .sign-in .grey-back-y1HRxC {
   background-color: rgba(238,238,238,1.0);
-  height: 80%;
+  height: 106%;
   position: absolute;
   top: 53px;
   width: 100%;
@@ -103,11 +103,11 @@
 }
 .sign-in .line-1-y1HRxC {
   background-color: transparent;
-  height: 1px;
+  height: 2px;
   margin-left: 2%;
   object-fit: cover;
   position: absolute;
-  top: 104px;
+  top: 107px;
   width: 95%;
 }
 .sign-in .line-5-0xy0vn {
@@ -117,8 +117,8 @@
   margin-left: 4%;
   object-fit: cover;
   position: relative;
-  top: 42px;
   width: 94%;
+  margin-top: 13%;
 }
 .sign-in .overlap-group-0xy0vn {
   background-color: transparent;
@@ -183,7 +183,7 @@
   background-color: transparent;
   color: var(--nero);
   font-family: 'SegoeUI-Regular', Helvetica;
-  font-size: 25px;
+  font-size: 37.5px;
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -211,11 +211,11 @@
   color: var(--nero);
   flex-shrink: 1;
   font-family: "Segoe UI", Helvetica;
-  font-size: 14px;
+  font-size: 21px;
   height: auto;
   letter-spacing: 0.00px;
-  line-height: 30px;
-  margin-top: 7px;
+  line-height: 36px;
+  margin-top: 13px;
   position: relative;
   text-align: left;
   width: 80%;
@@ -241,7 +241,7 @@
   color: var(--nero);
   flex-shrink: 1;
   font-family: 'SegoeUI-Regular', Helvetica;
-  font-size: 16px;
+  font-size: 24px;
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -249,36 +249,42 @@
   line-height: 22px;
   position: relative;
   text-align: left;
-  width: 80%;
+  width: 67%;
 }
 
 
 
 
 @media (min-width: 2000px) {
+  .sign-in .swapslogoimage-transparent-y1HRxC {
+    margin-top: -22%;
+  }
   .sign-in .swaps-fx-user-guide-y1HRxC {
-    font-size: 31px;
+    font-size: 46.5px;
   }
   .sign-in .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 90px;
-    line-height: 104px;
+    font-size: 150px;
+    line-height: 143px;
     top: 239px;
   }
   .sign-in .everything-you-se-our-services-y1HRxC {
-    top: 433px;
+    top: 540px;
+    width: 612px;
+    font-size: 51px !important;
   }
-  .sign-in .line-5-0xy0vn {
-    top: 54px !important;
+  .sign-in .flex-col-dXBp89 {
+    top: -518px !important;
   }
-  .sign-in .grey-back-y1HRxC {
-    height: 85%;
+  .sign-in .sign-in-y1HRxC {
+    font-size: 125px !important;
   }
   .sign-in .your-privacy-is-in-information-0PZcXW {
-    font-size: 25px !important;
+    font-size: 33px !important;
+    line-height: 39px !important;
   }
   .sign-in .x1-enter-your-em-sign-in-button-0PZcXW {
-    font-size: 23px !important;
-    line-height: 46px;
+    font-size: 29px !important;
+    line-height: 47px !important;
     margin-top: 14px;
   }
 }
@@ -286,13 +292,25 @@
 
 
 @media (max-width: 2000px) {
+  .sign-in .swapslogoimage-transparent-y1HRxC {
+    margin-top: -18%;
+  }
   .sign-in .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 70px;
-    line-height: 78px;
+    font-size: 105px;
+    line-height: 96px;
     top: 190px;
   }
   .sign-in .everything-you-se-our-services-y1HRxC {
-    top: 345px;
+    top: 382px;
+    width: 581px;
+    font-size: 46.5px !important;
+  }
+  .sign-in .sign-in-y1HRxC {
+    top: 135%;
+    font-size: 91.5px;
+  }
+  .sign-in .line-5-0xy0vn {
+    margin-top: 15%;
   }
 }
 
@@ -300,127 +318,141 @@
 
 @media (max-width: 1500px) {
   .sign-in .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 51px;
-    line-height: 60px;
+    font-size: 78px;
+    line-height: 71px;
     top: 190px;
   }
   .sign-in .everything-you-se-our-services-y1HRxC {
-    top: 309px;
-    font-size: 30px !important;
+    top: 338px;
+    font-size: 43px !important;
     width: 500px;
   }
   .sign-in .sign-in-y1HRxC {
-    font-size: 39px;
+    font-size: 68px !important;
+  }
+  .sign-in .line-5-0xy0vn {
+    margin-top: 17%;
   }
 }
 
 
 
 @media (min-width: 1500px) {
-  .sign-in .sign-in-y1HRxC {
-    font-size: 66px !important;
+  .sign-in .grey-back-y1HRxC {
+    height: 104%;
   }
-  .sign-in .line-5-0xy0vn {
-    font-size: 44px;
-    top: 57px;
+  .sign-in .line-1-y1HRxC {
+    top: 110px;
+  }
+  .sign-in .sign-in-y1HRxC {
+    font-size: 82px !important;
+    top: 129%;
   }
   .sign-in .flex-col-dXBp89 {
     top: -442px;
   }
   .sign-in .your-privacy-is-in-information-0PZcXW {
-    font-size: 20px;
+    font-size: 28px;
+    line-height: 31px;
   }
   .sign-in .x1-enter-your-em-sign-in-button-0PZcXW {
-    font-size: 18px;
+    font-size: 26px;
+    line-height: 42px;
   }
 }
 
 
 
 @media (max-width: 1200px) {
-  .sign-in .swapslogoimage-transparent-y1HRxC {
-    margin-left: 17%;
-    width: 123%;
-    margin-top: -16%;
+  .sign-in .grey-back-y1HRxC {
+    height: 91%;
   }
-  .sign-in .swaps-fx-user-guide-y1HRxC {
-    font-size: 20px;
-    top: 57px;
-  }
-  .sign-in .line-1-y1HRxC {
-    top: 85px;
-  }
-  .sign-in .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 44px;
-    line-height: 48px;
-    top: 155px;
-  }
-  .sign-in .everything-you-se-our-services-y1HRxC {
-    top: 253px;
-    font-size: 28px !important;
-    width: 500px;
-    line-height: 32px;
-  }
-  .sign-in .your-privacy-is-in-information-0PZcXW {
-    font-size: 12px;
-  }
-  .sign-in .x1-enter-your-em-sign-in-button-0PZcXW {
-    font-size: 9px;
-  }
-}
-
-
-
-@media (max-width: 900px) {
   .sign-in .swapslogoimage-transparent-y1HRxC {
     margin-left: 6%;
     width: 138%;
     margin-top: -23%;
   }
   .sign-in .swaps-fx-user-guide-y1HRxC {
-    font-size: 20px;
+    font-size: 30px;
     top: 57px;
   }
+  .sign-in .line-1-y1HRxC {
+    top: 85px;
+  }
   .sign-in .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 26px;
-    line-height: 30px;
-    top: 125px;
-    left: 11%;
+    font-size: 62px;
+    line-height: 61px;
+    top: 155px;
   }
   .sign-in .everything-you-se-our-services-y1HRxC {
-    top: 187px;
-    font-size: 16px !important;
-    width: 283px;
-    line-height: 19px;
-    left: 11%;
+    top: 278px;
+    font-size: 42px !important;
+    width: 500px;
+    line-height: 37px;
   }
   .sign-in .sign-in-y1HRxC {
-    font-size: 28px;
+    font-size: 54px !important;
+    top: 119%;
   }
   .sign-in .line-5-0xy0vn {
-    top: 37px;
+    margin-top: 15%;
   }
+  .sign-in .your-privacy-is-in-information-0PZcXW {
+    font-size: 21px;
+  }
+  .sign-in .x1-enter-your-em-sign-in-button-0PZcXW {
+    font-size: 19px;
+  }
+}
+
+
+
+@media (max-width: 900px) {
+  
   .sign-in .grey-back-y1HRxC {
-    height: 75%;
+    height: 125%;
+  }
+  .sign-in .swapslogoimage-transparent-y1HRxC {
+    margin-left: 29%;
+    width: 104%;
+    margin-top: -11%;
+  }
+  .sign-in .swaps-fx-portal-user-guide-y1HRxC {
+    font-size: 41px;
+    line-height: 51px;
+    top: 155px;
+  }
+  .sign-in .everything-you-se-our-services-y1HRxC {
+    top: 256px;
+    font-size: 31px !important;
+    width: 378px;
+    line-height: 34px;
+  }
+  .sign-in .sign-in-y1HRxC {
+    font-size: 39px !important;
+    margin-top: 15%; 
+  }
+  .sign-in .line-5-0xy0vn {
+    margin-top: 29%;
   }
   .sign-in .flex-col-dXBp89 {
     margin-right: 5%;
     margin-left: 16%;
     width: 100%;
-    top: 150px;
+    top: 102px;
   }
   .sign-in .your-privacy-is-in-information-0PZcXW {
-    font-size: 14px;
+    font-size: 20px;
     width: 100%;
   }
   .sign-in .x1-enter-your-em-sign-in-button-0PZcXW {
-    font-size: 13px;
-    line-height: 24px;
+    font-size: 18px;
+    line-height: 30px;
   }
   .sign-in .image-4-dXBp89 {
     margin-left: auto;
     margin-right: auto;
-    margin-top: 276px;
+    margin-top: 228px;
     width: 57%;
   }
 
@@ -429,13 +461,13 @@
 
 
 @media (max-width: 600px) {
-  .sign-in .swapslogoimage-transparent-y1HRxC {
-    margin-left: 6%;
-    width: 140%;
-    margin-top: -11%;
+  
+  .sign-in .grey-back-y1HRxC {
+    top: 23px;
+    height: 129%;
   }
   .sign-in .swaps-fx-user-guide-y1HRxC {
-    font-size: 15px;
+    font-size: 22.5px;
     top: 48px;
   }
   .sign-in .yellow-thin-rectangle-pqRchW,
@@ -443,29 +475,25 @@
     height: 5px;
   }
   .sign-in .line-1-y1HRxC {
-    top: 70px;
+    top: 74px;
   }
   .sign-in .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 20px;
-    line-height: 22px;
-    top: 125px;
+    font-size: 32px;
+    line-height: 31px;
+    top: 109px;
   }
   .sign-in .everything-you-se-our-services-y1HRxC {
     top: 169px;
-    font-size: 12px !important;
-    width: 187px;
-    line-height: 18px;
+    font-size: 18px !important;
+    width: 205px;
+    line-height: 20px;
   }
   .sign-in .sign-in-y1HRxC {
-    font-size: 17px;
-    margin-top: 0px;
+    font-size: 25px;
+    margin-top: 11%;
   }
   .sign-in .line-5-0xy0vn {
-    margin-top: -11px;
-  }
-  .sign-in .grey-back-y1HRxC {
-    top: 23px;
-    height: 85%;
+    margin-top: 26%;
   }
   .sign-in .image-4-dXBp89 {
     margin-top: 139px;
@@ -473,42 +501,53 @@
   .sign-in .flex-col-dXBp89 {
     top: 76px;
   }
+  .sign-in .image-4-dXBp89 {
+    width: 76%;
+  }
 }
 
 
 
 @media(max-width: 400px) {
+  
+  .sign-in .grey-back-y1HRxC {
+    top: 23px;
+    height: 147%;
+  }
   .sign-in .swapslogoimage-transparent-y1HRxC {
     margin-top: -6%;
     width: 1
   }
   .sign-in .swaps-fx-user-guide-y1HRxC {
-    font-size: 12px;
+    font-size: 18px;
     top: 48px;
   }
   .sign-in .line-1-y1HRxC {
-    top: 69px;
+    top: 72px;
   }
   .sign-in .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 17px;
-    line-height: 21px;
-    top: 134px;
+    font-size: 25.5px;
+    line-height: 26px;
+    top: 116px;
   }
   .sign-in .everything-you-se-our-services-y1HRxC {
-    top: 177px;
-    font-size: 11px !important;
+    top: 169px;
+    font-size: 16.9px !important;
     width: 153px;
     line-height: 14px;
   }
   .sign-in .sign-in-y1HRxC {
-    margin-top: 50px;
+    margin-top: 22%;
+    font-size: 23.5 !important;
   }
   .sign-in .line-5-0xy0vn {
-    margin-top: 40px;
+    margin-top: 39%;
   }
-  .sign-in .grey-back-y1HRxC {
-    top: 23px;
-    height: 113%;
+  .sign-in .your-privacy-is-in-information-0PZcXW {
+    font-size: 15px;
+  }
+  .sign-in .x1-enter-your-em-sign-in-button-0PZcXW {
+    font-size: 16px;
   }
 }
 
@@ -516,35 +555,22 @@
 
 
 @media (max-width: 300px) {
-  .sign-in .swapslogoimage-transparent-y1HRxC {
-    margin-top: -7%;
-  }
   
+  .sign-in .grey-back-y1HRxC {
+    height: 144%;
+  }
   .sign-in .swaps-fx-user-guide-y1HRxC {
-    font-size: 10px;
+    font-size: 15px;
     top: 42px;
   }
   .sign-in .line-1-y1HRxC {
-    top: 59px;
-  }
-  .sign-in .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 14px;
-    line-height: 16px;
-  }
-  .sign-in .everything-you-se-our-services-y1HRxC {
-    font-size: 9px !important;
-    width: 159px;
-    top: 133px;
+    top: 63px;
   }
   .sign-in .sign-in-y1HRxC {
-    font-size: 14px;
-    margin-top: 63px;
+    top: 89%;
   }
   .sign-in .line-5-0xy0vn {
-    margin-top: 52px;
-  }
-  .sign-in .grey-back-y1HRxC {
-    height: 123%;
+    margin-top: 79px;
   }
 }
 
