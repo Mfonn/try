@@ -905,6 +905,10 @@
   .userdocumentupload .ellipse-47-TwzCqN {
     top: 131px;
   }
+  .userdocumentupload .click-the-wheel-ilable-settings-TwzCqN,
+  .userdocumentupload .click-the-wheel-ilable-settings-2eLxbt {
+    line-height: 20px;
+  }
 }
 
 
@@ -927,6 +931,6 @@
     margin-top: 79px;
   }
   .container-center-horizontal {
-    height: 700px;
+    height: 1000px;
   }
 }
