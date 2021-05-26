@@ -54,9 +54,9 @@ opacity: 0;
 .sign-up .everything-you-se-our-services-vZhGO4 {
   background-color: transparent;
   height: auto;
-  left: 9%;
+  left: 10%;
   letter-spacing: 0.00px;
-  line-height: 32px;
+  line-height: 53px;
   position: absolute;
   text-align: left;
   top: 253px;
@@ -81,7 +81,7 @@ opacity: 0;
 }
 .sign-up .grey-back-C61RwL {
   background-color: rgba(238,238,238,1.0);
-  height: 80%;
+  height: 106%;
   position: absolute;
   top: 53px;
   width: 100%;
@@ -176,11 +176,11 @@ opacity: 0;
 }
 .sign-up .line-1-C61RwL {
   background-color: transparent;
-  height: 1px;
+  height: 2px;
   margin-left: 2%;
   object-fit: cover;
   position: absolute;
-  top: 104px;
+  top: 107px;
   width: 95%;
 }
 .sign-up .line-2-C61RwL {
@@ -190,8 +190,8 @@ opacity: 0;
   margin-left: 4%;
   object-fit: cover;
   position: relative;
-  top: 42px;
   width: 94%;
+  margin-top: 13%;
 }
 .sign-up .flex-row-xpmbvu {
   align-items: flex-start;
@@ -371,7 +371,7 @@ opacity: 0;
   background-color: transparent;
   color: var(--nero);
   font-family: 'SegoeUI-Regular', Helvetica;
-  font-size: 25px;
+  font-size: 37.5px;
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -458,27 +458,24 @@ to{opacity: 1;}
 
 
 @media (min-width: 2000px) {
-  .sign-up .grey-back-C61RwL {
-    height: 85%;
-  }
   .sign-up .swapslogoimage-transparent-C61RwL {
     margin-top: -22%;
   }
   .sign-up .swaps-fx-user-guide-C61RwL {
-    font-size: 31px;
+    font-size: 46.5px;
   }
   .sign-up .swaps-fx-portal-user-guide-ROslHN {
-    font-size: 90px;
-    line-height: 104px;
+    font-size: 150px;
+    line-height: 143px;
     top: 239px;
   }
   .sign-up .everything-you-se-our-services-vZhGO4 {
-    top: 441px;
-    width: 538px;
-    font-size: 34px !important;
+    top: 540px;
+    width: 612px;
+    font-size: 51px !important;
   }
-  .sign-up .line-2-C61RwL {
-    top: 54px !important;
+  .sign-up .getting-started-C61RwL {
+    font-size: 125px !important;
   }
   .sign-up .image-1-C61RwL {
     top: -20% !important;
@@ -523,21 +520,25 @@ to{opacity: 1;}
 
 
 @media (max-width: 2000px) {
-  .sign-up .grey-back-C61RwL {
-    height: 83%;
-  }
   .sign-up .swapslogoimage-transparent-C61RwL {
     margin-top: -18%;
   }
   .sign-up .swaps-fx-portal-user-guide-ROslHN {
-    font-size: 70px;
-    line-height: 78px;
+    font-size: 105px;
+    line-height: 96px;
     top: 190px;
   }
   .sign-up .everything-you-se-our-services-vZhGO4 {
-    top: 345px;
+    top: 382px;
     width: 581px;
-    font-size: 31px !important;
+    font-size: 46.5px !important;
+  }
+  .sign-up .getting-started-C61RwL {
+    top: 135%;
+    font-size: 91.5px;
+  }
+  .sign-up .line-2-C61RwL {
+    margin-top: 15%;
   }
   .sign-up .line-3-C61RwL {
     height: 57%;
@@ -552,11 +553,15 @@ to{opacity: 1;}
 
 
 @media (min-width: 1500px) {
-  .sign-up .getting-started-C61RwL {
-    font-size: 66px !important;
+  .sign-up .grey-back-C61RwL {
+    height: 104%;
   }
-  .sign-up .line-2-C61RwL {
-    top: 44px;
+  .sign-up .line-1-C61RwL {
+    top: 110px;
+  }
+  .sign-up .getting-started-C61RwL {
+    font-size: 82px !important;
+    top: 129%;
   }
   
   .sign-up .image-1-C61RwL {
@@ -605,17 +610,21 @@ to{opacity: 1;}
 
 @media (max-width: 1500px) {
   .sign-up .swaps-fx-portal-user-guide-ROslHN {
-    font-size: 51px;
-    line-height: 60px;
+    font-size: 78px;
+    line-height: 71px;
     top: 190px;
   }
   .sign-up .everything-you-se-our-services-vZhGO4 {
-    top: 309px;
-    font-size: 30px !important;
+    top: 338px;
+    font-size: 43px !important;
     width: 500px;
   }
   .sign-up .getting-started-C61RwL {
-    font-size: 39px;
+    font-size: 68px !important;
+  }
+  
+  .sign-up .line-2-C61RwL {
+    margin-top: 17%;
   }
   .sign-up .group-30-C61RwL {
     margin-left: 5%;
@@ -634,28 +643,39 @@ to{opacity: 1;}
 
 
 @media (max-width: 1200px) {
+  .sign-up .grey-back-C61RwL {
+    height: 91%;
+  }
   .sign-up .swapslogoimage-transparent-C61RwL {
-    margin-left: 17%;
-    width: 123%;
-    margin-top: -16%;
+    margin-left: 6%;
+    width: 138%;
+    margin-top: -23%;
   }
   .sign-up .swaps-fx-user-guide-C61RwL {
-    font-size: 20px;
+    font-size: 30px;
     top: 57px;
   }
   .sign-up .line-1-C61RwL {
     top: 85px;
   }
   .sign-up .swaps-fx-portal-user-guide-ROslHN {
-    font-size: 44px;
-    line-height: 48px;
+    font-size: 62px;
+    line-height: 61px;
     top: 155px;
   }
   .sign-up .everything-you-se-our-services-vZhGO4 {
-    top: 253px;
-    font-size: 28px !important;
+    top: 278px;
+    font-size: 42px !important;
     width: 500px;
-    line-height: 32px;
+    line-height: 37px;
+  }
+  .sign-up .getting-started-C61RwL {
+    font-size: 54px !important;
+    top: 119%;
+  }
+  
+  .sign-up .line-2-C61RwL {
+    margin-top: 15%;
   }
   .sign-up .image-1-C61RwL {
     top: -265px;
@@ -728,35 +748,30 @@ to{opacity: 1;}
 
 @media (max-width: 900px) {
   .sign-up .grey-back-C61RwL {
-    height: 75%;
+    height: 125%;
   }
   .sign-up .swapslogoimage-transparent-C61RwL {
-    margin-left: 6%;
-    width: 138%;
-    margin-top: -23%;
-  }
-  .sign-up .swaps-fx-user-guide-C61RwL {
-    font-size: 20px;
-    top: 57px;
+    margin-left: 29%;
+    width: 104%;
+    margin-top: -11%;
   }
   .sign-up .swaps-fx-portal-user-guide-ROslHN {
-    font-size: 26px;
-    line-height: 30px;
-    top: 125px;
-    left: 11%;
+    font-size: 41px;
+    line-height: 51px;
+    top: 155px;
   }
   .sign-up .everything-you-se-our-services-vZhGO4 {
-    top: 187px;
-    font-size: 16px !important;
-    width: 283px;
-    line-height: 19px;
-    left: 11%;
+    top: 256px;
+    font-size: 31px !important;
+    width: 378px;
+    line-height: 34px;
   }
   .sign-up .getting-started-C61RwL {
-    font-size: 28px;
+    font-size: 39px !important;
+    margin-top: 15%;
   }
   .sign-up .line-2-C61RwL {
-    top: 37px;
+    margin-top: 29%;
   }
   .sign-up .image-1-C61RwL {
     width: 70%;
@@ -859,37 +874,32 @@ to{opacity: 1;}
   }
   .sign-up .grey-back-C61RwL {
     top: 23px;
-    height: 85%;
-  }
-  .sign-up .swapslogoimage-transparent-C61RwL {
-    margin-left: 6%;
-    width: 140%;
-    margin-top: -11%;
+    height: 129%;
   }
   .sign-up .swaps-fx-user-guide-C61RwL {
-    font-size: 15px;
+    font-size: 22.5px;
     top: 48px;
   }
   .sign-up .line-1-C61RwL {
-    top: 70px;
+    top: 74px;
   }
   .sign-up .swaps-fx-portal-user-guide-ROslHN {
-    font-size: 20px;
-    line-height: 22px;
-    top: 125px;
+    font-size: 32px;
+    line-height: 31px;
+    top: 109px;
   }
   .sign-up .everything-you-se-our-services-vZhGO4 {
     top: 169px;
-    font-size: 12px !important;
-    width: 187px;
-    line-height: 18px;
+    font-size: 18px !important;
+    width: 205px;
+    line-height: 20px;
   }
   .sign-up .getting-started-C61RwL {
-    font-size: 17px;
-    margin-top: 0px;
+    font-size: 25px;
+    margin-top: 11%;
   }
   .sign-up .line-2-C61RwL {
-    margin-top: -11px;
+    margin-top: 26%;
   }
   .sign-up .sign-up-xxkKyh {
     font-size: 23px;
@@ -970,35 +980,36 @@ to{opacity: 1;}
 @media (max-width: 400px) {
   .sign-up .grey-back-C61RwL {
     top: 23px;
-    height: 103%;
+    height: 147%;
   }
   .sign-up .swapslogoimage-transparent-C61RwL {
     margin-top: -6%;
     width: 1;
   }
   .sign-up .swaps-fx-user-guide-C61RwL {
-    font-size: 12px;
+    font-size: 18px;
     top: 48px;
   }
   .sign-up .line-1-C61RwL {
-    top: 69px;
+    top: 72px;
   }
   .sign-up .swaps-fx-portal-user-guide-ROslHN {
-    font-size: 17px;
-    line-height: 21px;
-    top: 134px;
+    font-size: 25.5px;
+    line-height: 26px;
+    top: 116px;
   }
   .sign-up .everything-you-se-our-services-vZhGO4 {
-    top: 177px;
-    font-size: 11px !important;
+    top: 169px;
+    font-size: 16.9px !important;
     width: 153px;
     line-height: 14px;
   }
   .sign-up .getting-started-C61RwL {
-    margin-top: 50px;
+    margin-top: 22%;
+    font-size: 23.5px !important;
   }
   .sign-up .line-2-C61RwL {
-    margin-top: 40px;
+    margin-top: 39%;
   }
   .sign-up .sign-up-xxkKyh {
     font-size: 16px;
@@ -1073,34 +1084,20 @@ to{opacity: 1;}
 
 @media (max-width: 300px) {
   .sign-up .grey-back-C61RwL {
-    height: 123%;
-  }
-  .sign-up .swapslogoimage-transparent-C61RwL {
-    margin-top: -7%;
+    height: 144%;
   }
   .sign-up .swaps-fx-user-guide-C61RwL {
-    font-size: 10px;
+    font-size: 15px;
     top: 42px;
   }
   .sign-up .line-1-C61RwL {
-    top: 59px;
-  }
-  .sign-up .swaps-fx-portal-user-guide-ROslHN {
-    top: 133px;
-    font-size: 9px !important;
-    width: 159px;
-  }
-  .sign-up .everything-you-se-our-services-vZhGO4 {
-    top: 133px;
-    font-size: 9px !important;
-    width: 159px;
+    top: 63px;
   }
   .sign-up .getting-started-C61RwL {
-    font-size: 14px;
-    margin-top: 63px;
+    top: 89%;
   }
   .sign-up .line-2-C61RwL {
-    margin-top: 52px;
+    margin-top: 79px;
   }
   .sign-up .line-3-C61RwL {
     top: -205%;
