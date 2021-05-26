@@ -96,7 +96,7 @@
   background-color: transparent;
   bottom: 0px;
   height: 84px;
-  left: 51px;
+  left: 10px;
   position: absolute;
   width: 197px;
 }
@@ -245,7 +245,7 @@
 .myaccount .you-can-manage-s-from-one-page-zUixHA {
   background-color: transparent;
   height: 29px;
-  left: 23px;
+  left: 1px;
   letter-spacing: 0.00px;
   line-height: 30px;
   position: absolute;
@@ -274,14 +274,23 @@
     width: 612px;
     font-size: 51px !important;
   }
+  .segoeui-regular-normal-nero-20px {
+    font-size: 45px !important;
+}
   .myaccount .my-account-management-4eduM0 {
     font-size: 125px !important;
+  }
+  .myaccount .group-8-zUixHA {
+    top: 266px !important;
   }
   .container-center-horizontal {
     height: 3200px !important;
   }
+  .myaccount .you-can-manage-s-from-one-page-zUixHA {
+    top: 166px !important;
+  }
   .myaccount .one-stop-view-o-nts-by-currency-zUixHA {
-    font-size: 61px !important;
+    font-size: 71px !important;
   }
 
 }
@@ -326,31 +335,30 @@
     top: 129%;
   }
   .myaccount .one-stop-view-o-nts-by-currency-zUixHA {
-    font-size: 49px;
+    font-size: 58px;
     top: 60px;
   }
   .myaccount .you-can-manage-s-from-one-page-zUixHA {
-    top: 136px;
-    font-size: 30px;
+    top: 154px;
   }
   .myaccount .group-8-zUixHA {
     font-size: 25px;
     top: 220px;
   }
   .myaccount .you-can-manage-s-from-one-page-zUixHA {
-    top: 193px;
+    top: 157px;
     font-size: 39px;
   }
   .myaccount .group-8-zUixHA {
     font-size: 39px;
-    top: 279px;
+    top: 237px;
     height: 123px;
   }
   .container-center-horizontal {
     height: 2500px;
   }
   .segoeui-regular-normal-nero-20px {
-    font-size: 32px !important;
+    font-size: 39px !important;
   }
 }
 
@@ -415,7 +423,7 @@
   }
   .myaccount .group-8-zUixHA {
     height: 73px;
-    left: 38px;
+    left: 10px;
     top: 117px;
   }
   .myaccount .you-can-manage-s-from-one-page-zUixHA {
@@ -509,19 +517,20 @@
     margin-top: 26%;
   }
   .myaccount .one-stop-view-o-nts-by-currency-zUixHA {
-    font-size: 19px;
+    font-size: 22px;
     top: -31px;
 }
   .myaccount .you-can-manage-s-from-one-page-zUixHA {
-    top: 4px;
-    left: 10px;
+    top: 7px;
+    left: -1px;
   }
   .myaccount .group-8-zUixHA {
-    top: 39px;
+    top: 43px;
     height: 54px;
+    left: 2px;
   }
   .segoeui-regular-normal-nero-20px {
-    font-size: 15px !important;
+    font-size: 14px !important;
 }
 
   .myaccount .image-12-C61RwL {
@@ -576,11 +585,11 @@
     font-size: 16px;
   }
   .myaccount .you-can-manage-s-from-one-page-zUixHA {
-    font-size: 11px;
+    top: -3px;
   }
   .myaccount .group-8-zUixHA {
-    font-size: 10px !important;
     height: 49px;
+    top: 23px;
   }
   .segoeui-regular-normal-nero-20px {
     font-size: 12px !important;
