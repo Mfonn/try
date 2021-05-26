@@ -59,7 +59,7 @@
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: calc(26.89% - 8px);
+  top: calc(35.89% - 8px);
   white-space: nowrap;
   width: 435px;
 }
@@ -84,7 +84,6 @@
   position: absolute;
   text-align: left;
   top: -5px;
-  white-space: nowrap;
   width: calc(100.00% - 14px);
 }
 .userdocumentupload .ellipse-44-2eLxbt {
@@ -120,7 +119,7 @@
   height: 6px;
   left: 0px;
   position: absolute;
-  top: calc(32.39% - 2px);
+  top: calc(39.39% - 2px);
   width: 6px;
 }
 .userdocumentupload .ellipse-46-2eLxbt {
@@ -140,6 +139,7 @@
   left: 0px;
   position: absolute;
   width: 6px;
+  top: 159px;
 }
 .userdocumentupload .ellipse-47-2eLxbt {
   background-color: var(--nero);
@@ -162,9 +162,9 @@
 .userdocumentupload .everything-you-se-our-services-y1HRxC {
   background-color: transparent;
   height: auto;
-  left: 9%;
+  left: 10%;
   letter-spacing: 0.00px;
-  line-height: 32px;
+  line-height: 53px;
   position: absolute;
   text-align: left;
   top: 253px;
@@ -195,7 +195,7 @@
   justify-content: flex-start;
   margin-left: -2%;
   margin-right: auto;
-  margin-top: 19%;
+  margin-top: 16%;
   position: relative;
   width: 38%;
 }
@@ -240,7 +240,7 @@
 }
 .userdocumentupload .grey-back-y1HRxC {
   background-color: rgba(238,238,238,1.0);
-  height: 80%;
+  height: 106%;
   position: absolute;
   top: 53px;
   width: 100%;
@@ -249,20 +249,21 @@
   align-self: flex-end;
   background-color: transparent;
   flex-shrink: 1;
-  height: 150px;
-  margin-top: 26px;
+  height: 259px;
+  margin-top: 38px;
   position: relative;
   width: 100%;
-  font-size: 13px;
+  font-size: 23px;
 }
 .userdocumentupload .group-23-C61RwL {
   background-color: transparent;
   flex-shrink: 1;
-  height: 148px;
+  height: 182px;
   margin-left: 0%;
-  margin-top: 2%;
+  margin-top: 5%;
   position: relative;
   width: 80%;
+  font-size: 24px;
 }
 .userdocumentupload .image-26-0PZcXW {
   align-items: flex-start;
@@ -281,11 +282,11 @@
 }
 .userdocumentupload .line-1-y1HRxC {
   background-color: transparent;
-  height: 1px;
+  height: 2px;
   margin-left: 2%;
   object-fit: cover;
   position: absolute;
-  top: 104px;
+  top: 107px;
   width: 95%;
 }
 .userdocumentupload .line-8-0xy0vn {
@@ -295,8 +296,8 @@
   margin-left: 4%;
   object-fit: cover;
   position: relative;
-  top: 42px;
   width: 94%;
+  margin-top: 13%;
 }
 .userdocumentupload .overlap-group-0xy0vn {
   background-color: transparent;
@@ -310,7 +311,7 @@
   color: var(--nero);
   flex-shrink: 1;
   font-family: 'Oswald', Helvetica;
-  font-size: 30px;
+  font-size: 44px;
   font-style: normal;
   font-weight: bold;
   height: auto;
@@ -333,6 +334,7 @@
   text-align: left;
   white-space: nowrap;
   width: calc(100.00% - 266px);
+  top: 145px;
 }
 .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
   background-color: transparent;
@@ -356,7 +358,7 @@
   background-color: transparent;
   color: var(--nero);
   font-family: 'SegoeUI-Regular', Helvetica;
-  font-size: 25px;
+  font-size: 37.5px;
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -405,7 +407,7 @@
   color: var(--nero);
   flex-shrink: 1;
   font-family: 'Oswald', Helvetica;
-  font-size: 30px;
+  font-size: 44px;
   font-style: normal;
   font-weight: bold;
   height: auto;
@@ -452,59 +454,77 @@
 
 
 @media (min-width: 2000px) {
-  .userdocumentupload .grey-back-y1HRxC {
-    height: 85%;
-  }
   .userdocumentupload .swaps-fx-user-guide-y1HRxC {
-    font-size: 31px;
+    font-size: 46.5px;
   }
   .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 90px;
-    line-height: 104px;
+    font-size: 150px;
+    line-height: 143px;
     top: 239px;
   }
   .userdocumentupload .everything-you-se-our-services-y1HRxC {
-    top: 441px;
-    width: 538px;
-    font-size: 34px !important;
+    top: 540px;
+    width: 612px;
+    font-size: 51px !important;
   }
-  .userdocumentupload .line-8-0xy0vn {
-    top: 54px !important;
+  .userdocumentupload .user-documents-y1HRxC {
+    font-size: 125px !important;
   }
   .userdocumentupload .swapslogoimage-transparent-y1HRxC {
     margin-top: -22%;
   }
   .userdocumentupload .upload-required-documents-y0eQTV,
   .userdocumentupload .remove-update-documents-0PZcXW {
-    font-size: 38px !important;
+    font-size: 68px !important;
+  }
+  .userdocumentupload .group-19-y0eQTV {
+    height: 291px !important;
+    margin-top: 82px;
+  }
+  .userdocumentupload .select-the-document-type-TwzCqN {
+    top: 176px;
+  }
+  .userdocumentupload .ellipse-46-TwzCqN {
+    top: 192px;
   }
   .userdocumentupload .group-19-y0eQTV,
   .userdocumentupload .group-23-C61RwL {
-    font-size: 19px !important;
-    height: 164px;
+    font-size: 38px !important;
+  }
+  .userdocumentupload .group-23-C61RwL {
+    height: 258px !important;
   }
   .container-center-horizontal {
     height: 3000px;
+  }
+  .userdocumentupload .click-the-wheel-ilable-settings-TwzCqN,
+  .userdocumentupload .upload-or-drag-nd-save-changes-TwzCqN {
+    line-height: 39px;
   }
 }
 
 
 @media (max-width: 2000px) {
   .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 70px;
-    line-height: 78px;
+    font-size: 105px;
+    line-height: 96px;
     top: 190px;
   }
   .userdocumentupload .everything-you-se-our-services-y1HRxC {
-    top: 345px;
+    top: 382px;
     width: 581px;
-    font-size: 31px !important;
+    font-size: 46.5px !important;
   }
-  .userdocumentupload .grey-back-y1HRxC  {
-    height: 83%;
+  .userdocumentupload .user-documents-y1HRxC {
+    top: 135%;
+    font-size: 91.5px;
   }
   .userdocumentupload .swapslogoimage-transparent-y1HRxC {
     margin-top: -18%;
+  }
+  
+  .userdocumentupload .line-8-0xy0vn {
+    margin-top: 15%;
   }
   .container-center-horizontal {
     height: 2500px;
@@ -513,116 +533,151 @@
 
 
 @media (min-width: 1500px) {
-  .userdocumentupload .line-8-0xy0vn {
-    top: 57px;
-    font-size: 44px;
+  .userdocumentupload .grey-back-y1HRxC {
+    height: 104%;
+  }
+  .userdocumentupload .line-1-y1HRxC {
+    top: 110px;
   }
   .userdocumentupload .user-documents-y1HRxC {
-    font-size: 66px !important;
+    font-size: 82px !important;
+    top: 129%;
   }
   .userdocumentupload .upload-required-documents-y0eQTV,
   .userdocumentupload .remove-update-documents-0PZcXW
    {
-    font-size: 35px;
+    font-size: 50px;
   }
   .userdocumentupload .group-19-y0eQTV,
   .userdocumentupload .group-23-C61RwL {
-    font-size: 16px;
+    font-size: 27px;
+  }
+  .userdocumentupload .group-23-C61RwL {
+    height: 199px;
   }
 }
 
 
 @media (max-width: 1500px) {
   .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 51px;
-    line-height: 60px;
+    font-size: 78px;
+    line-height: 71px;
     top: 190px;
   }
   .userdocumentupload .everything-you-se-our-services-y1HRxC {
-    top: 309px;
-    font-size: 30px !important;
+    top: 338px;
+    font-size: 43px !important;
     width: 500px;
   }
   .userdocumentupload .user-documents-y1HRxC {
-    font-size: 39px;
+    font-size: 68px !important;
   }
+  
+  .userdocumentupload .line-8-0xy0vn {
+    margin-top: 17%;
+  } 
   .container-center-horizontal {
-    height: 1700px;
+    height: 2000px;
   }
 }
 
 
 
 @media (max-width: 1200px) {
+  .userdocumentupload .grey-back-y1HRxC {
+    height: 91%;
+  }
   .userdocumentupload .swapslogoimage-transparent-y1HRxC {
-    margin-left: 17%;
-    width: 123%;
-    margin-top: -16%;
+    margin-left: 6%;
+    width: 138%;
+    margin-top: -23%;
   }
   .userdocumentupload .swaps-fx-user-guide-y1HRxC {
-    font-size: 20px;
+    font-size: 30px;
     top: 57px;
   }
   .userdocumentupload .line-1-y1HRxC {
     top: 85px;
   }
   .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 44px;
-    line-height: 48px;
+    font-size: 62px;
+    line-height: 61px;
     top: 155px;
   }
   .userdocumentupload .everything-you-se-our-services-y1HRxC {
-    top: 253px;
-    font-size: 24px !important;
-    width: 384px;
-    line-height: 32px;
+    top: 278px;
+    font-size: 42px !important;
+    width: 500px;
+    line-height: 37px;
+  }
+  .userdocumentupload .user-documents-y1HRxC {
+    font-size: 54px !important;
+    top: 119%;
+  }
+  .userdocumentupload .line-8-0xy0vn {
+    margin-top: 15%;
   }
   .userdocumentupload .group-19-y0eQTV,
   .userdocumentupload .group-23-C61RwL {
-    height: 108px;
-    font-size: 9px;
+    height: 175px;
+    font-size: 17px;
   }
   .userdocumentupload .upload-required-documents-y0eQTV,
   .userdocumentupload .remove-update-documents-0PZcXW {
-    font-size: 29px;
+    font-size: 36px;
   }
   .container-center-horizontal {
-    height: 1400px;
+    height: 1700px;
   }
+  .userdocumentupload .ellipse-45-TwzCqN {
+    top: calc(63.39% - 2px);
+  }
+  .userdocumentupload .click-on-docume-to-open-section-TwzCqN {
+    top: calc(58.89% - 8px);
+  }
+  .userdocumentupload .ellipse-46-TwzCqN {
+    top: 146px;
+  }
+  .userdocumentupload .select-the-document-type-TwzCqN {
+    top: 131px;
+  }
+  .userdocumentupload .ellipse-47-TwzCqN {
+    top: 189px;
+  }
+  .userdocumentupload .upload-or-drag-nd-save-changes-TwzCqN {
+    top: 174px;
+    width: 90%;
+  }
+
 }
 
 
 @media(max-width: 900px) {
   .userdocumentupload .grey-back-y1HRxC {
-    height: 75%;
+    height: 125%;
   }
   .userdocumentupload .swapslogoimage-transparent-y1HRxC {
-    margin-left: 6%;
-    width: 138%;
-    margin-top:-12%;
-  }
-  .userdocumentupload .swaps-fx-user-guide-y1HRxC {
-    font-size: 20px;
-    top: 57px;
+    margin-left: 29%;
+    width: 104%;
+    margin-top:-11%;
   }
   .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 26px;
-    line-height: 30px;
-    top: 125px;
-    left: 11%;
+    font-size: 41px;
+    line-height: 51px;
+    top: 155px;
   }
   .userdocumentupload .everything-you-se-our-services-y1HRxC {
-    top: 187px;
-    font-size: 16px !important;
-    width: 247px;
-    line-height: 19px;
-    left: 11%;
+    top: 256px;
+    font-size: 31px !important;
+    width: 378px;
+    line-height: 34px;
   }
   .userdocumentupload .user-documents-y1HRxC  {
-    font-size: 28px;
+    font-size: 39px !important;
+    margin-top: 15%;
   }
   .userdocumentupload .line-8-0xy0vn  {
-    top: 37px;
+    margin-top: 29%;
   }
   .userdocumentupload .flex-row-C61RwL {
     flex-direction: column;
@@ -630,13 +685,7 @@
  
   .userdocumentupload .upload-required-documents-y0eQTV,
   .userdocumentupload .remove-update-documents-0PZcXW {
-    font-size: 36px;
-  }
-  .userdocumentupload .group-19-y0eQTV,
-  .userdocumentupload .group-23-C61RwL {
-    font-size: 13px;
-    margin-right: auto;
-    width: auto;
+    font-size: 45px;
   }
   .userdocumentupload .flex-col-dXBp89 {
     flex-direction: column;
@@ -651,18 +700,41 @@
     margin-top: 11%;
     width: 70%;
   }
+  .userdocumentupload .group-19-y0eQTV {
+    height: 161px;
+  }
   .userdocumentupload .group-19-y0eQTV,
   .userdocumentupload .group-23-C61RwL {
-    height: 138px;
-    font-size: 11px;
+    font-size: 21px;
     margin-left: 1%;
+    margin-right: auto;
+    width: 90%;
   }
   .container-center-horizontal {
-    height: 1700px;
+    height: 2000px;
   }
   .userdocumentupload .words {
     margin-left: 20%;
-    margin-top: 10%;
+    margin-top: 19%;
+  }
+  .userdocumentupload .click-the-wheel-ilable-settings-2eLxbt {
+    white-space: normal;
+  }
+  .userdocumentupload .click-on-docume-to-open-section-2eLxbt {
+    top: calc(37.89% - 8px);
+  }
+  .userdocumentupload .ellipse-47-2eLxbt {
+    top: 214px;
+  }
+  .userdocumentupload .upload-or-drag-nd-save-changes-2eLxbt {
+    top: 199px;
+  }
+  .userdocumentupload .ellipse-45-2eLxbt {
+    top: calc(40.39% - 2px);
+  }
+  .userdocumentupload .group-23-C61RwL {
+    height: 292px;
+    margin-top: 8%;
   }
 }
 
@@ -670,54 +742,87 @@
 @media (max-width: 600px) {
   .userdocumentupload .grey-back-y1HRxC {
     top: 23px;
-    height: 85%;
-  }
-  .userdocumentupload .swapslogoimage-transparent-y1HRxC {
-    margin-left: 6%;
-    width: 140%;
-    margin-top: -11%;
+    height: 129%;
   }
   .userdocumentupload .swaps-fx-user-guide-y1HRxC {
-    font-size: 15px;
+    font-size: 22.5px;
     top: 48px;
   }
   .userdocumentupload .line-1-y1HRxC {
-    top: 70px;
+    top: 74px;
   }
   .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 20px;
-    line-height: 22px;
-    top: 125px;
+    font-size: 32px;
+    line-height: 31px;
+    top: 109px;
   }
   .userdocumentupload .everything-you-se-our-services-y1HRxC {
     top: 169px;
-    font-size: 12px !important;
-    width: 187px;
-    line-height: 18px;
+    font-size: 18px !important;
+    width: 205px;
+    line-height: 20px;
   }
   .userdocumentupload .user-documents-y1HRxC {
-    font-size: 17px;
-    margin-top: 0px;
+    font-size: 25px;
+    margin-top: 11%;
   }
   .userdocumentupload .line-8-0xy0vn {
-    margin-top: -11px;
+    margin-top: 26%;
   }
   .userdocumentupload .upload-required-documents-y0eQTV,
   .userdocumentupload .remove-update-documents-0PZcXW {
-    font-size: 20px;
+    font-size: 26px;
   }
   .userdocumentupload .group-19-y0eQTV,
   .userdocumentupload .group-23-C61RwL {
-    font-size: 9px;
+    font-size: 13px;
     height: 100px;
-    font-size: 7px;
-    margin-top: 2%;
+    margin-top: 6%;
   }
   .userdocumentupload .image-26-0PZcXW {
     margin-top: 16%;
   }
   .container-center-horizontal {
-    height: 1200px;
+    height: 1500px;
+  }
+  .userdocumentupload .ellipse-45-TwzCqN {
+    top: calc(95.39% - 2px);
+  }
+  .userdocumentupload .click-on-docume-to-open-section-TwzCqN {
+    top: calc(87.89% - 8px);
+  }
+  .userdocumentupload .ellipse-46-TwzCqN {
+    top: 125px;
+  }
+  .userdocumentupload .select-the-document-type-TwzCqN {
+    top: 112px;
+  }
+  .userdocumentupload .upload-or-drag-nd-save-changes-TwzCqN {
+    top: 143px;
+  }
+  .userdocumentupload .ellipse-47-TwzCqN {
+    top: 159px;
+  }
+  .userdocumentupload .words {
+    margin-top: 37%;
+  }
+  .userdocumentupload .ellipse-45-2eLxbt {
+    top: calc(84.39% - 2px);
+  }
+  .userdocumentupload .click-on-docume-to-open-section-2eLxbt {
+    top: calc(75.89% - 8px);
+  }
+  .userdocumentupload .ellipse-46-2eLxbt {
+    top: 111px;
+  }
+  .userdocumentupload .click-delete-ic-ve-the-document-2eLxbt {
+    top: 97px;
+  }
+  .userdocumentupload .ellipse-47-2eLxbt {
+    top: 145px;
+  }
+  .userdocumentupload .upload-or-drag-nd-save-changes-2eLxbt {
+    top: 132px;
   }
 }
 
@@ -726,51 +831,79 @@
 @media (max-width: 400px) {
   .userdocumentupload .grey-back-y1HRxC  {
     top: 23px;
-    height: 104%;
+    height: 147%;
   }
   .userdocumentupload .swapslogoimage-transparent-y1HRxC {
     margin-top: -6%;
     width: 1;
   }
   .userdocumentupload .swaps-fx-user-guide-y1HRxC {
-    font-size: 12px;
+    font-size: 18px;
     top: 48px;
   }
   .userdocumentupload .line-1-y1HRxC {
-    top: 69px;
+    top: 72px;
   }
   .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 17px;
-    line-height: 21px;
-    top: 134px;
+    font-size: 25.5px;
+    line-height: 26px;
+    top: 116px;
   }
   .userdocumentupload .everything-you-se-our-services-y1HRxC {
-    top: 177px;
-    font-size: 11px !important;
+    top: 169px;
+    font-size: 16.5px !important;
     width: 153px;
     line-height: 14px;
   }
   .userdocumentupload .user-documents-y1HRxC {
-    margin-top: 50px;
+    margin-top: 22%;
+    font-size: 23.5px !important;
   }
   .userdocumentupload .line-8-0xy0vn {
-    margin-top: 40px;
+    margin-top: 39%;
   }
   .userdocumentupload .upload-required-documents-y0eQTV,
   .userdocumentupload .remove-update-documents-0PZcXW {
-    font-size: 18px;
+    font-size: 19px;
   }
   .userdocumentupload .group-19-y0eQTV,
   .userdocumentupload .group-23-C61RwL {
-    font-size: 5px;
-    height: 83px;
-    margin-top: 5px;
+    font-size: 9px;
+    height: 73px;
+    margin-top: 12px;
   }
   .userdocumentupload .image-26-0PZcXW {
     margin-top: 20%;
   }
   .container-center-horizontal {
-    height: 900px;
+    height: 1200px;
+  }
+  .userdocumentupload .words {
+    margin-top: 44%;
+  }
+  .userdocumentupload .ellipse-46-2eLxbt {
+    top: 88px;
+  }
+  .userdocumentupload .click-delete-ic-ve-the-document-2eLxbt {
+    top: 75px;
+  }
+  .userdocumentupload .ellipse-47-2eLxbt {
+    top: 116px;
+  }
+  .userdocumentupload .upload-or-drag-nd-save-changes-2eLxbt {
+    top: 103px;
+  }
+  .userdocumentupload .ellipse-46-TwzCqN {
+    top: 100px;
+  }
+  .userdocumentupload .select-the-document-type-TwzCqN {
+    top: 87px;
+  }
+  .userdocumentupload .upload-or-drag-nd-save-changes-TwzCqN {
+    top: 117px;
+  }
+  .userdocumentupload .ellipse-47-TwzCqN {
+    top: 131px;
   }
 }
 
@@ -778,33 +911,20 @@
 
 @media (max-width: 300px) {
   .userdocumentupload .grey-back-y1HRxC {
-    height: 123%;
-  }
-  .userdocumentupload .swapslogoimage-transparent-y1HRxC {
-    margin-top: -7%;
+    height: 144%;
   }
   .userdocumentupload .swaps-fx-user-guide-y1HRxC {
-    font-size: 10px;
+    font-size: 15px;
     top: 42px;
   }
   .userdocumentupload .line-1-y1HRxC {
-    top: 59px;
-  }
-  .userdocumentupload .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 14px;
-    line-height: 16px;
-  }
-  .userdocumentupload .everything-you-se-our-services-y1HRxC {
-    top: 133px;
-    font-size: 9px !important;
-    width: 159px;
+    top: 63px;
   }
   .userdocumentupload .user-documents-y1HRxC {
-    font-size: 14px;
-    margin-top: 63px;
+    top: 89%;
   }
   .userdocumentupload .line-8-0xy0vn {
-    margin-top: 52px;
+    margin-top: 79px;
   }
   .container-center-horizontal {
     height: 700px;
