@@ -285,7 +285,7 @@
   justify-content: flex-start;
   margin-left: -2%;
   margin-right: auto;
-  margin-top: 15%;
+  margin-top: 11%;
   position: relative;
   width: 38%;
 }
@@ -911,6 +911,9 @@
   .quicktrade .group-6-wbR61n {
     height: 428px;
   }
+  .quicktrade .group-2-GyJUNH {
+    margin-top: 14%;
+  }
 }
 
 
@@ -987,10 +990,13 @@
     top: 0px;
   }
   .quicktrade .image-9-QkTteQ {
-    margin-top: 46%;
+    margin-top: 37%;
     margin-left: 14%;
     width: 70%;
     position: relative;
+  }
+  .quicktrade .line-10-0xy0vn {
+    margin-top: 18%;
   }
   .quicktrade .group-4-QkTteQ {
     width: 90%;
@@ -1061,6 +1067,15 @@
   .quicktrade .active-swap-request-JVMFxg {
     left: 9px;
   }
+  .quicktrade .group-6-wbR61n {
+    width: 90%;
+  }
+  .quicktrade .cancel-a-swap-order-5ODmit {
+    top: 171px;
+  }
+  .quicktrade .ellipse-4-5ODmit {
+    top: 186px;
+  }
 }
 
 
@@ -1124,7 +1139,7 @@
     margin-top: 18%;
   }
   .quicktrade .image-9-QkTteQ {
-    margin-top: 57%;
+    margin-top: 51%;
   }
   .quicktrade .group-3-ossvxU {
     margin-top: 221px;
@@ -1171,6 +1186,15 @@
   .quicktrade .active-swap-request-JVMFxg {
     left: -2px;
   }
+  .quicktrade .ellipse-4-5ODmit {
+    top: 152px;
+  }
+  .quicktrade .cancel-a-swap-order-5ODmit {
+    top: 138px;
+  }
+  .quicktrade .select-any-of-t-ore-information-5ODmit {
+    top: calc(25.95% - 19px);
+  }
 }
 
 
@@ -1213,7 +1237,7 @@
     margin-top: -30%;
   }
   .oswald-light-nero-35px {
-    font-size: 21px !important;
+    font-size: 19px !important;
   }
   .segoeui-regular-normal-nero-20px {
     font-size: 10px !important;
@@ -1260,6 +1284,15 @@
   }
   .quicktrade .flex-col-dXBp89 {
     margin-top: -46%;
+  }
+  .quicktrade .view-and-keep-t-are-in-progress-5ODmit {
+    line-height: 23px;
+  }
+  .quicktrade .ellipse-4-5ODmit {
+    top: 135px;
+  }
+  .quicktrade .cancel-a-swap-order-5ODmit {
+    top: 121px;
   }
 }
 
