@@ -1096,7 +1096,7 @@
   .addfunds .select-the-paym-ent-by-currency-wcA9lP,
    .addfunds .manual-payments-nto-your-wallet-aewt80,
    .addfunds .automatic-payme-for-transaction-aewt80 {
-     font-size: 14px !important;
+     font-size: 13px !important;
    }
    .addfunds .group-9-0PZcXW {
      left: 27px;
@@ -1149,9 +1149,6 @@
   }
   .addfunds .adding-funds-to-ounts-made-easy-0PZcXW {
     font-size: 24px !important;
-  }
-  .addfunds .select-the-paym-ent-by-currency-wcA9lP {
-    font-size: 13px;
   }
 }
 
