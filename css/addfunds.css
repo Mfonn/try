@@ -798,20 +798,20 @@
 
 @media (max-width: 1500px) {
   .addfunds .swaps-fx-portal-user-guide-y1HRxC {
-    font-size: 80px;
+    font-size: 78px;
     line-height: 71px;
     top: 190px;
   }
   .addfunds .everything-you-se-our-services-y1HRxC  {
     top: 338px;
-    font-size: 45px !important;
+    font-size: 43px !important;
     width: 500px;
   }
   .addfunds .line-8-0xy0vn {
     margin-top: 17%;
   }
   .addfunds .add-funds-y1HRxC {
-    font-size: 98.5px;
+    font-size: 91.5px;
     top: 135%;
   }
   .addfunds .flex-row-C61RwL {
@@ -1149,6 +1149,9 @@
   }
   .addfunds .adding-funds-to-ounts-made-easy-0PZcXW {
     font-size: 24px !important;
+  }
+  .addfunds .select-the-paym-ent-by-currency-wcA9lP {
+    font-size: 13px;
   }
 }
 
