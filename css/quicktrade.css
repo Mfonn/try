@@ -25,6 +25,7 @@
   position: absolute;
   text-align: left;
   width: 90%;
+  top: -92px;
 }
 .quicktrade .active-swap-request-JVMFxg {
   background-color: transparent;
@@ -92,7 +93,7 @@
   position: absolute;
   text-align: left;
   width: 90%;
-  margin-top: 37%;
+  top: -176px;
 }
 .quicktrade .ellipse-1-5ODmit {
   background-color: var(--nero);
@@ -187,7 +188,7 @@
   position: absolute;
   text-align: left;
   text-decoration: underline;
-  top: calc(44.64% - 13px);
+  top: calc(47.64% - 13px);
   white-space: nowrap;
   width: calc(100.00% - 39px);
 }
@@ -329,9 +330,9 @@
 }
 .quicktrade .group-6-wbR61n {
   background-color: transparent;
-  left: 23px;
+  left: 60px;
   position: absolute;
-  top: 63px;
+  top: 22%;
   height: 564px;
   width: 100%;
 }
@@ -342,7 +343,7 @@
   left: 13px;
   position: absolute;
   width:90%;
-  top: 54%;
+  top: 60%;
 }
 .quicktrade .image-10-nlxkfa {
   background-color: transparent;
@@ -652,7 +653,6 @@
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: -5px;
   width: calc(100.00% - 16px);
 }
 .quicktrade .view-your-reque-from-one-glance-5ODmit {
@@ -760,6 +760,9 @@
   .quicktrade .line-8-0xy0vn {
     margin-top: 15%;
   }
+  .quicktrade .group-6-wbR61n {
+    left: 43px;
+  }
 }
 
 
@@ -820,10 +823,10 @@
     font-size: 68px !important;
   }
   .oswald-light-nero-35px {
-    font-size: 35px;
+    font-size: 45px;
   }
   .segoeui-regular-normal-nero-20px {
-    font-size: 20px;
+    font-size: 24px;
   }
   
   .quicktrade .line-8-0xy0vn {
@@ -886,21 +889,24 @@
     margin-top: -4%;
   }
   .quicktrade .quick-swap-T8HKK8 {
-    margin-top: -174px;
+    margin-top: -206px;
     margin-left: 9%;
+  }
+  .quicktrade .a-summary-view-the-marketplace-JVMFxg {
+    top: -122px;
+  }
+  .quicktrade .my-active-orders-wbR61n {
+    left: 16%;
   }
   .quicktrade .easily-select-y-your-swap-order-T8HKK8 {
     line-height: 21px;
-    top: -124px;
+    top: -147px;
   }
   .quicktrade .features-of-quick-trade-HRxdjE {
     top: 131px;
   }
   .quicktrade .group-7-HRxdjE {
     top: 60%;
-  }
-  .quicktrade .easily-select-y-your-swap-order-T8HKK8 {
-    top: -213px;
   }
   .quicktrade .lines {
     position: relative;
@@ -910,6 +916,7 @@
   }
   .quicktrade .group-6-wbR61n {
     height: 428px;
+    top: 15%;
   }
   .quicktrade .group-2-GyJUNH {
     margin-top: 14%;
@@ -987,7 +994,7 @@
     margin-left: 6%;
     width: 90%;
     position: relative;
-    top: 0px;
+    top: 8px;
   }
   .quicktrade .image-9-QkTteQ {
     margin-top: 37%;
@@ -1195,6 +1202,9 @@
   .quicktrade .select-any-of-t-ore-information-5ODmit {
     top: calc(25.95% - 19px);
   }
+  .quicktrade .view-and-keep-t-are-in-progress-5ODmit {
+    line-height: 21px;
+  }
 }
 
 
@@ -1225,6 +1235,9 @@
     font-size: 16.9px !important;
     width: 153px;
     line-height: 14px;
+  }
+  .quicktrade .select-any-of-t-ore-information-5ODmit {
+    line-height: 28px;
   }
   .quicktrade .quick-trade-y1HRxC {
     margin-top: 22%;
@@ -1286,7 +1299,7 @@
     margin-top: -46%;
   }
   .quicktrade .view-and-keep-t-are-in-progress-5ODmit {
-    line-height: 23px;
+    line-height: 20px;
   }
   .quicktrade .ellipse-4-5ODmit {
     top: 135px;
